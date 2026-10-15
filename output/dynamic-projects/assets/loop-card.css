@@ -1,0 +1,17 @@
+/* Scoped to the imported native Loop Item. */
+.sx-live-card{font-family:Outfit,Arial,sans-serif;position:relative!important;min-height:398px;min-width:0;width:100%;height:100%;padding:24px 18px!important;display:flex;flex-direction:column;justify-content:flex-end;gap:0!important;overflow:hidden!important;border:1px solid #ffffff20!important;border-radius:20px!important;background:#152332!important;box-shadow:none!important;isolation:isolate;animation:none!important}
+.sx-live-card:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#07152005 20%,#07152070 55%,#071520f5 100%);pointer-events:none}
+.sx-live-card>.elementor-widget-image{position:absolute!important;inset:0;width:100%!important;height:100%;margin:0!important;z-index:-2;opacity:1!important;filter:none!important}
+.sx-live-card>.elementor-widget-image .elementor-widget-container,.sx-live-card>.elementor-widget-image a,.sx-live-card>.elementor-widget-image picture{display:block;width:100%;height:100%}
+.sx-live-card>.elementor-widget-image img{width:100%!important;height:100%!important;object-fit:cover;border-radius:0!important;opacity:1!important;filter:none!important}
+.sx-live-card>.elementor-widget-icon-box{width:100%;margin:0!important;position:relative;z-index:1}
+.sx-live-card .elementor-icon-box-wrapper,.sx-live-card .elementor-icon-box-content{text-align:start!important}
+.sx-live-card .elementor-icon-box-icon,.sx-live-card .elementor-icon-box-description{display:none}
+.sx-live-card .elementor-icon-box-title{font-family:inherit!important;font-size:15px!important;line-height:1.4!important;font-weight:500!important;margin:0!important;color:#fff!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sx-live-card .elementor-icon-box-title a{color:inherit;text-decoration:none}
+.sx-live-card a:focus-visible{outline:3px solid #f49376;outline-offset:4px}
+.sx-live-card>.elementor-widget-html{position:absolute!important;inline-size:0!important;block-size:0!important;overflow:hidden;margin:0!important;padding:0!important}
+@media(max-width:600px){.sx-live-card{min-height:380px;padding:24px 20px!important}.sx-live-card .elementor-icon-box-title{white-space:normal;font-size:20px!important}}
+
+.sx-live-card .sx-live-term{position:relative;z-index:1;margin:0 0 12px!important}
+.sx-live-card .sx-live-term .elementor-heading-title{display:inline-block;color:#fff;font-size:11px;line-height:1.35;font-weight:400;padding:6px 10px;background:#ffffff24;border:1px solid #ffffff30;border-radius:30px}

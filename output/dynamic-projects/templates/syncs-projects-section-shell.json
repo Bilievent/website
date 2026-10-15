@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "id": "52ab001",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "css_classes": "sx-live-projects",
+        "flex_direction": "column"
+      },
+      "isInner": false,
+      "elements": [
+        {
+          "id": "52ab002",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "css_classes": "sx-live-intro",
+            "flex_direction": "column"
+          },
+          "isInner": true,
+          "elements": [
+            {
+              "id": "52ab003",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Selected Projects",
+                "header_size": "p"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "52ab004",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Experiences that stay with you.",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ]
+        },
+        {
+          "id": "52ab005",
+          "elType": "widget",
+          "widgetType": "html",
+          "settings": {
+            "html": "<style>\n/* Add sx-live-projects to the OUTER section and sx-live-grid to its Loop Grid widget. */\n.sx-live-projects{--sx-bg:#071520;--sx-accent:#f49376;background:var(--sx-bg);color:#fff;overflow:hidden;padding:80px max(24px,calc((100% - 1120px)/2)) 64px!important;gap:28px!important}\n.sx-live-projects>.e-con-inner{width:100%;gap:28px}\n.sx-live-projects .sx-live-intro{padding:0;gap:22px!important;text-align:center;margin-bottom:20px}\n.sx-live-projects .sx-live-intro .elementor-heading-title{margin:0;color:#fff;line-height:1.18;font-size:clamp(30px,3.3vw,46px);font-weight:500;letter-spacing:-.035em}\n.sx-live-projects .sx-live-intro>.elementor-widget:first-child .elementor-heading-title{color:var(--sx-accent);font-size:16px;letter-spacing:.04em;font-weight:500}\n.sx-live-projects .sx-live-grid{width:100%;min-width:0;margin:0!important}\n.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-count:4;--sx-denom:5.9;--sx-gap:20px;--sx-small:calc((100% - (var(--sx-count) - 1)*var(--sx-gap))/var(--sx-denom));display:flex!important;flex-flow:row nowrap!important;gap:var(--sx-gap)!important;align-items:center;min-width:0;min-height:444px;padding-block:4px 12px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#52606a transparent}\n.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item{flex:0 0 var(--sx-small)!important;min-width:0;width:var(--sx-small)!important;max-width:none!important;margin:0!important;transition:flex-basis .45s ease,width .45s ease;align-self:center}\n.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:398px;min-height:0;transition:height .45s ease}\n.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex-basis:calc(var(--sx-small)*2.9)!important;width:calc(var(--sx-small)*2.9)!important}\n.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:444px}\n.sx-live-projects .sx-live-grid .sx-is-active .elementor-icon-box-title{white-space:normal;font-size:20px!important}\n.sx-live-projects .sx-live-controls{display:flex;justify-content:center;align-items:center;gap:18px;margin:0 auto;color:#fff}\n.sx-live-projects .sx-live-controls[hidden]{display:none!important}\n.sx-live-projects .sx-live-controls button{width:44px;height:44px;border:1px solid #ffffff65;border-radius:50%;background:#ffffff12;color:#fff;font:22px Arial,sans-serif;padding:0;cursor:pointer}\n.sx-live-projects .sx-live-controls button:hover{background:#ffffff30}\n.sx-live-projects .sx-live-controls button:disabled{opacity:.4;cursor:default}\n.sx-live-projects .sx-live-controls [role=status]{font-size:12px;color:#c5cdd5;min-width:50px;text-align:center;font-variant-numeric:tabular-nums}\n.sx-live-projects :is(a,button,[tabindex]):focus-visible{outline:3px solid var(--sx-accent);outline-offset:4px}\n@media(max-width:1024px){.sx-live-projects{padding:60px 28px!important}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:340px}.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:390px}}\n@media(max-width:600px){.sx-live-projects{padding:48px 20px!important}.sx-live-projects .sx-live-intro{margin-bottom:0}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px;scroll-snap-type:x mandatory;align-items:stretch}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex:0 0 86%!important;width:86%!important;scroll-snap-align:center}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card,.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:380px}.sx-live-projects .sx-live-grid .elementor-icon-box-title{white-space:normal;font-size:20px!important}}\n@media(prefers-reduced-motion:reduce){.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{transition:none!important}}\n\n</style>\n<nav class=\"sx-live-controls\" aria-label=\"Browse projects\" hidden><button class=\"sx-live-prev\" type=\"button\" aria-label=\"Previous project\">&#8592;</button><span role=\"status\" aria-live=\"polite\" aria-atomic=\"true\">0 / 0</span><button class=\"sx-live-next\" type=\"button\" aria-label=\"Next project\">&#8594;</button></nav>\n<script>\n/* Observe native Loop Grid output; never replace its query, filter or project links. */\n(()=>{\n  if(window.__syncsLiveProjectsV1){window.__syncsLiveProjectsV1.scan();return;}\n  const states=new WeakMap();\n  window.__syncsLiveProjectsV1={scan};\n  const mobile=()=>matchMedia('(max-width:600px)').matches;\n  const reduced=()=>matchMedia('(prefers-reduced-motion:reduce)').matches;\n  function mount(root){\n    if(states.has(root))return;\n    const state={track:null,items:[],active:null,frame:0,scrollFrame:0};\n    states.set(root,state);\n    function announce(){\n      const controls=root.querySelector('.sx-live-controls');\n      if(!controls)return;\n      controls.hidden=state.items.length===0;\n      const status=controls.querySelector('[role=status]');\n      const text=state.items.length?`${state.items.indexOf(state.active)+1} / ${state.items.length}`:'0 / 0';\n      if(status&&status.textContent!==text)status.textContent=text;\n      controls.querySelectorAll('button').forEach(button=>button.disabled=state.items.length<2);\n    }\n    function select(item,scroll=false){\n      if(!item||!state.items.includes(item))return;\n      state.active=item;\n      state.items.forEach(card=>{\n        const selected=card===item;\n        if(card.classList.contains('sx-is-active')!==selected)card.classList.toggle('sx-is-active',selected);\n      });\n      announce();\n      if(scroll&&state.track){\n        const rect=item.getBoundingClientRect(),trackRect=state.track.getBoundingClientRect();\n        state.track.scrollBy({left:rect.left-trackRect.left-(state.track.clientWidth-rect.width)/2,behavior:reduced()?'instant':'smooth'});\n      }\n    }\n    function sync(){\n      const track=root.querySelector('.sx-live-grid .elementor-loop-container');\n      state.track=track;\n      state.items=track?Array.from(track.children).filter(el=>el.matches('.e-loop-item')&&!el.hidden&&getComputedStyle(el).display!=='none'):[];\n      if(track){\n        const visibleSlots=Math.max(1,Math.min(4,state.items.length));\n        track.style.setProperty('--sx-count',String(visibleSlots));\n        track.style.setProperty('--sx-denom',String(visibleSlots+1.9));\n        track.setAttribute('tabindex','0');\n        track.setAttribute('role','region');\n        track.setAttribute('aria-label','Projects. Use left and right arrow keys to browse.');\n      }\n      if(!state.items.includes(state.active))state.active=state.items[mobile()?0:Math.min(2,state.items.length-1)]||null;\n      if(state.active)select(state.active);else announce();\n    }\n    function schedule(){cancelAnimationFrame(state.frame);state.frame=requestAnimationFrame(sync)}\n    function step(delta){\n      if(!state.items.length)return;\n      select(state.items[(state.items.indexOf(state.active)+delta+state.items.length)%state.items.length],true);\n    }\n    root.addEventListener('click',event=>{\n      const button=event.target.closest('.sx-live-prev,.sx-live-next');\n      if(button&&button.closest('.sx-live-projects')===root)step(button.matches('.sx-live-next')?1:-1);\n    });\n    root.addEventListener('pointerover',event=>{\n      if(mobile()||!matchMedia('(hover:hover)').matches)return;\n      const item=event.target.closest('.e-loop-item');\n      if(state.items.includes(item))select(item);\n    });\n    root.addEventListener('focusin',event=>{\n      const item=event.target.closest('.e-loop-item');\n      if(state.items.includes(item))select(item);\n    });\n    root.addEventListener('keydown',event=>{\n      if(event.target!==state.track||!['ArrowRight','ArrowLeft'].includes(event.key))return;\n      event.preventDefault();\n      const rtl=getComputedStyle(state.track).direction==='rtl';\n      step((event.key==='ArrowRight'?1:-1)*(rtl?-1:1));\n    });\n    root.addEventListener('scroll',event=>{\n      if(!mobile()||event.target!==state.track)return;\n      cancelAnimationFrame(state.scrollFrame);\n      state.scrollFrame=requestAnimationFrame(()=>{\n        if(!state.items.length)return;\n        const rect=state.track.getBoundingClientRect(),center=rect.left+rect.width/2;\n        const distance=item=>{const r=item.getBoundingClientRect();return Math.abs(r.left+r.width/2-center)};\n        select(state.items.reduce((best,item)=>distance(item)<distance(best)?item:best));\n      });\n    },true);\n    // Native taxonomy-filter AJAX may replace the track or its children. No filter event names are assumed.\n    new MutationObserver(records=>{\n      if(records.some(record=>record.type==='childList'))schedule();\n    }).observe(root,{childList:true,subtree:true});\n    sync();\n  }\n  function scan(){document.querySelectorAll('.sx-live-projects').forEach(mount)}\n  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',scan);else scan();\n  if(window.jQuery)window.jQuery(window).on('elementor/frontend/init',()=>{\n    if(window.elementorFrontend)window.elementorFrontend.hooks.addAction('frontend/element_ready/global',scan);\n  });\n})();\n\n</script>"
+          },
+          "elements": [],
+          "isInner": false
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "SYNCs — Projects section shell (add native Loop Grid + Taxonomy Filter)",
+  "type": "container"
+}

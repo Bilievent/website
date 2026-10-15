@@ -1,0 +1,124 @@
+<style>
+/* Add sx-live-projects to the OUTER section and sx-live-grid to its Loop Grid widget. */
+.sx-live-projects{--sx-bg:#071520;--sx-accent:#f49376;background:var(--sx-bg);color:#fff;overflow:hidden;padding:80px max(24px,calc((100% - 1120px)/2)) 64px!important;gap:28px!important}
+.sx-live-projects>.e-con-inner{width:100%;gap:28px}
+.sx-live-projects .sx-live-intro{padding:0;gap:22px!important;text-align:center;margin-bottom:20px}
+.sx-live-projects .sx-live-intro .elementor-heading-title{margin:0;color:#fff;line-height:1.18;font-size:clamp(30px,3.3vw,46px);font-weight:500;letter-spacing:-.035em}
+.sx-live-projects .sx-live-intro>.elementor-widget:first-child .elementor-heading-title{color:var(--sx-accent);font-size:16px;letter-spacing:.04em;font-weight:500}
+.sx-live-projects .sx-live-grid{width:100%;min-width:0;margin:0!important}
+.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-count:4;--sx-denom:5.9;--sx-gap:20px;--sx-small:calc((100% - (var(--sx-count) - 1)*var(--sx-gap))/var(--sx-denom));display:flex!important;flex-flow:row nowrap!important;gap:var(--sx-gap)!important;align-items:center;min-width:0;min-height:444px;padding-block:4px 12px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#52606a transparent}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item{flex:0 0 var(--sx-small)!important;min-width:0;width:var(--sx-small)!important;max-width:none!important;margin:0!important;transition:flex-basis .45s ease,width .45s ease;align-self:center}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:398px;min-height:0;transition:height .45s ease}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex-basis:calc(var(--sx-small)*2.9)!important;width:calc(var(--sx-small)*2.9)!important}
+.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:444px}
+.sx-live-projects .sx-live-grid .sx-is-active .elementor-icon-box-title{white-space:normal;font-size:20px!important}
+.sx-live-projects .sx-live-controls{display:flex;justify-content:center;align-items:center;gap:18px;margin:0 auto;color:#fff}
+.sx-live-projects .sx-live-controls[hidden]{display:none!important}
+.sx-live-projects .sx-live-controls button{width:44px;height:44px;border:1px solid #ffffff65;border-radius:50%;background:#ffffff12;color:#fff;font:22px Arial,sans-serif;padding:0;cursor:pointer}
+.sx-live-projects .sx-live-controls button:hover{background:#ffffff30}
+.sx-live-projects .sx-live-controls button:disabled{opacity:.4;cursor:default}
+.sx-live-projects .sx-live-controls [role=status]{font-size:12px;color:#c5cdd5;min-width:50px;text-align:center;font-variant-numeric:tabular-nums}
+.sx-live-projects :is(a,button,[tabindex]):focus-visible{outline:3px solid var(--sx-accent);outline-offset:4px}
+@media(max-width:1024px){.sx-live-projects{padding:60px 28px!important}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:340px}.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:390px}}
+@media(max-width:600px){.sx-live-projects{padding:48px 20px!important}.sx-live-projects .sx-live-intro{margin-bottom:0}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px;scroll-snap-type:x mandatory;align-items:stretch}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex:0 0 86%!important;width:86%!important;scroll-snap-align:center}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card,.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:380px}.sx-live-projects .sx-live-grid .elementor-icon-box-title{white-space:normal;font-size:20px!important}}
+@media(prefers-reduced-motion:reduce){.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{transition:none!important}}
+
+</style>
+<nav class="sx-live-controls" aria-label="Browse projects" hidden><button class="sx-live-prev" type="button" aria-label="Previous project">&#8592;</button><span role="status" aria-live="polite" aria-atomic="true">0 / 0</span><button class="sx-live-next" type="button" aria-label="Next project">&#8594;</button></nav>
+<script>
+/* Observe native Loop Grid output; never replace its query, filter or project links. */
+(()=>{
+  if(window.__syncsLiveProjectsV1){window.__syncsLiveProjectsV1.scan();return;}
+  const states=new WeakMap();
+  window.__syncsLiveProjectsV1={scan};
+  const mobile=()=>matchMedia('(max-width:600px)').matches;
+  const reduced=()=>matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function mount(root){
+    if(states.has(root))return;
+    const state={track:null,items:[],active:null,frame:0,scrollFrame:0};
+    states.set(root,state);
+    function announce(){
+      const controls=root.querySelector('.sx-live-controls');
+      if(!controls)return;
+      controls.hidden=state.items.length===0;
+      const status=controls.querySelector('[role=status]');
+      const text=state.items.length?`${state.items.indexOf(state.active)+1} / ${state.items.length}`:'0 / 0';
+      if(status&&status.textContent!==text)status.textContent=text;
+      controls.querySelectorAll('button').forEach(button=>button.disabled=state.items.length<2);
+    }
+    function select(item,scroll=false){
+      if(!item||!state.items.includes(item))return;
+      state.active=item;
+      state.items.forEach(card=>{
+        const selected=card===item;
+        if(card.classList.contains('sx-is-active')!==selected)card.classList.toggle('sx-is-active',selected);
+      });
+      announce();
+      if(scroll&&state.track){
+        const rect=item.getBoundingClientRect(),trackRect=state.track.getBoundingClientRect();
+        state.track.scrollBy({left:rect.left-trackRect.left-(state.track.clientWidth-rect.width)/2,behavior:reduced()?'instant':'smooth'});
+      }
+    }
+    function sync(){
+      const track=root.querySelector('.sx-live-grid .elementor-loop-container');
+      state.track=track;
+      state.items=track?Array.from(track.children).filter(el=>el.matches('.e-loop-item')&&!el.hidden&&getComputedStyle(el).display!=='none'):[];
+      if(track){
+        const visibleSlots=Math.max(1,Math.min(4,state.items.length));
+        track.style.setProperty('--sx-count',String(visibleSlots));
+        track.style.setProperty('--sx-denom',String(visibleSlots+1.9));
+        track.setAttribute('tabindex','0');
+        track.setAttribute('role','region');
+        track.setAttribute('aria-label','Projects. Use left and right arrow keys to browse.');
+      }
+      if(!state.items.includes(state.active))state.active=state.items[mobile()?0:Math.min(2,state.items.length-1)]||null;
+      if(state.active)select(state.active);else announce();
+    }
+    function schedule(){cancelAnimationFrame(state.frame);state.frame=requestAnimationFrame(sync)}
+    function step(delta){
+      if(!state.items.length)return;
+      select(state.items[(state.items.indexOf(state.active)+delta+state.items.length)%state.items.length],true);
+    }
+    root.addEventListener('click',event=>{
+      const button=event.target.closest('.sx-live-prev,.sx-live-next');
+      if(button&&button.closest('.sx-live-projects')===root)step(button.matches('.sx-live-next')?1:-1);
+    });
+    root.addEventListener('pointerover',event=>{
+      if(mobile()||!matchMedia('(hover:hover)').matches)return;
+      const item=event.target.closest('.e-loop-item');
+      if(state.items.includes(item))select(item);
+    });
+    root.addEventListener('focusin',event=>{
+      const item=event.target.closest('.e-loop-item');
+      if(state.items.includes(item))select(item);
+    });
+    root.addEventListener('keydown',event=>{
+      if(event.target!==state.track||!['ArrowRight','ArrowLeft'].includes(event.key))return;
+      event.preventDefault();
+      const rtl=getComputedStyle(state.track).direction==='rtl';
+      step((event.key==='ArrowRight'?1:-1)*(rtl?-1:1));
+    });
+    root.addEventListener('scroll',event=>{
+      if(!mobile()||event.target!==state.track)return;
+      cancelAnimationFrame(state.scrollFrame);
+      state.scrollFrame=requestAnimationFrame(()=>{
+        if(!state.items.length)return;
+        const rect=state.track.getBoundingClientRect(),center=rect.left+rect.width/2;
+        const distance=item=>{const r=item.getBoundingClientRect();return Math.abs(r.left+r.width/2-center)};
+        select(state.items.reduce((best,item)=>distance(item)<distance(best)?item:best));
+      });
+    },true);
+    // Native taxonomy-filter AJAX may replace the track or its children. No filter event names are assumed.
+    new MutationObserver(records=>{
+      if(records.some(record=>record.type==='childList'))schedule();
+    }).observe(root,{childList:true,subtree:true});
+    sync();
+  }
+  function scan(){document.querySelectorAll('.sx-live-projects').forEach(mount)}
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',scan);else scan();
+  if(window.jQuery)window.jQuery(window).on('elementor/frontend/init',()=>{
+    if(window.elementorFrontend)window.elementorFrontend.hooks.addAction('frontend/element_ready/global',scan);
+  });
+})();
+
+</script>

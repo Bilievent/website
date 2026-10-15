@@ -1,0 +1,23 @@
+/* Add sx-live-projects to the OUTER section and sx-live-grid to its Loop Grid widget. */
+.sx-live-projects{--sx-bg:#071520;--sx-accent:#f49376;background:var(--sx-bg);color:#fff;overflow:hidden;padding:80px max(24px,calc((100% - 1120px)/2)) 64px!important;gap:28px!important}
+.sx-live-projects>.e-con-inner{width:100%;gap:28px}
+.sx-live-projects .sx-live-intro{padding:0;gap:22px!important;text-align:center;margin-bottom:20px}
+.sx-live-projects .sx-live-intro .elementor-heading-title{margin:0;color:#fff;line-height:1.18;font-size:clamp(30px,3.3vw,46px);font-weight:500;letter-spacing:-.035em}
+.sx-live-projects .sx-live-intro>.elementor-widget:first-child .elementor-heading-title{color:var(--sx-accent);font-size:16px;letter-spacing:.04em;font-weight:500}
+.sx-live-projects .sx-live-grid{width:100%;min-width:0;margin:0!important}
+.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-count:4;--sx-denom:5.9;--sx-gap:20px;--sx-small:calc((100% - (var(--sx-count) - 1)*var(--sx-gap))/var(--sx-denom));display:flex!important;flex-flow:row nowrap!important;gap:var(--sx-gap)!important;align-items:center;min-width:0;min-height:444px;padding-block:4px 12px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#52606a transparent}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item{flex:0 0 var(--sx-small)!important;min-width:0;width:var(--sx-small)!important;max-width:none!important;margin:0!important;transition:flex-basis .45s ease,width .45s ease;align-self:center}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:398px;min-height:0;transition:height .45s ease}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex-basis:calc(var(--sx-small)*2.9)!important;width:calc(var(--sx-small)*2.9)!important}
+.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:444px}
+.sx-live-projects .sx-live-grid .sx-is-active .elementor-icon-box-title{white-space:normal;font-size:20px!important}
+.sx-live-projects .sx-live-controls{display:flex;justify-content:center;align-items:center;gap:18px;margin:0 auto;color:#fff}
+.sx-live-projects .sx-live-controls[hidden]{display:none!important}
+.sx-live-projects .sx-live-controls button{width:44px;height:44px;border:1px solid #ffffff65;border-radius:50%;background:#ffffff12;color:#fff;font:22px Arial,sans-serif;padding:0;cursor:pointer}
+.sx-live-projects .sx-live-controls button:hover{background:#ffffff30}
+.sx-live-projects .sx-live-controls button:disabled{opacity:.4;cursor:default}
+.sx-live-projects .sx-live-controls [role=status]{font-size:12px;color:#c5cdd5;min-width:50px;text-align:center;font-variant-numeric:tabular-nums}
+.sx-live-projects :is(a,button,[tabindex]):focus-visible{outline:3px solid var(--sx-accent);outline-offset:4px}
+@media(max-width:1024px){.sx-live-projects{padding:60px 28px!important}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:340px}.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:390px}}
+@media(max-width:600px){.sx-live-projects{padding:48px 20px!important}.sx-live-projects .sx-live-intro{margin-bottom:0}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px;scroll-snap-type:x mandatory;align-items:stretch}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex:0 0 86%!important;width:86%!important;scroll-snap-align:center}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card,.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:380px}.sx-live-projects .sx-live-grid .elementor-icon-box-title{white-space:normal;font-size:20px!important}}
+@media(prefers-reduced-motion:reduce){.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{transition:none!important}}

@@ -1,0 +1,145 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Dynamic loop layout — simulated data only</title><style>*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:#071520}.elementor-widget{min-width:0}.e-con{display:flex;flex-direction:column}.mock-filters{display:flex;justify-content:center;flex-wrap:wrap;gap:10px}.mock-filters button{border:1px solid #ffffff40;border-radius:30px;padding:10px 16px;background:transparent;color:#fff;cursor:pointer}.mock-filters button[aria-pressed=true]{background:#f49376;color:#152332}.note{margin:0;text-align:center;font-size:12px;color:#bac5cf;padding:14px}</style></head><body><p class="note">Layout harness — simulated projects and filter; not an Elementor runtime</p><section class="sx-live-projects e-con"><div class="sx-live-intro e-con"><div class="elementor-widget"><p class="elementor-heading-title">Selected Projects</p></div><div class="elementor-widget"><h2 class="elementor-heading-title">Experiences that stay with you.</h2></div></div><nav class="mock-filters" aria-label="Simulated categories"><button data-filter="all" aria-pressed="true">All</button><button data-filter="events" aria-pressed="false">Events</button><button data-filter="exhibitions" aria-pressed="false">Exhibitions</button><button data-filter="empty" aria-pressed="false">Empty category</button></nav><div class="sx-live-grid elementor-widget-loop-grid"><div class="elementor-loop-container elementor-grid"><article class="elementor e-loop-item e-loop-item-1" data-mock-post="1"><div class="e-con sx-live-card"><div class="elementor-widget elementor-widget-image"><div class="elementor-widget-container"><a href="#mock-project-1"><img src="validation/fixtures/artwork-1.jpg" alt="Abstract test artwork"></a></div></div><div class="elementor-widget elementor-widget-icon-box"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-content"><h3 class="elementor-icon-box-title"><a href="#mock-project-1">An experience worth remembering</a></h3></div></div></div></div></div></article><article class="elementor e-loop-item e-loop-item-2" data-mock-post="2"><div class="e-con sx-live-card"><div class="elementor-widget elementor-widget-image"><div class="elementor-widget-container"><a href="#mock-project-2"><img src="validation/fixtures/artwork-2.jpg" alt="Abstract test artwork"></a></div></div><div class="elementor-widget elementor-widget-icon-box"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-content"><h3 class="elementor-icon-box-title"><a href="#mock-project-2">Ideas that connect people</a></h3></div></div></div></div></div></article><article class="elementor e-loop-item e-loop-item-3" data-mock-post="3"><div class="e-con sx-live-card"><div class="elementor-widget elementor-widget-image"><div class="elementor-widget-container"><a href="#mock-project-3"><img src="validation/fixtures/artwork-3.jpg" alt="Abstract test artwork"></a></div></div><div class="elementor-widget elementor-widget-icon-box"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-content"><h3 class="elementor-icon-box-title"><a href="#mock-project-3">Extraordinary projects. Perfectly in sync.</a></h3></div></div></div></div></div></article><article class="elementor e-loop-item e-loop-item-4" data-mock-post="4"><div class="e-con sx-live-card"><div class="elementor-widget elementor-widget-image"><div class="elementor-widget-container"><a href="#mock-project-4"><img src="validation/fixtures/artwork-4.jpg" alt="Abstract test artwork"></a></div></div><div class="elementor-widget elementor-widget-icon-box"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-content"><h3 class="elementor-icon-box-title"><a href="#mock-project-4">Celebrate what comes next</a></h3></div></div></div></div></div></article></div></div><style>
+/* Add sx-live-projects to the OUTER section and sx-live-grid to its Loop Grid widget. */
+.sx-live-projects{--sx-bg:#071520;--sx-accent:#f49376;background:var(--sx-bg);color:#fff;overflow:hidden;padding:80px max(24px,calc((100% - 1120px)/2)) 64px!important;gap:28px!important}
+.sx-live-projects>.e-con-inner{width:100%;gap:28px}
+.sx-live-projects .sx-live-intro{padding:0;gap:22px!important;text-align:center;margin-bottom:20px}
+.sx-live-projects .sx-live-intro .elementor-heading-title{margin:0;color:#fff;line-height:1.18;font-size:clamp(30px,3.3vw,46px);font-weight:500;letter-spacing:-.035em}
+.sx-live-projects .sx-live-intro>.elementor-widget:first-child .elementor-heading-title{color:var(--sx-accent);font-size:16px;letter-spacing:.04em;font-weight:500}
+.sx-live-projects .sx-live-grid{width:100%;min-width:0;margin:0!important}
+.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-count:4;--sx-denom:5.9;--sx-gap:20px;--sx-small:calc((100% - (var(--sx-count) - 1)*var(--sx-gap))/var(--sx-denom));display:flex!important;flex-flow:row nowrap!important;gap:var(--sx-gap)!important;align-items:center;min-width:0;min-height:444px;padding-block:4px 12px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#52606a transparent}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item{flex:0 0 var(--sx-small)!important;min-width:0;width:var(--sx-small)!important;max-width:none!important;margin:0!important;transition:flex-basis .45s ease,width .45s ease;align-self:center}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:398px;min-height:0;transition:height .45s ease}
+.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex-basis:calc(var(--sx-small)*2.9)!important;width:calc(var(--sx-small)*2.9)!important}
+.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:444px}
+.sx-live-projects .sx-live-grid .sx-is-active .elementor-icon-box-title{white-space:normal;font-size:20px!important}
+.sx-live-projects .sx-live-controls{display:flex;justify-content:center;align-items:center;gap:18px;margin:0 auto;color:#fff}
+.sx-live-projects .sx-live-controls[hidden]{display:none!important}
+.sx-live-projects .sx-live-controls button{width:44px;height:44px;border:1px solid #ffffff65;border-radius:50%;background:#ffffff12;color:#fff;font:22px Arial,sans-serif;padding:0;cursor:pointer}
+.sx-live-projects .sx-live-controls button:hover{background:#ffffff30}
+.sx-live-projects .sx-live-controls button:disabled{opacity:.4;cursor:default}
+.sx-live-projects .sx-live-controls [role=status]{font-size:12px;color:#c5cdd5;min-width:50px;text-align:center;font-variant-numeric:tabular-nums}
+.sx-live-projects :is(a,button,[tabindex]):focus-visible{outline:3px solid var(--sx-accent);outline-offset:4px}
+@media(max-width:1024px){.sx-live-projects{padding:60px 28px!important}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{height:340px}.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:390px}}
+@media(max-width:600px){.sx-live-projects{padding:48px 20px!important}.sx-live-projects .sx-live-intro{margin-bottom:0}.sx-live-projects .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px;scroll-snap-type:x mandatory;align-items:stretch}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex:0 0 86%!important;width:86%!important;scroll-snap-align:center}.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card,.sx-live-projects .sx-live-grid .sx-is-active .sx-live-card{height:380px}.sx-live-projects .sx-live-grid .elementor-icon-box-title{white-space:normal;font-size:20px!important}}
+@media(prefers-reduced-motion:reduce){.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-live-projects .sx-live-grid .elementor-loop-container>.e-loop-item .sx-live-card{transition:none!important}}
+
+</style>
+<nav class="sx-live-controls" aria-label="Browse projects" hidden><button class="sx-live-prev" type="button" aria-label="Previous project">&#8592;</button><span role="status" aria-live="polite" aria-atomic="true">0 / 0</span><button class="sx-live-next" type="button" aria-label="Next project">&#8594;</button></nav>
+<script>
+/* Observe native Loop Grid output; never replace its query, filter or project links. */
+(()=>{
+  if(window.__syncsLiveProjectsV1){window.__syncsLiveProjectsV1.scan();return;}
+  const states=new WeakMap();
+  window.__syncsLiveProjectsV1={scan};
+  const mobile=()=>matchMedia('(max-width:600px)').matches;
+  const reduced=()=>matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function mount(root){
+    if(states.has(root))return;
+    const state={track:null,items:[],active:null,frame:0,scrollFrame:0};
+    states.set(root,state);
+    function announce(){
+      const controls=root.querySelector('.sx-live-controls');
+      if(!controls)return;
+      controls.hidden=state.items.length===0;
+      const status=controls.querySelector('[role=status]');
+      const text=state.items.length?`${state.items.indexOf(state.active)+1} / ${state.items.length}`:'0 / 0';
+      if(status&&status.textContent!==text)status.textContent=text;
+      controls.querySelectorAll('button').forEach(button=>button.disabled=state.items.length<2);
+    }
+    function select(item,scroll=false){
+      if(!item||!state.items.includes(item))return;
+      state.active=item;
+      state.items.forEach(card=>{
+        const selected=card===item;
+        if(card.classList.contains('sx-is-active')!==selected)card.classList.toggle('sx-is-active',selected);
+      });
+      announce();
+      if(scroll&&state.track){
+        const rect=item.getBoundingClientRect(),trackRect=state.track.getBoundingClientRect();
+        state.track.scrollBy({left:rect.left-trackRect.left-(state.track.clientWidth-rect.width)/2,behavior:reduced()?'instant':'smooth'});
+      }
+    }
+    function sync(){
+      const track=root.querySelector('.sx-live-grid .elementor-loop-container');
+      state.track=track;
+      state.items=track?Array.from(track.children).filter(el=>el.matches('.e-loop-item')&&!el.hidden&&getComputedStyle(el).display!=='none'):[];
+      if(track){
+        const visibleSlots=Math.max(1,Math.min(4,state.items.length));
+        track.style.setProperty('--sx-count',String(visibleSlots));
+        track.style.setProperty('--sx-denom',String(visibleSlots+1.9));
+        track.setAttribute('tabindex','0');
+        track.setAttribute('role','region');
+        track.setAttribute('aria-label','Projects. Use left and right arrow keys to browse.');
+      }
+      if(!state.items.includes(state.active))state.active=state.items[mobile()?0:Math.min(2,state.items.length-1)]||null;
+      if(state.active)select(state.active);else announce();
+    }
+    function schedule(){cancelAnimationFrame(state.frame);state.frame=requestAnimationFrame(sync)}
+    function step(delta){
+      if(!state.items.length)return;
+      select(state.items[(state.items.indexOf(state.active)+delta+state.items.length)%state.items.length],true);
+    }
+    root.addEventListener('click',event=>{
+      const button=event.target.closest('.sx-live-prev,.sx-live-next');
+      if(button&&button.closest('.sx-live-projects')===root)step(button.matches('.sx-live-next')?1:-1);
+    });
+    root.addEventListener('pointerover',event=>{
+      if(mobile()||!matchMedia('(hover:hover)').matches)return;
+      const item=event.target.closest('.e-loop-item');
+      if(state.items.includes(item))select(item);
+    });
+    root.addEventListener('focusin',event=>{
+      const item=event.target.closest('.e-loop-item');
+      if(state.items.includes(item))select(item);
+    });
+    root.addEventListener('keydown',event=>{
+      if(event.target!==state.track||!['ArrowRight','ArrowLeft'].includes(event.key))return;
+      event.preventDefault();
+      const rtl=getComputedStyle(state.track).direction==='rtl';
+      step((event.key==='ArrowRight'?1:-1)*(rtl?-1:1));
+    });
+    root.addEventListener('scroll',event=>{
+      if(!mobile()||event.target!==state.track)return;
+      cancelAnimationFrame(state.scrollFrame);
+      state.scrollFrame=requestAnimationFrame(()=>{
+        if(!state.items.length)return;
+        const rect=state.track.getBoundingClientRect(),center=rect.left+rect.width/2;
+        const distance=item=>{const r=item.getBoundingClientRect();return Math.abs(r.left+r.width/2-center)};
+        select(state.items.reduce((best,item)=>distance(item)<distance(best)?item:best));
+      });
+    },true);
+    // Native taxonomy-filter AJAX may replace the track or its children. No filter event names are assumed.
+    new MutationObserver(records=>{
+      if(records.some(record=>record.type==='childList'))schedule();
+    }).observe(root,{childList:true,subtree:true});
+    sync();
+  }
+  function scan(){document.querySelectorAll('.sx-live-projects').forEach(mount)}
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',scan);else scan();
+  if(window.jQuery)window.jQuery(window).on('elementor/frontend/init',()=>{
+    if(window.elementorFrontend)window.elementorFrontend.hooks.addAction('frontend/element_ready/global',scan);
+  });
+})();
+
+</script></section><style>/* Scoped to the imported native Loop Item. */
+.sx-live-card{font-family:Outfit,Arial,sans-serif;position:relative!important;min-height:398px;min-width:0;width:100%;height:100%;padding:24px 18px!important;display:flex;flex-direction:column;justify-content:flex-end;gap:0!important;overflow:hidden!important;border:1px solid #ffffff20!important;border-radius:20px!important;background:#152332!important;box-shadow:none!important;isolation:isolate;animation:none!important}
+.sx-live-card:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#07152005 20%,#07152070 55%,#071520f5 100%);pointer-events:none}
+.sx-live-card>.elementor-widget-image{position:absolute!important;inset:0;width:100%!important;height:100%;margin:0!important;z-index:-2;opacity:1!important;filter:none!important}
+.sx-live-card>.elementor-widget-image .elementor-widget-container,.sx-live-card>.elementor-widget-image a,.sx-live-card>.elementor-widget-image picture{display:block;width:100%;height:100%}
+.sx-live-card>.elementor-widget-image img{width:100%!important;height:100%!important;object-fit:cover;border-radius:0!important;opacity:1!important;filter:none!important}
+.sx-live-card>.elementor-widget-icon-box{width:100%;margin:0!important;position:relative;z-index:1}
+.sx-live-card .elementor-icon-box-wrapper,.sx-live-card .elementor-icon-box-content{text-align:start!important}
+.sx-live-card .elementor-icon-box-icon,.sx-live-card .elementor-icon-box-description{display:none}
+.sx-live-card .elementor-icon-box-title{font-family:inherit!important;font-size:15px!important;line-height:1.4!important;font-weight:500!important;margin:0!important;color:#fff!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sx-live-card .elementor-icon-box-title a{color:inherit;text-decoration:none}
+.sx-live-card a:focus-visible{outline:3px solid #f49376;outline-offset:4px}
+.sx-live-card>.elementor-widget-html{position:absolute!important;inline-size:0!important;block-size:0!important;overflow:hidden;margin:0!important;padding:0!important}
+@media(max-width:600px){.sx-live-card{min-height:380px;padding:24px 20px!important}.sx-live-card .elementor-icon-box-title{white-space:normal;font-size:20px!important}}
+
+.sx-live-card .sx-live-term{position:relative;z-index:1;margin:0 0 12px!important}
+.sx-live-card .sx-live-term .elementor-heading-title{display:inline-block;color:#fff;font-size:11px;line-height:1.35;font-weight:400;padding:6px 10px;background:#ffffff24;border:1px solid #ffffff30;border-radius:30px}
+</style><script>
+const mockCards={"1": "<article class=\"elementor e-loop-item e-loop-item-1\" data-mock-post=\"1\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-1\"><img src=\"validation/fixtures/artwork-1.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-1\">An experience worth remembering</a></h3></div></div></div></div></div></article>", "2": "<article class=\"elementor e-loop-item e-loop-item-2\" data-mock-post=\"2\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-2\"><img src=\"validation/fixtures/artwork-2.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-2\">Ideas that connect people</a></h3></div></div></div></div></div></article>", "3": "<article class=\"elementor e-loop-item e-loop-item-3\" data-mock-post=\"3\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-3\"><img src=\"validation/fixtures/artwork-3.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-3\">Extraordinary projects. Perfectly in sync.</a></h3></div></div></div></div></div></article>", "4": "<article class=\"elementor e-loop-item e-loop-item-4\" data-mock-post=\"4\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-4\"><img src=\"validation/fixtures/artwork-4.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-4\">Celebrate what comes next</a></h3></div></div></div></div></div></article>", "5": "<article class=\"elementor e-loop-item e-loop-item-5\" data-mock-post=\"5\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-5\"><img src=\"validation/fixtures/artwork-1.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-5\">An experience worth remembering</a></h3></div></div></div></div></div></article>", "6": "<article class=\"elementor e-loop-item e-loop-item-6\" data-mock-post=\"6\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-6\"><img src=\"validation/fixtures/artwork-2.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-6\">Ideas that connect people</a></h3></div></div></div></div></div></article>", "7": "<article class=\"elementor e-loop-item e-loop-item-7\" data-mock-post=\"7\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-7\"><img src=\"validation/fixtures/artwork-3.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-7\">Extraordinary projects. Perfectly in sync.</a></h3></div></div></div></div></div></article>", "8": "<article class=\"elementor e-loop-item e-loop-item-8\" data-mock-post=\"8\"><div class=\"e-con sx-live-card\"><div class=\"elementor-widget elementor-widget-image\"><div class=\"elementor-widget-container\"><a href=\"#mock-project-8\"><img src=\"validation/fixtures/artwork-4.jpg\" alt=\"Abstract test artwork\"></a></div></div><div class=\"elementor-widget elementor-widget-icon-box\"><div class=\"elementor-widget-container\"><div class=\"elementor-icon-box-wrapper\"><div class=\"elementor-icon-box-content\"><h3 class=\"elementor-icon-box-title\"><a href=\"#mock-project-8\">Celebrate what comes next</a></h3></div></div></div></div></div></article>"};
+window.mockRender=(ids,replaceTrack=false)=>{const grid=document.querySelector('.sx-live-grid');let track=grid.querySelector('.elementor-loop-container');if(replaceTrack){const replacement=document.createElement('div');replacement.className='elementor-loop-container elementor-grid';track.replaceWith(replacement);track=replacement;}track.innerHTML=ids.map(id=>mockCards[id]).join('');};
+document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));const ids={all:[1,2,3,4],events:[1,3],exhibitions:[2,4,6],empty:[]}[button.dataset.filter];mockRender(ids,true);}));
+</script></body></html>

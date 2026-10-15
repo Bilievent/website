@@ -1,0 +1,41 @@
+{
+  "renderer": "Local native-wrapper harness; WordPress/Elementor runtime not available",
+  "checks": [
+    {
+      "width": 1440,
+      "pageOverflow": false,
+      "buttons": "passed",
+      "keyboard": "passed",
+      "simulatedFilterReplace": "passed",
+      "emptyCategory": "passed",
+      "singleProject": "passed",
+      "newProjects": "passed",
+      "projectLinksPreserved": true
+    },
+    {
+      "width": 768,
+      "pageOverflow": false,
+      "buttons": "passed",
+      "keyboard": "passed",
+      "simulatedFilterReplace": "passed",
+      "emptyCategory": "passed",
+      "singleProject": "passed",
+      "newProjects": "passed",
+      "projectLinksPreserved": true
+    },
+    {
+      "width": 390,
+      "pageOverflow": false,
+      "buttons": "passed",
+      "keyboard": "passed",
+      "simulatedFilterReplace": "passed",
+      "emptyCategory": "passed",
+      "singleProject": "passed",
+      "newProjects": "passed",
+      "projectLinksPreserved": true
+    }
+  ],
+  "reducedMotion": "passed",
+  "duplicateInitialization": "passed",
+  "pageErrors": []
+}
