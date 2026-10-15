@@ -1,0 +1,31 @@
+{
+  "renderer": "Local HTML wrapper harness, not WordPress/Elementor",
+  "checks": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "cards": 4,
+      "active": 1,
+      "status": "03 / 04",
+      "nextPrevious": "passed"
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "cards": 4,
+      "active": 1,
+      "status": "03 / 04",
+      "nextPrevious": "passed"
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "cards": 4,
+      "active": 1,
+      "status": "01 / 04",
+      "nextPrevious": "passed"
+    }
+  ],
+  "reducedMotion": "passed",
+  "pageErrors": []
+}

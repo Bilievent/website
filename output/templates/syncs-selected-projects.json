@@ -1,0 +1,269 @@
+{
+  "version": "0.4",
+  "title": "SYNCs — Selected Projects (prototype)",
+  "type": "container",
+  "content": [
+    {
+      "id": "0000017",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "css_classes": "syncs-projects",
+        "_element_id": "syncs-projects"
+      },
+      "elements": [
+        {
+          "id": "0000013",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "css_classes": "sx-intro"
+          },
+          "elements": [
+            {
+              "id": "0000011",
+              "elType": "widget",
+              "settings": {
+                "title": "SELECTED PROJECTS",
+                "header_size": "p"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "0000012",
+              "elType": "widget",
+              "settings": {
+                "title": "Experiences that stay with you.",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000014",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "css_classes": "sx-track"
+          },
+          "elements": [
+            {
+              "id": "0000004",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "css_classes": "sx-card"
+              },
+              "elements": [
+                {
+                  "id": "0000001",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://syncs.com.sa/wp-content/uploads/syncs-projects/demo-project-1.jpg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "none",
+                    "link_to": "none"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "0000002",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Brand experiences",
+                    "header_size": "p"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "0000003",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "A moment. A lasting impression.",
+                    "header_size": "h3"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "0000008",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "css_classes": "sx-card"
+              },
+              "elements": [
+                {
+                  "id": "0000005",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://syncs.com.sa/wp-content/uploads/syncs-projects/demo-project-2.jpg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "none",
+                    "link_to": "none"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "0000006",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Exhibitions & forums",
+                    "header_size": "p"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "0000007",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Ideas that bring people together.",
+                    "header_size": "h3"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "000000c",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "css_classes": "sx-card sx-active"
+              },
+              "elements": [
+                {
+                  "id": "0000009",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://syncs.com.sa/wp-content/uploads/syncs-projects/demo-project-3.jpg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "none",
+                    "link_to": "none"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "000000a",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Signature experiences",
+                    "header_size": "p"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "000000b",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Extraordinary experiences. Perfectly in sync.",
+                    "header_size": "h3"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "0000010",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "css_classes": "sx-card"
+              },
+              "elements": [
+                {
+                  "id": "000000d",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://syncs.com.sa/wp-content/uploads/syncs-projects/demo-project-4.jpg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "none",
+                    "link_to": "none"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "000000e",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Corporate celebrations",
+                    "header_size": "p"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "000000f",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Celebrate what comes next.",
+                    "header_size": "h3"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000015",
+          "elType": "widget",
+          "settings": {
+            "html": "<style>\n.syncs-projects{--sx-bg:#071520;--sx-accent:#f49376;background:var(--sx-bg);color:#fff;padding:84px max(24px,calc((100vw - 1120px)/2)) 72px!important;display:flex;flex-direction:column;gap:0!important;font-family:Arial,sans-serif;overflow:hidden}\n.syncs-projects>.e-con-inner{max-width:none;width:100%;display:flex;flex-direction:column;gap:0}\n.syncs-projects .elementor-heading-title{color:inherit;margin:0;line-height:1.18}\n.syncs-projects .sx-intro{text-align:center;display:flex;flex-direction:column;gap:24px;margin-bottom:56px;padding:0}\n.syncs-projects .sx-intro>.elementor-widget:first-child .elementor-heading-title{color:var(--sx-accent);font-size:16px;font-weight:500;letter-spacing:.05em}\n.syncs-projects .sx-intro>.elementor-widget:last-child .elementor-heading-title{font-size:clamp(30px,3.3vw,46px);font-weight:500;letter-spacing:-.04em}\n.syncs-projects .sx-track{display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;gap:20px;padding:0;min-height:444px;width:100%}\n.syncs-projects .sx-card{position:relative;flex:1 1 0!important;width:0;min-width:0;height:398px;overflow:hidden;border-radius:20px;padding:0;display:flex;flex-direction:column;justify-content:flex-end;gap:10px;border:1px solid #ffffff18;transition:flex .55s ease,height .55s ease;isolation:isolate}\n.syncs-projects .sx-card.sx-active{flex:2.9 1 0!important;height:444px}\n.syncs-projects .sx-card:after{content:\"\";position:absolute;inset:0;background:linear-gradient(180deg,transparent 28%,#07101ac9 78%,#07101af5);z-index:-1;pointer-events:none}\n.syncs-projects .sx-card>.elementor-widget-image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;margin:0}\n.syncs-projects .sx-card>.elementor-widget-image .elementor-widget-container{height:100%}\n.syncs-projects .sx-card img{width:100%;height:100%;object-fit:cover;display:block}\n.syncs-projects .sx-card>.elementor-widget-heading{position:relative;margin:0 18px;width:calc(100% - 36px)}\n.syncs-projects .sx-card>.elementor-widget-heading:nth-child(2) .elementor-heading-title{display:inline-block;background:#ffffff21;border:1px solid #ffffff26;border-radius:30px;padding:6px 9px;font-size:11px;line-height:1.3;font-weight:400}\n.syncs-projects .sx-card>.elementor-widget-heading:last-child{margin-bottom:28px}\n.syncs-projects .sx-card h3{font-size:14px;font-weight:500;line-height:1.4;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.syncs-projects .sx-active h3{font-size:20px;white-space:normal}\n.syncs-projects .sx-controls{display:flex;align-items:center;justify-content:center;gap:18px;margin:28px 0 32px}\n.syncs-projects .sx-controls button{width:44px;height:44px;border:1px solid #ffffff55;border-radius:50%;color:white;background:#ffffff0d;font:22px Arial;cursor:pointer;padding:0}\n.syncs-projects .sx-controls button:hover{background:#ffffff25}\n.syncs-projects :is(button,a):focus-visible{outline:3px solid var(--sx-accent);outline-offset:5px}\n.syncs-projects .sx-status{font-size:12px;color:#c5cdd5;min-width:38px;text-align:center;font-variant-numeric:tabular-nums}\n.syncs-projects>.elementor-widget-button,.syncs-projects>.e-con-inner>.elementor-widget-button{text-align:center}\n.syncs-projects .elementor-button{background:var(--sx-accent);color:#17202b;border-radius:40px;padding:17px 28px;font-size:14px;font-weight:600;text-decoration:none}\n@media(max-width:1024px){.syncs-projects{padding:64px 28px!important}.syncs-projects .sx-track{gap:14px}.syncs-projects .sx-card{height:340px}.syncs-projects .sx-card.sx-active{height:390px;flex:2.4 1 0!important}.syncs-projects .sx-track{min-height:390px}.syncs-projects .sx-card>.elementor-widget-heading{margin-left:12px;margin-right:12px;width:calc(100% - 24px)}.syncs-projects .sx-active h3{font-size:17px}}\n@media(max-width:600px){.syncs-projects{padding:52px 20px!important}.syncs-projects .sx-intro{gap:18px;margin-bottom:32px}.syncs-projects .sx-track{overflow-x:auto;scroll-snap-type:x mandatory;min-height:390px;align-items:stretch;padding-bottom:8px;scrollbar-width:thin}.syncs-projects .sx-card,.syncs-projects .sx-card.sx-active{flex:0 0 86%!important;width:86%;height:380px;scroll-snap-align:center}.syncs-projects .sx-card h3{white-space:normal;font-size:20px}.syncs-projects .sx-card>.elementor-widget-heading{margin-left:20px;margin-right:20px;width:calc(100% - 40px)}.syncs-projects .sx-controls{margin:20px 0 28px}}\n@media(prefers-reduced-motion:reduce){.syncs-projects .sx-card{transition:none}.syncs-projects .sx-track{scroll-behavior:auto}}\n</style><nav class=\"sx-controls\" aria-label=\"Project carousel\"><button class=\"sx-prev\" type=\"button\" aria-label=\"Previous project\">&#8592;</button><span class=\"sx-status\" role=\"status\" aria-live=\"polite\">03 / 04</span><button class=\"sx-next\" type=\"button\" aria-label=\"Next project\">&#8594;</button></nav><script>(()=>{\nfunction init(root){\n if(root.dataset.sxReady)return;\n const track=root.querySelector('.sx-track'), cards=Array.from(root.querySelectorAll('.sx-card')), status=root.querySelector('.sx-status');\n if(!track||!cards.length||!status)return;\n root.dataset.sxReady='1';let index=2;\n function select(next,scroll){index=(next+cards.length)%cards.length;cards.forEach((card,i)=>card.classList.toggle('sx-active',i===index));status.textContent=String(index+1).padStart(2,'0')+' / '+String(cards.length).padStart(2,'0');if(scroll&&matchMedia('(max-width:600px)').matches){track.scrollTo({left:cards[index].offsetLeft-track.offsetLeft,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});}}\n root.querySelector('.sx-prev').addEventListener('click',()=>select(index-1,true));root.querySelector('.sx-next').addEventListener('click',()=>select(index+1,true));\n cards.forEach((card,i)=>{card.addEventListener('mouseenter',()=>{if(matchMedia('(hover:hover)').matches)select(i,false)});card.addEventListener('focusin',()=>select(i,false));});\n track.addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();select(index+(e.key==='ArrowRight'?1:-1),true)}});\n let frame;track.addEventListener('scroll',()=>{if(!matchMedia('(max-width:600px)').matches)return;cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{let nearest=0;cards.forEach((c,i)=>{if(Math.abs(c.offsetLeft-track.offsetLeft-track.scrollLeft)<Math.abs(cards[nearest].offsetLeft-track.offsetLeft-track.scrollLeft))nearest=i});select(nearest,false)})},{passive:true});\n track.setAttribute('tabindex','0');track.setAttribute('role','region');track.setAttribute('aria-label','Selected projects. Use left and right arrow keys to browse.');select(2,false);\n if(matchMedia('(max-width:600px)').matches)select(0,false);\n}\nfunction scan(){document.querySelectorAll('.syncs-projects').forEach(init)}\nif(document.readyState==='loading')document.addEventListener('DOMContentLoaded',scan);else scan();\nif(window.jQuery)window.jQuery(window).on('elementor/frontend/init',()=>{if(window.elementorFrontend)window.elementorFrontend.hooks.addAction('frontend/element_ready/global',scan)});\n})();</script>"
+          },
+          "elements": [],
+          "widgetType": "html"
+        },
+        {
+          "id": "0000016",
+          "elType": "widget",
+          "settings": {
+            "text": "Explore our work",
+            "link": {
+              "url": "#syncs-projects",
+              "is_external": "",
+              "nofollow": ""
+            }
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {}
+}
