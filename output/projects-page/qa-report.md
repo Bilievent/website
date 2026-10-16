@@ -22,7 +22,7 @@ No WordPress/Elementor Pro runtime or admin/staging connection is available. Act
 
 Original breadcrumb provider dependency remains. The existing Loop Item's custom icon is only visually hidden in this page, not deleted from the source document. Original H4 project title semantics remain; manual H3 adjustment is suggested in the guide. Only the currently loaded native results are navigable; the original cap is 30. Physical touch gestures, complete RTL, multiple copied page blocks and assistive-technology audits are unrun.
 
-The source Contact Us button had no URL. Unless a real contact URL is supplied, the output uses a clearly labelled homepage CTA instead of inventing a contact route. No production site change or WordPress publishing has occurred.
+The user supplied https://syncs.com.sa/contact-us/ after the initial delivery. The native Button now reads Contact Us and uses that exact URL. Its link/text are checked in the template and local browser harness; destination availability was not tested. No production site change or WordPress publishing has occurred.
 
 ## Reproduction
 

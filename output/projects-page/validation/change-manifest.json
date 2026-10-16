@@ -9,6 +9,6 @@
   "original_filter_target": "4938c73",
   "repaired_filter_target": "5f2847bd",
   "masonry": "disabled for horizontal card layout",
-  "cta_url": "https://syncs.com.sa/",
-  "cta_contact_url_supplied": false
+  "cta_url": "https://syncs.com.sa/contact-us/",
+  "cta_contact_url_supplied": true
 }
