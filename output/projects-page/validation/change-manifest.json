@@ -1,0 +1,14 @@
+{
+  "input": "elementor-6818-2026-10-16.json",
+  "type": "page",
+  "loop_widget_id": "5f2847bd",
+  "loop_template_id": 6526,
+  "post_type": "project",
+  "posts_per_page": 30,
+  "taxonomy": "project_category",
+  "original_filter_target": "4938c73",
+  "repaired_filter_target": "5f2847bd",
+  "masonry": "disabled for horizontal card layout",
+  "cta_url": "https://syncs.com.sa/",
+  "cta_contact_url_supplied": false
+}

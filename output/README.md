@@ -1,7 +1,7 @@
-# Current delivery: dynamic project Loop Item
+# Current delivery: complete dynamic projects page
 
-Use `dynamic-projects/` and `SYNCs-Dynamic-Projects-Bundle.zip` for the current request. See `dynamic-projects/import-instructions-ar.md`.
+Use `projects-page/SYNCs-Projects-Page.json` or `SYNCs-Projects-Page-Bundle.zip` for the latest full-page request. See `projects-page/import-instructions-ar.md`.
 
-The earlier `templates/syncs-selected-projects.json` and `syncs-selected-projects-template-bundle.zip` are the superseded static-card prototype, retained for history. They do not implement the later dynamic Loop Grid requirement.
+The full-page template preserves the user's real Loop Grid (post type project, external Loop Item 6526, 30 results) and project_category filter, repairs the filter's dangling grid reference, and applies the reference-inspired responsive design. It uses the existing card document on the same site; no per-project image replacement or shell setup is required. Actual Elementor import and native runtime validation remain pending staging tests.
 
-The new delivery preserves bindings from the user's actual Loop Item #6526 export and supplies native templates and scoped layout integration. Native Loop Grid query and Taxonomy Filter must be configured in Elementor because the uploaded file contains neither widget. Actual WordPress import/editor compatibility is pending staging validation.
+Earlier `dynamic-projects/` files were the interim section shell/Loop Item integration. The initial static-card JSON and ZIP are superseded. All are retained for history; use the latest page bundle above.

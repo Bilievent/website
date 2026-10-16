@@ -1,0 +1,17 @@
+# SYNCs dynamic projects page
+
+Source baseline: user export elementor-6818-2026-10-16.json, type page, schema 0.4. Additional card structure baseline: user's earlier Loop Item #6526 export. This replaces the earlier section shell with a full page that includes the user's actual Loop Grid and native Taxonomy Filter settings.
+
+Reference continuity: preserve the dark selected-projects treatment from the Vivid screenshot (wide active portrait card, compact neighbors, rounded edges, bottom gradient, navigation). Adapt to the user's own existing purple #8F7BB8 in the full-page export, with #A895D4 for light accent and #09131F for background. No third-party images, reference brand assets or reference code are used. Neither site's live frontend was inspected successfully in this environment.
+
+Page architecture: native full-width Container; hero with editable portfolio eyebrow, one H1 Our Projects and preserved breadcrumbs; native projects showcase with intro, actual Taxonomy Filter and Loop Grid, HTML style/controller; native CTA with Heading and Button. The source ElementsKit heading becomes core Heading and its malformed trailing braces are removed. Contact URL was absent in the input, so the working fallback CTA is honestly labelled Explore SYNCs and links to the known homepage; the user can supply their actual contact URL later.
+
+Data bindings: keep post type project, external Loop Item reference 6526, posts_per_page 30 and all existing query/message settings. Keep taxonomy project_category, All label, child taxonomy settings, depth 5 and empty-term setting. Repair selected_element from absent ID 4938c73 to actual Loop Grid ID 5f2847bd. Disable masonry for a horizontal expanding layout. No manual project list, replacement dynamic tags or guessed taxonomy is inserted.
+
+The page stylesheet targets the native root data-id bf03ae0 from the provided Loop Item and its known content containers. It overrides grayscale styling, image crop, title color and the old arrow column on this page only. It does not edit, import or replace the external Loop Item document. Project image/title/ACF URL content remains owned by that document. Root IDs and field dependencies therefore matter if the user later replaces the card structure.
+
+Typography uses the source Outfit setting with Arial fallback. Desktop: 1120px content region, 20px gaps, 398/444px compact/active heights, width ratio 2.9:1. At 768px: 14px gaps and 340/390px heights. At 390px: 86%-width cards, 380px heights, native horizontal touch scrolling and scroll snap. Up to four cards visible at desktop; the current native query loads up to 30, accessible through horizontal navigation. No automatic fetch of the next query page.
+
+Accessibility: one native H1, native H2 section/CTA titles, original Loop Item H4 titles retained because the external card is unchanged. A guide suggests changing those to H3 in the existing editor. Named native control buttons, focus outlines, status region, keyboard arrow support and reduced motion. No autoplay. Source breadcrumbs remain dependent on the original provider. Full assistive-technology and RTL visual validation are pending.
+
+The filter retains native query/AJAX ownership. The controller observes replaced grid children and does not intercept filter requests or synthesize posts. Mock filters and abstract image fixtures exist only in preview.html and validation; they are excluded from the actual JSON data. This is a saved-page template prototype with test evidence, not a certified Website Kit.

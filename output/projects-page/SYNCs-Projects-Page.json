@@ -1,0 +1,477 @@
+{
+  "content": [
+    {
+      "id": "6a81004",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "css_classes": "sx-projects-page",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "background_background": "classic",
+        "background_color": "#09131F"
+      },
+      "elements": [
+        {
+          "id": "20f0d259",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "css_classes": "sx-projects-hero",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px",
+              "size": 0
+            },
+            "background_background": "classic",
+            "background_color": "#09131F",
+            "min_height": {
+              "unit": "px",
+              "size": 300,
+              "sizes": []
+            },
+            "flex_justify_content": "center",
+            "flex_align_items": "center"
+          },
+          "elements": [
+            {
+              "id": "6a81001",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "SYNCs PORTFOLIO",
+                "header_size": "p",
+                "align": "center"
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "5f1a1a4",
+              "settings": {
+                "content_width": "full",
+                "title": "Our Projects",
+                "header_size": "h1",
+                "align": "center",
+                "__globals__": {
+                  "title_color": ""
+                },
+                "typography_typography": "custom",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 40,
+                  "sizes": []
+                },
+                "title_color": "#FFFFFF",
+                "typography_font_family": "Outfit"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "1f8d6979",
+              "settings": {
+                "__globals__": {
+                  "text_color": "globals/colors?id=secondary"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "breadcrumbs",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "container"
+        },
+        {
+          "id": "6a81002",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "css_classes": "sx-live-projects sx-projects-showcase",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px",
+              "size": 0
+            },
+            "background_background": "classic",
+            "background_color": "#09131F"
+          },
+          "elements": [
+            {
+              "id": "1de4272b",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "css_classes": "sx-projects-intro",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#09131F"
+              },
+              "elements": [
+                {
+                  "id": "311ce60b",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "css_classes": "sx-projects-intro-inner",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 0
+                    },
+                    "background_background": "classic",
+                    "background_color": "#09131F"
+                  },
+                  "elements": [
+                    {
+                      "id": "1b67b27c",
+                      "settings": {
+                        "title": "Selected Projects",
+                        "header_size": "p",
+                        "align": "center"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "55f94dd9",
+                      "settings": {
+                        "content_width": "full",
+                        "title": "Experiences that stay with you.",
+                        "__globals__": {
+                          "typography_typography": ""
+                        },
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "align": "center",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Outfit",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 48,
+                          "sizes": []
+                        },
+                        "typography_font_size_tablet": {
+                          "unit": "px",
+                          "size": 40,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.1,
+                          "sizes": []
+                        },
+                        "typography_line_height_mobile": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "title_color": "#FFFFFF",
+                        "header_size": "h2"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "27641335",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "css_classes": "sx-projects-filter-wrap",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#09131F"
+              },
+              "elements": [
+                {
+                  "id": "5d9af8f0",
+                  "settings": {
+                    "selected_element": "5f2847bd",
+                    "taxonomy": "project_category",
+                    "first_item_title": "All",
+                    "__globals__": {
+                      "taxonomy_filter_normal_text_color": "globals/colors?id=secondary",
+                      "taxonomy_filter_active_text_color": "globals/colors?id=text"
+                    },
+                    "show_empty_items": "",
+                    "show_child_taxonomy": "yes",
+                    "child_taxonomy_depth": "5",
+                    "_css_classes": "sx-native-filter"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "taxonomy-filter",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": false,
+              "elType": "container"
+            },
+            {
+              "id": "107a0531",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "css_classes": "sx-projects-grid-wrap",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#09131F"
+              },
+              "elements": [
+                {
+                  "id": "5f2847bd",
+                  "settings": {
+                    "template_id": 6526,
+                    "alternate_templates": [
+                      {
+                        "template_id": null,
+                        "_id": "1ce9575"
+                      }
+                    ],
+                    "post_query_post_type": "project",
+                    "pagination_page_limit": "5",
+                    "pagination_prev_label": "Previous",
+                    "pagination_next_label": "Next",
+                    "text": "Load More",
+                    "load_more_no_posts_custom_message": "No more posts to show",
+                    "nothing_found_message_text": "It seems we can’t find what you’re looking for.",
+                    "posts_per_page": 30,
+                    "masonry": "",
+                    "_css_classes": "sx-live-grid"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "loop-grid",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": false,
+              "elType": "container"
+            },
+            {
+              "id": "6a81003",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<style>\n/* Native page #6818, native Loop Item #6526. All rules are scoped to this page. */\n.sx-projects-page{--sx-bg:#09131f;--sx-panel:#111e2e;--sx-accent:#a895d4;--sx-accent-strong:#8f7bb8;color:#f6f5fa;background:var(--sx-bg);font-family:Outfit,Arial,sans-serif;gap:0!important;overflow:hidden;padding:0!important}\n.sx-projects-page>.e-con-inner{max-width:none;width:100%;gap:0}\n.sx-projects-page .elementor-heading-title{margin:0;color:inherit;line-height:1.15}\n.sx-projects-page .sx-projects-hero{background:radial-gradient(ellipse at 50% 0,#3e305863,transparent 70%),var(--sx-bg)!important;min-height:300px;padding:88px 24px 50px!important;text-align:center;gap:20px!important;isolation:isolate}\n.sx-projects-page .sx-projects-hero:before{display:none!important}\n.sx-projects-page .sx-projects-hero h1{font-size:clamp(38px,5vw,68px);font-weight:500;letter-spacing:-.045em;color:#fff}\n.sx-projects-page .sx-projects-hero>.elementor-widget-heading:first-child .elementor-heading-title{font-size:12px;color:var(--sx-accent);font-weight:500;letter-spacing:.18em;text-transform:uppercase}\n.sx-projects-page .elementor-widget-breadcrumbs{font-size:13px;color:#adb8c8}\n.sx-projects-page .elementor-widget-breadcrumbs a{color:inherit;text-decoration:none}\n.sx-projects-page .sx-projects-showcase{width:100%;padding:34px max(24px,calc((100% - 1120px)/2)) 76px!important;gap:24px!important;background:var(--sx-bg)!important;min-width:0}\n.sx-projects-page .sx-projects-intro,.sx-projects-page .sx-projects-intro-inner{width:100%!important;max-width:none;padding:0!important;gap:16px!important;align-items:center;text-align:center;background:transparent!important}\n.sx-projects-page .sx-projects-intro-inner>.elementor-widget:first-child .elementor-heading-title{font-size:14px;letter-spacing:.04em;font-weight:500;color:var(--sx-accent)}\n.sx-projects-page .sx-projects-intro h2{font-size:clamp(28px,3.2vw,44px);font-weight:500;letter-spacing:-.035em;color:#fff}\n.sx-projects-page .sx-projects-filter-wrap,.sx-projects-page .sx-projects-grid-wrap{width:100%;padding:0!important;background:transparent!important;box-shadow:none!important;min-width:0}\n.sx-projects-page .sx-projects-filter-wrap{margin:8px 0 10px}\n.sx-projects-page .sx-native-filter{width:100%}\n.sx-projects-page .sx-native-filter .e-filter{display:flex;justify-content:center;flex-wrap:wrap;gap:10px;overflow:visible}\n.sx-projects-page .sx-native-filter .e-filter-item{font-family:inherit;font-size:13px;font-weight:500;line-height:1.4;border:1px solid #c6bfd337;border-radius:999px;padding:10px 18px;background:transparent;color:#d9dce5;cursor:pointer;white-space:normal;text-align:center;min-height:40px}\n.sx-projects-page .sx-native-filter .e-filter-item:is(:hover,[aria-pressed=true],[aria-selected=true]){background:var(--sx-accent);color:#151323;border-color:var(--sx-accent)}\n.sx-projects-page .sx-live-grid{width:100%;min-width:0;margin:0!important}\n.sx-projects-page .sx-live-grid .elementor-loop-container{--sx-count:4;--sx-denom:5.9;--sx-gap:20px;--sx-small:calc((100% - (var(--sx-count) - 1)*var(--sx-gap))/var(--sx-denom));display:flex!important;flex-flow:row nowrap!important;gap:var(--sx-gap)!important;align-items:center;min-width:0;min-height:444px;padding-block:4px 14px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#645977 transparent}\n.sx-projects-page .sx-live-grid .elementor-loop-container>.e-loop-item{flex:0 0 var(--sx-small)!important;min-width:0;width:var(--sx-small)!important;max-width:none!important;margin:0!important;position:relative!important;inset:auto!important;align-self:center;transition:flex-basis .45s ease,width .45s ease}\n.sx-projects-page .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex-basis:calc(var(--sx-small)*2.9)!important;width:calc(var(--sx-small)*2.9)!important}\n/* Restyle the EXISTING native card root. No imported replacement card ID is required. */\n.sx-projects-page .sx-live-grid .e-loop-item :is([data-id=\"bf03ae0\"],.sx-live-card){position:relative!important;isolation:isolate;width:100%;height:398px;min-height:0;display:flex;flex-direction:column;justify-content:flex-end;gap:0!important;padding:0!important;border:1px solid #ffffff20!important;border-radius:20px!important;background:var(--sx-panel)!important;box-shadow:none!important;overflow:hidden!important;animation:none!important;transition:height .45s ease}\n.sx-projects-page .sx-live-grid .e-loop-item.sx-is-active :is([data-id=\"bf03ae0\"],.sx-live-card){height:444px}\n.sx-projects-page .sx-live-grid :is([data-id=\"bf03ae0\"],.sx-live-card):after{content:\"\";position:absolute;inset:0;background:linear-gradient(180deg,#09131f00 22%,#09131f55 55%,#09131ff7 100%);z-index:-1;pointer-events:none}\n.sx-projects-page .sx-live-grid :is([data-id=\"bf03ae0\"],.sx-live-card)>.elementor-widget-image{position:absolute!important;inset:0;z-index:-2;width:100%!important;height:100%;margin:0!important;filter:none!important;opacity:1!important}\n.sx-projects-page .sx-live-grid .elementor-widget-image :is(.elementor-widget-container,a,picture){display:block;width:100%;height:100%}\n.sx-projects-page .sx-live-grid .elementor-widget-image img{display:block;width:100%!important;height:100%!important;object-fit:cover;border-radius:0!important;filter:none!important;opacity:1!important}\n.sx-projects-page .sx-live-grid [data-id=\"4edf00b0\"]{position:relative;width:100%;padding:24px 18px!important;gap:0!important;flex-direction:column!important}\n.sx-projects-page .sx-live-grid [data-id=\"7b55b363\"]{width:100%!important;max-width:100%;padding:0!important;flex:0 0 auto!important}\n.sx-projects-page .sx-live-grid [data-id=\"2ea80081\"]{display:none!important}\n.sx-projects-page .sx-live-grid .elementor-icon-box-wrapper,.sx-projects-page .sx-live-grid .elementor-icon-box-content{text-align:start!important}\n.sx-projects-page .sx-live-grid .elementor-icon-box-title{font-family:inherit!important;font-size:15px!important;font-weight:500!important;line-height:1.4!important;color:#fff!important;margin:0!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.sx-projects-page .sx-live-grid .sx-is-active .elementor-icon-box-title{font-size:20px!important;white-space:normal}\n.sx-projects-page .sx-live-grid .elementor-icon-box-title a{color:inherit;text-decoration:none}\n.sx-projects-page .sx-live-grid .elementor-icon-box-description{display:none}\n.sx-projects-page .sx-live-controls{display:flex;align-items:center;justify-content:center;gap:18px;margin:2px auto 0;color:#fff}\n.sx-projects-page .sx-live-controls[hidden]{display:none!important}\n.sx-projects-page .sx-live-controls button{width:44px;height:44px;border:1px solid #ffffff55;border-radius:50%;background:#ffffff0e;color:#fff;font:22px Arial,sans-serif;padding:0;cursor:pointer}\n.sx-projects-page .sx-live-controls button:hover{background:#ffffff25}\n.sx-projects-page .sx-live-controls button:disabled{opacity:.4;cursor:default}\n.sx-projects-page .sx-live-controls [role=status]{font-size:12px;color:#bec5d1;min-width:50px;text-align:center;font-variant-numeric:tabular-nums}\n.sx-projects-page .sx-projects-cta{padding:64px max(24px,calc((100% - 1120px)/2)) 76px!important;background:linear-gradient(130deg,#201e35,#14202f)!important;text-align:center}\n.sx-projects-page .sx-projects-cta:before{display:none!important}\n.sx-projects-page .sx-projects-cta-inner{width:100%;max-width:740px;margin:auto;padding:0!important;gap:28px!important}\n.sx-projects-page .sx-projects-cta h2{font-size:clamp(28px,3.2vw,44px);font-weight:500;letter-spacing:-.035em;color:#fff}\n.sx-projects-page .sx-projects-cta .elementor-widget-button{text-align:center}\n.sx-projects-page .sx-projects-cta .elementor-button{display:inline-flex;justify-content:center;align-items:center;background:var(--sx-accent)!important;color:#151323!important;border:0;border-radius:999px;padding:17px 28px;font-family:inherit;font-size:14px;font-weight:600;text-decoration:none;box-shadow:none}\n.sx-projects-page :is(a,button,[tabindex]):focus-visible{outline:3px solid var(--sx-accent);outline-offset:4px}\n@media(max-width:1024px){.sx-projects-page .sx-projects-hero{padding:64px 28px 42px!important;min-height:250px}.sx-projects-page .sx-projects-showcase{padding:28px 28px 60px!important}.sx-projects-page .sx-live-grid .elementor-loop-container{--sx-gap:14px;min-height:390px}.sx-projects-page .sx-live-grid .e-loop-item :is([data-id=\"bf03ae0\"],.sx-live-card){height:340px}.sx-projects-page .sx-live-grid .e-loop-item.sx-is-active :is([data-id=\"bf03ae0\"],.sx-live-card){height:390px}.sx-projects-page .sx-projects-cta{padding:52px 28px!important}}\n@media(max-width:600px){.sx-projects-page .sx-projects-hero{padding:52px 20px 28px!important;min-height:220px}.sx-projects-page .sx-projects-showcase{padding:24px 20px 48px!important;gap:22px!important}.sx-projects-page .sx-projects-intro h2{font-size:30px}.sx-projects-page .sx-native-filter .e-filter{gap:8px}.sx-projects-page .sx-native-filter .e-filter-item{font-size:12px;padding:9px 13px}.sx-projects-page .sx-live-grid .elementor-loop-container{scroll-snap-type:x mandatory;align-items:stretch;min-height:390px}.sx-projects-page .sx-live-grid .elementor-loop-container>.e-loop-item,.sx-projects-page .sx-live-grid .elementor-loop-container>.e-loop-item.sx-is-active{flex:0 0 86%!important;width:86%!important;scroll-snap-align:center}.sx-projects-page .sx-live-grid .e-loop-item :is([data-id=\"bf03ae0\"],.sx-live-card),.sx-projects-page .sx-live-grid .e-loop-item.sx-is-active :is([data-id=\"bf03ae0\"],.sx-live-card){height:380px}.sx-projects-page .sx-live-grid .elementor-icon-box-title{white-space:normal;font-size:20px!important}.sx-projects-page .sx-projects-cta{padding:44px 20px 52px!important}}\n@media(prefers-reduced-motion:reduce){.sx-projects-page *, .sx-projects-page *:before,.sx-projects-page *:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}\n\n</style>\n<nav class=\"sx-live-controls\" aria-label=\"Browse projects\" hidden><button class=\"sx-live-prev\" type=\"button\" aria-label=\"Previous project\">&#8592;</button><span role=\"status\" aria-live=\"polite\" aria-atomic=\"true\">0 / 0</span><button class=\"sx-live-next\" type=\"button\" aria-label=\"Next project\">&#8594;</button></nav>\n<script>\n/* Observe native Loop Grid output; never replace its query, filter or project links. */\n(()=>{\n  if(window.__syncsProjectsPageV1){window.__syncsProjectsPageV1.scan();return;}\n  const states=new WeakMap();\n  window.__syncsProjectsPageV1={scan};\n  const mobile=()=>matchMedia('(max-width:600px)').matches;\n  const reduced=()=>matchMedia('(prefers-reduced-motion:reduce)').matches;\n  function mount(root){\n    if(states.has(root))return;\n    const state={track:null,items:[],active:null,frame:0,scrollFrame:0};\n    states.set(root,state);\n    function announce(){\n      const controls=root.querySelector('.sx-live-controls');\n      if(!controls)return;\n      controls.hidden=state.items.length===0;\n      const status=controls.querySelector('[role=status]');\n      const text=state.items.length?`${state.items.indexOf(state.active)+1} / ${state.items.length}`:'0 / 0';\n      if(status&&status.textContent!==text)status.textContent=text;\n      controls.querySelectorAll('button').forEach(button=>button.disabled=state.items.length<2);\n    }\n    function select(item,scroll=false){\n      if(!item||!state.items.includes(item))return;\n      state.active=item;\n      state.items.forEach(card=>{\n        const selected=card===item;\n        if(card.classList.contains('sx-is-active')!==selected)card.classList.toggle('sx-is-active',selected);\n      });\n      announce();\n      if(scroll&&state.track){\n        const rect=item.getBoundingClientRect(),trackRect=state.track.getBoundingClientRect();\n        state.track.scrollBy({left:rect.left-trackRect.left-(state.track.clientWidth-rect.width)/2,behavior:reduced()?'instant':'smooth'});\n      }\n    }\n    function sync(){\n      const track=root.querySelector('.sx-live-grid .elementor-loop-container');\n      state.track=track;\n      state.items=track?Array.from(track.children).filter(el=>el.matches('.e-loop-item')&&!el.hidden&&getComputedStyle(el).display!=='none'):[];\n      if(track){\n        const visibleSlots=Math.max(1,Math.min(4,state.items.length));\n        track.style.setProperty('--sx-count',String(visibleSlots));\n        track.style.setProperty('--sx-denom',String(visibleSlots+1.9));\n        track.setAttribute('tabindex','0');\n        track.setAttribute('role','region');\n        track.setAttribute('aria-label','Projects. Use left and right arrow keys to browse.');\n      }\n      if(!state.items.includes(state.active))state.active=state.items[mobile()?0:Math.min(2,state.items.length-1)]||null;\n      if(state.active)select(state.active);else announce();\n    }\n    function schedule(){cancelAnimationFrame(state.frame);state.frame=requestAnimationFrame(sync)}\n    function step(delta){\n      if(!state.items.length)return;\n      select(state.items[(state.items.indexOf(state.active)+delta+state.items.length)%state.items.length],true);\n    }\n    root.addEventListener('click',event=>{\n      const button=event.target.closest('.sx-live-prev,.sx-live-next');\n      if(button&&button.closest('.sx-live-projects')===root)step(button.matches('.sx-live-next')?1:-1);\n    });\n    root.addEventListener('pointerover',event=>{\n      if(mobile()||!matchMedia('(hover:hover)').matches)return;\n      const item=event.target.closest('.e-loop-item');\n      if(state.items.includes(item))select(item);\n    });\n    root.addEventListener('focusin',event=>{\n      const item=event.target.closest('.e-loop-item');\n      if(state.items.includes(item))select(item);\n    });\n    root.addEventListener('keydown',event=>{\n      if(event.target!==state.track||!['ArrowRight','ArrowLeft'].includes(event.key))return;\n      event.preventDefault();\n      const rtl=getComputedStyle(state.track).direction==='rtl';\n      step((event.key==='ArrowRight'?1:-1)*(rtl?-1:1));\n    });\n    root.addEventListener('scroll',event=>{\n      if(!mobile()||event.target!==state.track)return;\n      cancelAnimationFrame(state.scrollFrame);\n      state.scrollFrame=requestAnimationFrame(()=>{\n        if(!state.items.length)return;\n        const rect=state.track.getBoundingClientRect(),center=rect.left+rect.width/2;\n        const distance=item=>{const r=item.getBoundingClientRect();return Math.abs(r.left+r.width/2-center)};\n        select(state.items.reduce((best,item)=>distance(item)<distance(best)?item:best));\n      });\n    },true);\n    // Native taxonomy-filter AJAX may replace the track or its children. No filter event names are assumed.\n    new MutationObserver(records=>{\n      if(records.some(record=>record.type==='childList'))schedule();\n    }).observe(root,{childList:true,subtree:true});\n    sync();\n  }\n  function scan(){document.querySelectorAll('.sx-live-projects').forEach(mount)}\n  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',scan);else scan();\n  if(window.jQuery)window.jQuery(window).on('elementor/frontend/init',()=>{\n    if(window.elementorFrontend)window.elementorFrontend.hooks.addAction('frontend/element_ready/global',scan);\n  });\n})();\n\n</script>"
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ]
+        },
+        {
+          "id": "3863fc58",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "css_classes": "sx-projects-cta",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px",
+              "size": 0
+            },
+            "background_background": "classic",
+            "background_color": "#09131F"
+          },
+          "elements": [
+            {
+              "id": "723cb08a",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "css_classes": "sx-projects-cta-inner",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#09131F"
+              },
+              "elements": [
+                {
+                  "id": "168917a8",
+                  "settings": {
+                    "title": "Let’s create your next standout experience.",
+                    "header_size": "h2",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Outfit",
+                    "title_color": "#FFFFFF"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "8139083",
+                  "settings": {
+                    "text": "Explore SYNCs",
+                    "align": "center",
+                    "link": {
+                      "url": "https://syncs.com.sa/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "button",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": false,
+          "elType": "container"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "SYNCs — Dynamic Projects Page (based on #6818)",
+  "type": "page"
+}

@@ -1,0 +1,51 @@
+const {chromium}=require('playwright');
+const fs=require('fs'),path=require('path');
+(async()=>{
+const browser=await chromium.launch({headless:true,...(process.env.CHROMIUM_PATH?{executablePath:process.env.CHROMIUM_PATH}:{}),args:['--no-sandbox']});
+const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
+const wait=()=>page.waitForTimeout(550);
+const status=()=>page.locator('.sx-live-controls [role=status]').textContent();
+const active=()=>page.locator('.sx-is-active').count();const checks=[];
+for(const width of [1440,768,390]){
+ await page.setViewportSize({width,height:1100});
+ await page.goto(process.env.PREVIEW_URL||'http://127.0.0.1:8766/projects-page/preview.html');await wait();
+ if(await page.locator('h1').count()!==1)throw Error('H1 count');
+ if(await page.locator('.e-loop-item').count()!==30)throw Error('Initial source item count');
+ if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Page overflow '+width);
+ const firstRect=await page.locator('[data-id=bf03ae0]').first().boundingBox();
+ if(firstRect.height<300)throw Error('Original Loop Item did not receive card styling');
+ const sourceArrowVisible=await page.locator('[data-id="2ea80081"]').first().isVisible();
+ if(sourceArrowVisible)throw Error('Old arrow column still takes space');
+ const imageStyle=await page.locator('.e-loop-item img').first().evaluate(e=>({fit:getComputedStyle(e).objectFit,filter:getComputedStyle(e).filter}));
+ if(imageStyle.fit!=='cover'||imageStyle.filter!=='none')throw Error('Original grayscale image rule not overridden');
+ if(await active()!==1)throw Error('Initial active');
+ await page.screenshot({path:path.join(__dirname,`preview-${width}.png`),fullPage:true});
+ const initial=await status();await page.locator('.sx-live-next').click();await wait();
+ if(await status()===initial)throw Error('Next failed');
+ await page.locator('.sx-live-prev').click();await wait();if(await status()!==initial)throw Error('Prev failed');
+ await page.locator('.elementor-loop-container').focus();await page.keyboard.press('ArrowRight');await wait();
+ if(await status()===initial)throw Error('Keyboard failed');
+ await page.locator('[data-filter=events]').click();await wait();
+ if(await page.locator('.e-loop-item').count()!==3||await active()!==1||!(await status()).endsWith('/ 3'))throw Error('Native-style filter reference or replacement failed');
+ if(await page.locator('.e-loop-item h4 a').first().getAttribute('href')!=='#mock-project-1')throw Error('Project link altered');
+ await page.locator('[data-filter=empty]').click();await wait();
+ if(await page.locator('.sx-live-controls').isVisible()||await active()!==0)throw Error('Empty state failed');
+ await page.locator('[data-filter=celebrations]').click();await wait();
+ if(await status()!=='1 / 1'||!await page.locator('.sx-live-next').isDisabled())throw Error('Single project failed');
+ await page.locator('[data-filter=all]').click();await wait();
+ if(await page.locator('.e-loop-item').count()!==30||await active()!==1)throw Error('Recover original query failed');
+ await page.evaluate(()=>mockRender([31,32],true));await wait();
+ if(!(await status()).endsWith('/ 2'))throw Error('New results not observed');
+ if(width===390){await page.locator('.elementor-loop-container').evaluate(e=>e.scrollTo({left:0,behavior:'instant'}));await wait();if(await status()!=='1 / 2')throw Error('Mobile scroll selection');}
+ checks.push({width,pageOverflow:false,sourceLoopCardStyling:true,queryCount:30,controls:'passed',keyboard:'passed',simulatedNativeFilterReplacement:'passed',emptyAndSingleResult:'passed',newResults:'passed',originalLinksPreserved:true});
+}
+await page.emulateMedia({reducedMotion:'reduce'});
+if(await page.locator('.e-loop-item').first().evaluate(e=>getComputedStyle(e).transitionDuration)!=='0s')throw Error('Reduced motion');
+await page.addScriptTag({path:path.resolve(__dirname,'../assets/projects-page.js')});
+await page.evaluate(()=>{window.scrollCalls=0;const track=document.querySelector('.elementor-loop-container'),original=track.scrollBy.bind(track);track.scrollBy=(...args)=>{window.scrollCalls++;original(...args)};});
+await page.locator('.sx-live-next').click();await wait();
+if(await page.evaluate(()=>window.scrollCalls)!==1)throw Error('Duplicate handlers');
+if(errors.length)throw Error(errors.join('\n'));
+fs.writeFileSync(path.join(__dirname,'browser-results.json'),JSON.stringify({renderer:'Simulated native wrappers from full-page JSON and original Loop Item #6526; not an Elementor runtime',checks,reducedMotion:'passed',duplicateInitialization:'passed',pageErrors:errors},null,2));
+await browser.close();console.log('PASS',JSON.stringify(checks));
+})().catch(e=>{console.error(e);process.exit(1)});

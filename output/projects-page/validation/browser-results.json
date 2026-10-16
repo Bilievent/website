@@ -1,0 +1,44 @@
+{
+  "renderer": "Simulated native wrappers from full-page JSON and original Loop Item #6526; not an Elementor runtime",
+  "checks": [
+    {
+      "width": 1440,
+      "pageOverflow": false,
+      "sourceLoopCardStyling": true,
+      "queryCount": 30,
+      "controls": "passed",
+      "keyboard": "passed",
+      "simulatedNativeFilterReplacement": "passed",
+      "emptyAndSingleResult": "passed",
+      "newResults": "passed",
+      "originalLinksPreserved": true
+    },
+    {
+      "width": 768,
+      "pageOverflow": false,
+      "sourceLoopCardStyling": true,
+      "queryCount": 30,
+      "controls": "passed",
+      "keyboard": "passed",
+      "simulatedNativeFilterReplacement": "passed",
+      "emptyAndSingleResult": "passed",
+      "newResults": "passed",
+      "originalLinksPreserved": true
+    },
+    {
+      "width": 390,
+      "pageOverflow": false,
+      "sourceLoopCardStyling": true,
+      "queryCount": 30,
+      "controls": "passed",
+      "keyboard": "passed",
+      "simulatedNativeFilterReplacement": "passed",
+      "emptyAndSingleResult": "passed",
+      "newResults": "passed",
+      "originalLinksPreserved": true
+    }
+  ],
+  "reducedMotion": "passed",
+  "duplicateInitialization": "passed",
+  "pageErrors": []
+}
