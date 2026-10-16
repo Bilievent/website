@@ -10,5 +10,17 @@
   "repaired_filter_target": "5f2847bd",
   "masonry": "disabled for horizontal card layout",
   "cta_url": "https://syncs.com.sa/contact-us/",
-  "cta_contact_url_supplied": true
+  "cta_contact_url_supplied": true,
+  "controller_version": 2,
+  "site_report": {
+    "url": "https://syncs.com.sa/project/",
+    "translation_plugin": "Polylang",
+    "live_access": "proxy 403",
+    "cache_plugin": "LiteSpeed Cache",
+    "server_language_isolation": "Explicit-language Query ID bridge prepared, not installed; native validation pending",
+    "installed_versions": "not supplied",
+    "bypass_test": "User reports mixed-language results persist with before_optm",
+    "symptom": "Some terms absent; clicking a filter returns Arabic and English project records"
+  },
+  "controller_optimizer_exclusion": "data-no-optimize=1; data-no-defer=1"
 }

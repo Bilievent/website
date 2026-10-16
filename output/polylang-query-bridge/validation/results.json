@@ -1,0 +1,60 @@
+{
+  "runner": "@php-wasm/cli 3.1.58 (WordPress Playground)",
+  "scope": "PHP syntax and public hook/API contract simulation, not WordPress/Elementor Pro integration",
+  "checks": [
+    {
+      "php": "7.4",
+      "check": "syntax",
+      "exit_code": 0,
+      "output": "No syntax errors detected in output/polylang-query-bridge/plugin/syncs-projects-language-bridge/syncs-projects-language-bridge.php"
+    },
+    {
+      "php": "7.4",
+      "check": "query_contract",
+      "exit_code": 0,
+      "output": "{\"mode\":\"API contract simulation\",\"explicitArabicAndEnglish\":\"passed\",\"wrongCookieAndRequestLanguage\":\"ignored as intended\",\"nativeTaxonomyAndPagination\":\"preserved\",\"cacheResults\":\"unchanged\",\"customSlugs\":\"passed\",\"invalidConfiguration\":\"safe empty result\",\"unrelatedQueries\":\"unchanged\",\"sanitization\":\"passed\",\"runtime\":\"PHP 7.4.33\",\"nativeElementorAndPolylangIntegration\":\"not executed\"}"
+    },
+    {
+      "php": "7.4",
+      "check": "without_polylang",
+      "exit_code": 0,
+      "output": "{\"mode\":\"without Polylang\",\"safeEmptyResult\":\"passed\"}"
+    },
+    {
+      "php": "8.3",
+      "check": "syntax",
+      "exit_code": 0,
+      "output": "No syntax errors detected in output/polylang-query-bridge/plugin/syncs-projects-language-bridge/syncs-projects-language-bridge.php"
+    },
+    {
+      "php": "8.3",
+      "check": "query_contract",
+      "exit_code": 0,
+      "output": "{\"mode\":\"API contract simulation\",\"explicitArabicAndEnglish\":\"passed\",\"wrongCookieAndRequestLanguage\":\"ignored as intended\",\"nativeTaxonomyAndPagination\":\"preserved\",\"cacheResults\":\"unchanged\",\"customSlugs\":\"passed\",\"invalidConfiguration\":\"safe empty result\",\"unrelatedQueries\":\"unchanged\",\"sanitization\":\"passed\",\"runtime\":\"PHP 8.3.33\",\"nativeElementorAndPolylangIntegration\":\"not executed\"}"
+    },
+    {
+      "php": "8.3",
+      "check": "without_polylang",
+      "exit_code": 0,
+      "output": "{\"mode\":\"without Polylang\",\"safeEmptyResult\":\"passed\"}"
+    },
+    {
+      "php": "8.5",
+      "check": "syntax",
+      "exit_code": 0,
+      "output": "No syntax errors detected in output/polylang-query-bridge/plugin/syncs-projects-language-bridge/syncs-projects-language-bridge.php"
+    },
+    {
+      "php": "8.5",
+      "check": "query_contract",
+      "exit_code": 0,
+      "output": "{\"mode\":\"API contract simulation\",\"explicitArabicAndEnglish\":\"passed\",\"wrongCookieAndRequestLanguage\":\"ignored as intended\",\"nativeTaxonomyAndPagination\":\"preserved\",\"cacheResults\":\"unchanged\",\"customSlugs\":\"passed\",\"invalidConfiguration\":\"safe empty result\",\"unrelatedQueries\":\"unchanged\",\"sanitization\":\"passed\",\"runtime\":\"PHP 8.5.10\",\"nativeElementorAndPolylangIntegration\":\"not executed\"}"
+    },
+    {
+      "php": "8.5",
+      "check": "without_polylang",
+      "exit_code": 0,
+      "output": "{\"mode\":\"without Polylang\",\"safeEmptyResult\":\"passed\"}"
+    }
+  ]
+}

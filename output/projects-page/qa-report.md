@@ -27,3 +27,10 @@ The user supplied https://syncs.com.sa/contact-us/ after the initial delivery. T
 ## Reproduction
 
 Run validate-page.py with --source pointing to the original full-page export. Serve output/ on port 8766 and run browser-check.cjs with Playwright available (CHROMIUM_PATH may select an installed browser). PREVIEW_URL overrides the harness URL. These checks preserve the harness runner's exit status and do not replace the required staging checks in import-instructions-ar.md.
+
+
+## Filter/language report follow-up
+
+The user reported stale filtering, caching and mixed Arabic/English results on /project/, and identified Polylang. Client reproduction showed a stale 3 / 30 counter and a hidden selected card with one visible result. The v2 controller now observes actual item visibility/ancestor changes, clears hidden selections, handles native aria-busy, and localizes only its own UI by document/ancestor language with RTL navigation. Source post titles/links and native request/query ownership are unchanged. See filter-polylang-notes-ar.md and validation/filter-regression-results.json. Live site access returned proxy 403; Polylang server language, template mapping, cached responses and runtime cache configuration remain undiagnosed. The presentation patch is not a claimed fix for the reported server-side language/cache behavior.
+
+The user subsequently identified LiteSpeed Cache. The controller script alone now carries LiteSpeed-supported data-no-optimize/data-no-defer attributes, verified against official source commit a4bd5fa11b77c95c660f003aec6a6c0d982cc9a8. No cache/query option is changed by the patch. The source-supported before_optm comparison URL was provided to the user; the user reports the issue persists under that URL. Installed optimizer behavior has not been tested.

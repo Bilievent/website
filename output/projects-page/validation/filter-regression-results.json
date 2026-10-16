@@ -1,0 +1,15 @@
+{
+  "initialStatus": "3 / 30",
+  "hiddenFilter": "passed",
+  "classFilter": "passed",
+  "styleFilterAndEmpty": "passed",
+  "loadMoreSelection": "passed",
+  "nativeBusyState": "passed",
+  "arabicAndEnglishControllerLabels": "passed",
+  "rtlKeyboard": "passed",
+  "nativePostsNotRewritten": "passed",
+  "ancestorVisibility": "passed",
+  "observerSettles": "passed",
+  "pageErrors": [],
+  "scope": "Local presentation regression only; Polylang server language and cache remain unverified"
+}

@@ -40,11 +40,5 @@
   ],
   "reducedMotion": "passed",
   "duplicateInitialization": "passed",
-  "pageErrors": [],
-  "ctaUpdate": {
-    "label": "Contact Us",
-    "url": "https://syncs.com.sa/contact-us/",
-    "templateAndHarnessLink": "passed",
-    "destinationAvailability": "not tested"
-  }
+  "pageErrors": []
 }
