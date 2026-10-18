@@ -1,0 +1,43 @@
+{
+  "basis": "Real Loop Grid from user export #6818; dynamic card from user export #6526",
+  "configuration_required": "Choose the service category in native Query UI. Import and select the universal card for articles.",
+  "templates": [
+    {
+      "file": "SYNCs-Service-Projects-EN.json",
+      "post_type": "project",
+      "language": "EN",
+      "native_loop_template_reference": 6526,
+      "service_term": "Select once in native Query > Include By > Term",
+      "taxonomy_filter_widgets": 0,
+      "widget_ids_unique_per_variant": true
+    },
+    {
+      "file": "SYNCs-Service-Projects-AR.json",
+      "post_type": "project",
+      "language": "AR",
+      "native_loop_template_reference": 6526,
+      "service_term": "Select once in native Query > Include By > Term",
+      "taxonomy_filter_widgets": 0,
+      "widget_ids_unique_per_variant": true
+    },
+    {
+      "file": "SYNCs-Service-Articles-EN.json",
+      "post_type": "post",
+      "language": "EN",
+      "native_loop_template_reference": 6526,
+      "service_term": "Select once in native Query > Include By > Term",
+      "taxonomy_filter_widgets": 0,
+      "widget_ids_unique_per_variant": true
+    },
+    {
+      "file": "SYNCs-Service-Articles-AR.json",
+      "post_type": "post",
+      "language": "AR",
+      "native_loop_template_reference": 6526,
+      "service_term": "Select once in native Query > Include By > Term",
+      "taxonomy_filter_widgets": 0,
+      "widget_ids_unique_per_variant": true
+    }
+  ],
+  "native_import_and_language_query": "Not executed in WordPress"
+}

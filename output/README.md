@@ -1,4 +1,8 @@
-# Current delivery: complete dynamic projects page
+# Latest delivery: service content, no visitor filter
+
+Use `service-content-no-filter/` and `SYNCs-Service-Content-No-Filter.zip` for the latest request: previous expanding-card design with a native dynamic Loop Grid, no Taxonomy Filter, and the service category selected once in native Query settings. AR/EN and Projects/Articles variants plus a reusable Post URL card are included. Read `service-content-no-filter/import-instructions-ar.md` before importing; actual WordPress compatibility and category/language results need staging checks.
+
+# Earlier delivery: complete dynamic projects page
 
 Use `projects-page/SYNCs-Projects-Page.json` or `SYNCs-Projects-Page-Bundle.zip` for the latest full-page request. See `projects-page/import-instructions-ar.md`.
 

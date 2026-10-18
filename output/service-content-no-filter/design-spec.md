@@ -1,0 +1,13 @@
+# Service content without a visitor filter
+
+User requirement: reuse the previous premium expanding-card treatment for projects OR articles relevant to a service. Content already has categories. Remove visible taxonomy filters; use native Loop Grid and configure the service category once in its native Query UI.
+
+The component is a service-page section rather than a replacement page header/footer. It keeps dark navy #09131F, purple #A895D4/#8F7BB8, centered editable headings, rounded image cards, gradient text protection, wide active card, and previous/next controls. No taxonomy-filter widget, category-selector markup, taxonomy-filter CSS, or native taxonomy AJAX handler is included. Navigation arrows change the selected loaded card only.
+
+Four variants use native container schema 0.4: Projects/Articles, each AR/EN. The Loop Grid settings are derived from the user's full-page export #6818: same 30-item cap, real template reference 6526, messages and native query settings; post source is project or post as appropriate. Masonry remains disabled for the horizontal presentation. IDs are distinct across section variants. No guessed term IDs or custom Query IDs are added. Actual service-term assignment is a required editor configuration step, not a claimed automatic context query.
+
+The optional universal native Loop Item is based on the actual #6526 export through the previous native card. It uses Image + iconless Icon Box H3 + small style widget; dynamic tags remain post-featured-image and post-title, while both links use standard Pro post-url instead of an ACF-only URL field. Import creates a new WordPress document ID, so select that card once after importing the section. The retained 6526 reference is a same-site baseline, not a fabricated ID for the new card.
+
+Layout: desktop 1120px content width, 20px gaps, compact/active heights 398/444px and active width ratio 2.9:1. At 768px: 14px gaps and 340/390px heights. At 390px: 86%-width 380px cards with horizontal scrolling. Headings start at H2 so the service page can keep its own H1. The reusable card uses H3. AR variant has RTL and Tahoma/Arial fallback, EN uses source Outfit/Arial; controller UI follows the selected variant. No timed autoplay. Keyboard focus, left/right keys, live status and reduced motion remain.
+
+Mock previews use abstract fixtures for layout evidence only. Native sections contain no fixed list of project images/posts. Import, terms and language correctness, ACF-vs-permalink migration, publishing, LiteSpeed invalidation and actual Elementor editability require staging validation on the user's site. The old screenshot is design inspiration, not permission to reuse Vivid assets. No official Website Kit claim is made.

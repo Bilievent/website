@@ -1,0 +1,131 @@
+{
+  "renderer": "Local native-wrapper harness, simulated query records; not Elementor/WordPress",
+  "checks": [
+    {
+      "kind": "projects",
+      "lang": "en",
+      "width": 1440,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "projects",
+      "lang": "en",
+      "width": 768,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "projects",
+      "lang": "en",
+      "width": 390,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "projects",
+      "lang": "ar",
+      "width": 1440,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "projects",
+      "lang": "ar",
+      "width": 768,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "projects",
+      "lang": "ar",
+      "width": 390,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "articles",
+      "lang": "en",
+      "width": 1440,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "articles",
+      "lang": "en",
+      "width": 768,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "articles",
+      "lang": "en",
+      "width": 390,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "articles",
+      "lang": "ar",
+      "width": 1440,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "articles",
+      "lang": "ar",
+      "width": 768,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    },
+    {
+      "kind": "articles",
+      "lang": "ar",
+      "width": 390,
+      "taxonomyFilterWidgets": 0,
+      "documentOverflow": false,
+      "expandingCards": "passed",
+      "controls": "passed",
+      "localizedLabels": "passed"
+    }
+  ],
+  "emptyAndSingleResult": "passed",
+  "newNativeResults": "passed",
+  "rtlKeyboard": "passed",
+  "reducedMotion": "passed",
+  "pageErrors": [],
+  "serviceCategoryQueryAndNativeImport": "not executed; requires native setup and staging"
+}
