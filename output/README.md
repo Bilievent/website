@@ -1,4 +1,8 @@
-# Latest delivery: Why Us with five native service cards
+# Latest delivery: complete native SCEGA permit page
+
+Use `scega-permit-native/` and `SYNCs-SCEGA-Elementor-Templates.zip` for the full screenshot recreation. Import `SYNCs-SCEGA-Complete-Page.json` for the entire 14-section page. The bundle also contains individual sections and an optional native article Loop Grid/Loop Item. All 236 main-page elements are native; Form and Accordion additions were explicitly approved. No custom HTML/CSS/JS or photo files are bundled. Read `scega-permit-native/import-instructions-ar.md`; actual WordPress import, form backend and live media tests remain pending.
+
+# Earlier delivery: Why Us with five native service cards
 
 Use `why-us-native-five/` and `SYNCs-Native-Why-Us-5-Services.zip` for the screenshot-based Why Us revision. `SYNCs-All-Sections-Native-Why-Us.json` includes all four sections; `SYNCs-Why-Us-Native-5-Services.json` contains only the replacement Why Us. The section uses only widget types already in the user's template, native Container backgrounds, and zero HTML widgets/custom CSS/custom JS. Five service index links navigate to five visible cards. Read `why-us-native-five/import-instructions-ar.md`; actual Elementor staging import remains pending.
 

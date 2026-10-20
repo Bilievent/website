@@ -1,0 +1,31 @@
+{
+  "archive": "SYNCs-SCEGA-Elementor-Templates.zip",
+  "sha256": "9bf74eb36bd8d40c5e3106494b44a2ecfdc430c54444c3024b2be081538a588b",
+  "bytes": 73575,
+  "native_templates": 17,
+  "sections": 14,
+  "entries": [
+    "SYNCs-SCEGA-Complete-Page.json",
+    "import-instructions-ar.md",
+    "design-spec.md",
+    "qa-report.md",
+    "sections/01-header.json",
+    "sections/02-permit-hero.json",
+    "sections/03-event-teams.json",
+    "sections/04-permit-types.json",
+    "sections/05-prepare.json",
+    "sections/06-service-scope.json",
+    "sections/07-event-services.json",
+    "sections/08-stay-support.json",
+    "sections/09-permit-fees.json",
+    "sections/10-experience.json",
+    "sections/11-permit-faq.json",
+    "sections/12-event-brief.json",
+    "sections/13-permit-guides.json",
+    "sections/14-footer.json",
+    "extras/SYNCs-Permit-Guide-Loop-Item.json",
+    "extras/SYNCs-Permit-Guides-Dynamic-Loop-Grid.json"
+  ],
+  "html_css_js_photo_font_plugin_files": 0,
+  "integrity_passed": true
+}

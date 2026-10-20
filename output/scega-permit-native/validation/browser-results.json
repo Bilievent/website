@@ -1,0 +1,65 @@
+{
+  "scope": "Independent DOM harness from native controls. Tabs use a test-only controller; Form submit is prevented. Not an Elementor/WordPress render or backend submission test. Photo requests are blocked and show the configured native solid fallbacks.",
+  "results": [
+    {
+      "width": 1440,
+      "passed": true,
+      "sections": 14,
+      "tabPanels": [
+        "Conference Permit Support",
+        "Exhibition Permit Support",
+        "Workshop Permit Support",
+        "Training Event Support",
+        "Business Meeting Support"
+      ],
+      "accordionItems": 9,
+      "keyboardTabsAndAccordion": true,
+      "heroAnchorToBrief": true,
+      "browserFormConstraints": true,
+      "realFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "reducedMotionLayout": true
+    },
+    {
+      "width": 768,
+      "passed": true,
+      "sections": 14,
+      "tabPanels": [
+        "Conference Permit Support",
+        "Exhibition Permit Support",
+        "Workshop Permit Support",
+        "Training Event Support",
+        "Business Meeting Support"
+      ],
+      "accordionItems": 9,
+      "keyboardTabsAndAccordion": true,
+      "heroAnchorToBrief": true,
+      "browserFormConstraints": true,
+      "realFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "reducedMotionLayout": true
+    },
+    {
+      "width": 390,
+      "passed": true,
+      "sections": 14,
+      "tabPanels": [
+        "Conference Permit Support",
+        "Exhibition Permit Support",
+        "Workshop Permit Support",
+        "Training Event Support",
+        "Business Meeting Support"
+      ],
+      "accordionItems": 9,
+      "keyboardTabsAndAccordion": true,
+      "heroAnchorToBrief": true,
+      "browserFormConstraints": true,
+      "realFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "reducedMotionLayout": true
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "page": "SYNCs-SCEGA-Complete-Page.json",
+  "sections": [
+    {
+      "file": "sections/01-header.json",
+      "anchor": "sx-header",
+      "label": "Header"
+    },
+    {
+      "file": "sections/02-permit-hero.json",
+      "anchor": "sx-permit-hero",
+      "label": "Hero"
+    },
+    {
+      "file": "sections/03-event-teams.json",
+      "anchor": "sx-event-teams",
+      "label": "Event teams strip"
+    },
+    {
+      "file": "sections/04-permit-types.json",
+      "anchor": "sx-permit-types",
+      "label": "Find the right permit"
+    },
+    {
+      "file": "sections/05-prepare.json",
+      "anchor": "sx-prepare",
+      "label": "Application preparation"
+    },
+    {
+      "file": "sections/06-service-scope.json",
+      "anchor": "sx-service-scope",
+      "label": "Permit service scope"
+    },
+    {
+      "file": "sections/07-event-services.json",
+      "anchor": "sx-event-services",
+      "label": "Event services"
+    },
+    {
+      "file": "sections/08-stay-support.json",
+      "anchor": "sx-stay-support",
+      "label": "Hotel and visa support"
+    },
+    {
+      "file": "sections/09-permit-fees.json",
+      "anchor": "sx-permit-fees",
+      "label": "Permit fees and timelines"
+    },
+    {
+      "file": "sections/10-experience.json",
+      "anchor": "sx-experience",
+      "label": "Event experience"
+    },
+    {
+      "file": "sections/11-permit-faq.json",
+      "anchor": "sx-permit-faq",
+      "label": "Permit questions"
+    },
+    {
+      "file": "sections/12-event-brief.json",
+      "anchor": "sx-event-brief",
+      "label": "Event brief"
+    },
+    {
+      "file": "sections/13-permit-guides.json",
+      "anchor": "sx-permit-guides",
+      "label": "Permit guides and resources"
+    },
+    {
+      "file": "sections/14-footer.json",
+      "anchor": "sx-footer",
+      "label": "Footer"
+    }
+  ],
+  "elements": 236,
+  "palette": {
+    "bg": "#1D162A",
+    "accent": "#8F7BB8",
+    "panel": "#2B203D",
+    "line": "#3A3447",
+    "lavender": "#C9BCE3",
+    "gray": "#F5F5F7",
+    "soft": "#FAFAFC",
+    "silver": "#D8D8E0",
+    "white": "#FFFFFF",
+    "ink": "#4A4557"
+  },
+  "media": {
+    "stand": {
+      "id": 5608,
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/08/Watad-BIG-5-Exhibition-Stand.jpeg"
+    },
+    "banquet": {
+      "id": "6342",
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/catering-for-events-banquet-decorated-table-table-setting-decoration.jpg"
+    },
+    "tables": {
+      "id": "6341",
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/wedding-table-set-for-fine-dining-or-another-catered-event.jpg"
+    },
+    "guests": {
+      "id": "6338",
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/organization-of-weddings-parties-catering-for-events-female-on-the-background-banquet-decorated-2.jpg"
+    },
+    "meeting": {
+      "id": "6678",
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/10/couple-paying-for-catering.jpg"
+    },
+    "laptop": {
+      "id": "6386",
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/young-handsome-waiter-servicing-black-girl-customer-with-laptop-in-cafe.jpg"
+    }
+  },
+  "baseline": "brand-sections-6941/SYNCs-Sections-6941-Brand-Colors.json",
+  "baseline_sha256": "af831d639238875195511a7efd395619d789ec8107a4b90aed9a85a6843b178b",
+  "status": "native saved-template bundle; WordPress staging import/edit/re-export pending"
+}

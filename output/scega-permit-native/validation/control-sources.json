@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/elementor/elementor/main/modules/nested-tabs/widgets/nested-tabs.php",
+    "sha256": "4d72ab8628a77aef2bf00bf581ec6275046a1039cf4c6d563d7845843de17773",
+    "provenance": "official Elementor Free"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/elementor/elementor/main/modules/nested-accordion/widgets/nested-accordion.php",
+    "sha256": "8906a013085ec5ee05f944be46438f4fdc599d0c3a54aa967b03d7c4467d1dcc",
+    "provenance": "official Elementor Free"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/forms/widgets/form.php",
+    "sha256": "c030523c3d334d103db2288449f75c9855330d482bd4a6602c3d8700b9bd451e",
+    "provenance": "public GPL compatibility fork, not installed Elementor Pro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/forms/submissions/actions/save-to-database.php",
+    "sha256": "24f4093d5d3a3be492352d0b7f5952a2ddfe1bb6e237cf94c1d1f42b45e30833",
+    "provenance": "public GPL compatibility fork, not installed Elementor Pro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/loop-builder/widgets/loop-grid.php",
+    "sha256": "07cfb247cc0d904c1d3a2347df63687f42e15c613cbb11475b936f96e2eefb3f",
+    "provenance": "public GPL compatibility fork, not installed Elementor Pro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/loop-builder/widgets/base.php",
+    "sha256": "3d2fae2645b9113ac27fc08812975f31560dd89e7c83ad52a382602fd3fe2e73",
+    "provenance": "public GPL compatibility fork, not installed Elementor Pro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+    "provenance": "official Google Fonts; internal QA only"
+  }
+]
