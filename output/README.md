@@ -1,4 +1,8 @@
-# Latest delivery: service content, no visitor filter
+# Latest delivery: brand colors for user export #6941
+
+Use `brand-sections-6941/` and `SYNCs-Sections-6941-Brand-Colors.zip` for the 2026-10-20 request. The full native page and four individual section JSONs apply the supplied SYNCs palette while preserving all 113 original elements and all ten first-party image URLs. No photo files are bundled. Read `brand-sections-6941/import-instructions-ar.md`; actual Elementor staging import and live image availability remain untested.
+
+# Earlier delivery: service content, no visitor filter
 
 Use `service-content-no-filter/` and `SYNCs-Service-Content-No-Filter.zip` for the latest request: previous expanding-card design with a native dynamic Loop Grid, no Taxonomy Filter, and the service category selected once in native Query settings. AR/EN and Projects/Articles variants plus a reusable Post URL card are included. Read `service-content-no-filter/import-instructions-ar.md` before importing; actual WordPress compatibility and category/language results need staging checks.
 

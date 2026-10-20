@@ -1,0 +1,53 @@
+{
+  "scope": "Independent palette harness only; not an actual Elementor or WordPress render",
+  "results": [
+    {
+      "width": 1440,
+      "passed": true,
+      "buttonNormal": {
+        "background": "rgb(143, 123, 184)",
+        "color": "rgb(29, 22, 42)"
+      },
+      "buttonHoverBackground": "rgb(201, 188, 227)",
+      "tabHover": {
+        "background": "rgb(201, 188, 227)",
+        "color": "rgb(29, 22, 42)"
+      },
+      "sections": 4,
+      "scroll": 1440,
+      "images": 0
+    },
+    {
+      "width": 768,
+      "passed": true,
+      "buttonNormal": {
+        "background": "rgb(143, 123, 184)",
+        "color": "rgb(29, 22, 42)"
+      },
+      "buttonHoverBackground": "rgb(201, 188, 227)",
+      "tabHover": {
+        "background": "rgb(201, 188, 227)",
+        "color": "rgb(29, 22, 42)"
+      },
+      "sections": 4,
+      "scroll": 768,
+      "images": 0
+    },
+    {
+      "width": 390,
+      "passed": true,
+      "buttonNormal": {
+        "background": "rgb(143, 123, 184)",
+        "color": "rgb(29, 22, 42)"
+      },
+      "buttonHoverBackground": "rgb(201, 188, 227)",
+      "tabHover": {
+        "background": "rgb(201, 188, 227)",
+        "color": "rgb(29, 22, 42)"
+      },
+      "sections": 4,
+      "scroll": 390,
+      "images": 0
+    }
+  ]
+}

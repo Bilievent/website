@@ -1,0 +1,129 @@
+{
+  "passed": true,
+  "templates": 5,
+  "sections": 4,
+  "elements": 113,
+  "native_widget_types": [
+    "animated-headline",
+    "button",
+    "counter",
+    "divider",
+    "heading",
+    "icon",
+    "icon-box",
+    "icon-list",
+    "image-carousel",
+    "nested-tabs",
+    "text-editor"
+  ],
+  "retained_media_placements": 18,
+  "retained_unique_image_urls": 10,
+  "colors": [
+    "#1D162A",
+    "#1D162A00",
+    "#1D162A0D",
+    "#2B203D",
+    "#2B203D00",
+    "#3A3447",
+    "#4A4557",
+    "#8F7BB8",
+    "#C9BCE3",
+    "#D8D8E0",
+    "#F5F5F7",
+    "#FAFAFC",
+    "#FFFFFF"
+  ],
+  "contrast": [
+    {
+      "label": "Button normal",
+      "foreground": "#1D162A",
+      "background": "#8F7BB8",
+      "ratio": 4.743,
+      "minimum": 4.5
+    },
+    {
+      "label": "Button hover/focus",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.818,
+      "minimum": 4.5
+    },
+    {
+      "label": "Dark section heading",
+      "foreground": "#FFFFFF",
+      "background": "#1D162A",
+      "ratio": 17.494,
+      "minimum": 4.5
+    },
+    {
+      "label": "Dark section body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.344,
+      "minimum": 4.5
+    },
+    {
+      "label": "Light section body",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.835,
+      "minimum": 4.5
+    },
+    {
+      "label": "Light gray body",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.459,
+      "minimum": 4.5
+    },
+    {
+      "label": "Counter panel body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.764,
+      "minimum": 4.5
+    },
+    {
+      "label": "Dark eyebrow",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.561,
+      "minimum": 4.5
+    },
+    {
+      "label": "Light eyebrow",
+      "foreground": "#2B203D",
+      "background": "#C9BCE3",
+      "ratio": 8.561,
+      "minimum": 4.5
+    },
+    {
+      "label": "Tab normal",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.459,
+      "minimum": 4.5
+    },
+    {
+      "label": "Tab hover/selected",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.818,
+      "minimum": 4.5
+    },
+    {
+      "label": "Large highlighted headline",
+      "foreground": "#8F7BB8",
+      "background": "#FAFAFC",
+      "ratio": 3.538,
+      "minimum": 3.0
+    }
+  ],
+  "noncolor_content_unchanged": true,
+  "not_run": [
+    "WordPress import/editor/re-export",
+    "installed plugin version compatibility",
+    "live images",
+    "actual Elementor responsive layout and motion"
+  ]
+}

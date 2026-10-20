@@ -1,0 +1,17 @@
+{
+  "file": "SYNCs-Sections-6941-Brand-Colors.zip",
+  "sha256": "826b1e47022c34dbb939c15c9ba8493b4702db0bc30884b82eede828cdc805eb",
+  "bytes": 38550,
+  "entries": [
+    "SYNCs-Sections-6941-Brand-Colors.json",
+    "SYNCs-01-Projects-Stacked.json",
+    "SYNCs-02-About.json",
+    "SYNCs-03-Projects-Scroll.json",
+    "SYNCs-04-Why-Choose-Us.json",
+    "import-instructions-ar.md",
+    "design-spec.md",
+    "qa-report.md"
+  ],
+  "photo_files": 0,
+  "integrity_passed": true
+}

@@ -1,0 +1,21 @@
+{
+  "source_filename": "elementor-6941-2026-10-20.json",
+  "source_sha256": "e4181c34739e19282b620dff4543e6634621bc38ed84d91d1d037d0935ce0c90",
+  "noncolor_content_sha256": "87fd85e93e3c4dd46cc2223b91f19e0d617d7b5cdd767a991a7ad23ef07df12b",
+  "sections": 4,
+  "elements": 113,
+  "palette": {
+    "midnight": "#1D162A",
+    "royal": "#8F7BB8",
+    "dark": "#2B203D",
+    "charcoal": "#3A3447",
+    "lavender": "#C9BCE3",
+    "gray": "#F5F5F7",
+    "soft": "#FAFAFC",
+    "silver": "#D8D8E0",
+    "white": "#FFFFFF",
+    "graphite": "#4A4557"
+  },
+  "template": "SYNCs-Sections-6941-Brand-Colors.json",
+  "status": "native export recolored; actual Elementor staging import pending"
+}
