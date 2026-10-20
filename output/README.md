@@ -1,4 +1,8 @@
-# Latest delivery: brand colors for user export #6941
+# Latest delivery: Why Us with five native service cards
+
+Use `why-us-native-five/` and `SYNCs-Native-Why-Us-5-Services.zip` for the screenshot-based Why Us revision. `SYNCs-All-Sections-Native-Why-Us.json` includes all four sections; `SYNCs-Why-Us-Native-5-Services.json` contains only the replacement Why Us. The section uses only widget types already in the user's template, native Container backgrounds, and zero HTML widgets/custom CSS/custom JS. Five service index links navigate to five visible cards. Read `why-us-native-five/import-instructions-ar.md`; actual Elementor staging import remains pending.
+
+# Earlier delivery: brand colors for user export #6941
 
 Use `brand-sections-6941/` and `SYNCs-Sections-6941-Brand-Colors.zip` for the 2026-10-20 request. The full native page and four individual section JSONs apply the supplied SYNCs palette while preserving all 113 original elements and all ten first-party image URLs. No photo files are bundled. Read `brand-sections-6941/import-instructions-ar.md`; actual Elementor staging import and live image availability remain untested.
 

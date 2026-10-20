@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "event-management",
+    "title": "Event Management",
+    "description": "From the first brief to the last guest, bring planning, logistics and live delivery together.",
+    "tags": ["Strategy", "Planning", "Logistics", "Live Delivery"],
+    "points": ["Event strategy & planning", "Venue and supplier coordination", "On-site event operations"],
+    "media_id": "6342",
+    "image_url": "https://syncs.com.sa/wp-content/uploads/2026/09/catering-for-events-banquet-decorated-table-table-setting-decoration.jpg"
+  },
+  {
+    "slug": "event-production",
+    "title": "Event Production",
+    "description": "Turn the creative concept into a coordinated production, from staging and scenic elements to the final show.",
+    "tags": ["Staging", "Scenic", "Show Production"],
+    "points": ["Set and stage design", "Production planning", "Show-day coordination"],
+    "media_id": 5608,
+    "image_url": "https://syncs.com.sa/wp-content/uploads/2026/08/Watad-BIG-5-Exhibition-Stand.jpeg"
+  },
+  {
+    "slug": "event-technology",
+    "title": "Event Technology",
+    "description": "Connect the event journey with registration, digital experiences and practical technology for guests and teams.",
+    "tags": ["Registration", "Digital Experiences", "Integration"],
+    "points": ["Guest registration and check-in", "Interactive event experiences", "Technology coordination"],
+    "media_id": 5608,
+    "image_url": "https://syncs.com.sa/wp-content/uploads/2026/08/Watad-BIG-5-Exhibition-Stand.jpeg"
+  },
+  {
+    "slug": "avl-solutions",
+    "title": "AVL Solutions",
+    "description": "Bring audio, visuals and lighting together to support the atmosphere, content and flow of your event.",
+    "tags": ["Audio", "Visual", "Lighting"],
+    "points": ["Sound and microphone coordination", "LED screens and visual content", "Lighting design and show control"],
+    "media_id": "6341",
+    "image_url": "https://syncs.com.sa/wp-content/uploads/2026/09/wedding-table-set-for-fine-dining-or-another-catered-event.jpg"
+  },
+  {
+    "slug": "brand-activation",
+    "title": "Brand Activation",
+    "description": "Turn your brand into an experience that invites participation and builds meaningful connections with your audience.",
+    "tags": ["Audience Engagement", "Experiential", "Brand Stories"],
+    "points": ["Brand experience planning", "On-ground activation delivery", "Audience engagement and interaction"],
+    "media_id": "6338",
+    "image_url": "https://syncs.com.sa/wp-content/uploads/2026/09/organization-of-weddings-parties-catering-for-events-female-on-the-background-banquet-decorated-2.jpg"
+  }
+]

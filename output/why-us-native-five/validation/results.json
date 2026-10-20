@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "section_elements": 68,
+  "section_types": {
+    "container": 30,
+    "heading": 17,
+    "icon-list": 11,
+    "text-editor": 5,
+    "button": 5
+  },
+  "only_existing_native_widget_types": true,
+  "custom_html_css_js_widgets": 0,
+  "services": [
+    "Event Management",
+    "Event Production",
+    "Event Technology",
+    "AVL Solutions",
+    "Brand Activation"
+  ],
+  "anchors": [
+    "#sx-whyus-event-management",
+    "#sx-whyus-event-production",
+    "#sx-whyus-event-technology",
+    "#sx-whyus-avl-solutions",
+    "#sx-whyus-brand-activation"
+  ],
+  "images": 5,
+  "new_image_files": 0,
+  "first_three_sections_unchanged": true,
+  "source_sha256": "af831d639238875195511a7efd395619d789ec8107a4b90aed9a85a6843b178b",
+  "contact_fallback": "https://syncs.com.sa/contact-us/",
+  "solid_background_contrast": [
+    {
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21
+    },
+    {
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.835
+    },
+    {
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.459
+    },
+    {
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.818
+    }
+  ],
+  "not_run": [
+    "WordPress import/edit/re-export",
+    "live media availability",
+    "native Pro sticky runtime",
+    "actual installed Elementor/Pro version compatibility"
+  ]
+}

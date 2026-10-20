@@ -1,0 +1,14 @@
+{
+  "file": "SYNCs-Native-Why-Us-5-Services.zip",
+  "bytes": 31716,
+  "sha256": "106a8c01ee51b9ddb8b7af41735594e7e4096dfbb8c1b14594994d68c18503db",
+  "entries": [
+    "SYNCs-All-Sections-Native-Why-Us.json",
+    "SYNCs-Why-Us-Native-5-Services.json",
+    "import-instructions-ar.md",
+    "design-spec.md",
+    "qa-report.md"
+  ],
+  "integrity_passed": true,
+  "html_css_js_image_files": 0
+}

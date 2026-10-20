@@ -1,0 +1,143 @@
+{
+  "scope": "Independent DOM harness generated from native JSON controls; not WordPress/Elementor runtime. Photos unavailable and replaced by the specified native solid fallback only in QA.",
+  "results": [
+    {
+      "width": 1440,
+      "passed": true,
+      "noHorizontalOverflow": true,
+      "nav": {
+        "x": 72,
+        "y": 208.96875,
+        "width": 408.234375,
+        "height": 288
+      },
+      "firstCard": {
+        "x": 545.046875,
+        "y": 208.96875,
+        "width": 822.953125,
+        "height": 488.296875
+      },
+      "nativeAnchorChecks": [
+        {
+          "target": "#sx-whyus-event-management",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-event-production",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-event-technology",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-avl-solutions",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-brand-activation",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        }
+      ],
+      "keyboardEnter": true,
+      "customJavaScriptDisabled": true
+    },
+    {
+      "width": 768,
+      "passed": true,
+      "noHorizontalOverflow": true,
+      "nav": {
+        "x": 24,
+        "y": 182.71875,
+        "width": 720,
+        "height": 288
+      },
+      "firstCard": {
+        "x": 24,
+        "y": 494.71875,
+        "width": 720,
+        "height": 472.296875
+      },
+      "nativeAnchorChecks": [
+        {
+          "target": "#sx-whyus-event-management",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-event-production",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-event-technology",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-avl-solutions",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-brand-activation",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        }
+      ],
+      "keyboardEnter": true,
+      "customJavaScriptDisabled": true
+    },
+    {
+      "width": 390,
+      "passed": true,
+      "noHorizontalOverflow": true,
+      "nav": {
+        "x": 20,
+        "y": 145.03125,
+        "width": 350,
+        "height": 288
+      },
+      "firstCard": {
+        "x": 20,
+        "y": 457.03125,
+        "width": 350,
+        "height": 761.109375
+      },
+      "nativeAnchorChecks": [
+        {
+          "target": "#sx-whyus-event-management",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-event-production",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-event-technology",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-avl-solutions",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        },
+        {
+          "target": "#sx-whyus-brand-activation",
+          "nativeAnchor": true,
+          "targetHeight": 48
+        }
+      ],
+      "keyboardEnter": true,
+      "customJavaScriptDisabled": true
+    }
+  ]
+}

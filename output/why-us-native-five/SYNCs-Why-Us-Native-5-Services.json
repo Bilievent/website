@@ -1,0 +1,3235 @@
+{
+  "content": [
+    {
+      "id": "4361074",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "32",
+          "row": "32",
+          "isLinked": true,
+          "size": 32
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "24",
+          "bottom": "80",
+          "left": "24",
+          "isLinked": false
+        },
+        "_title": "Why Us — five services",
+        "html_tag": "section",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "64",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "36",
+          "right": "20",
+          "bottom": "48",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F5F5F7"
+      },
+      "elements": [
+        {
+          "id": "92b564c",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "size": 0
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "_title": "Why Us title"
+          },
+          "elements": [
+            {
+              "id": "eaee36c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "_title": "Why Us line one",
+                "title": "Five ways in.",
+                "header_size": "h2",
+                "title_color": "#4A4557",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 64,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.07,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 48,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": -2,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false
+            },
+            {
+              "id": "eccf6f4",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "_title": "Why Us line two",
+                "title": "One way of working.",
+                "header_size": "div",
+                "title_color": "#4A4557",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 64,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.07,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 48,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": -2,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0b2f12f",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "40",
+              "row": "40",
+              "isLinked": true,
+              "size": 40
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "_title": "Services two columns",
+            "flex_justify_content": "space-between",
+            "flex_align_items": "flex-start",
+            "flex_direction_tablet": "column",
+            "flex_gap_tablet": {
+              "unit": "px",
+              "column": "24",
+              "row": "24",
+              "isLinked": true,
+              "size": 24
+            },
+            "flex_align_items_tablet": "stretch"
+          },
+          "elements": [
+            {
+              "id": "b6bce50",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "size": 0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "12",
+                  "bottom": "12",
+                  "left": "12",
+                  "isLinked": true
+                },
+                "_title": "Service navigation",
+                "html_tag": "nav",
+                "width": {
+                  "unit": "%",
+                  "size": 31.5,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FAFAFC",
+                "sticky": "top",
+                "sticky_on": [
+                  "desktop"
+                ],
+                "sticky_offset": 120,
+                "sticky_parent": "yes"
+              },
+              "elements": [
+                {
+                  "id": "f2b7ed0",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "_title": "Five services navigation",
+                    "icon_list": [
+                      {
+                        "_id": "07c925b",
+                        "text": "P.01  Event Management",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "#sx-whyus-event-management",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "d05b657",
+                        "text": "P.02  Event Production",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "#sx-whyus-event-production",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "9ce807b",
+                        "text": "P.03  Event Technology",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "#sx-whyus-event-technology",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "863105d",
+                        "text": "P.04  AVL Solutions",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "#sx-whyus-avl-solutions",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "97d6fc2",
+                        "text": "P.05  Brand Activation",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "#sx-whyus-brand-activation",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "text_color": "#4A4557",
+                    "icon_color": "#4A4557",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 0,
+                      "sizes": []
+                    },
+                    "text_indent": {
+                      "unit": "px",
+                      "size": 0,
+                      "sizes": []
+                    },
+                    "space_between": {
+                      "unit": "px",
+                      "size": 4,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Manrope",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "500",
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 3,
+                      "sizes": []
+                    },
+                    "link_click": "full_width",
+                    "divider": "yes",
+                    "divider_style": "solid",
+                    "divider_weight": {
+                      "unit": "px",
+                      "size": 1,
+                      "sizes": []
+                    },
+                    "divider_color": "#D8D8E0",
+                    "divider_width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "text_color_hover": "#1D162A",
+                    "_padding": {
+                      "unit": "px",
+                      "top": "2",
+                      "right": "14",
+                      "bottom": "2",
+                      "left": "14",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "3562c43",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "18",
+                  "row": "18",
+                  "isLinked": true,
+                  "size": 18
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "_title": "Service cards",
+                "width": {
+                  "unit": "%",
+                  "size": 63.5,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "781f92a",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "18",
+                      "row": "18",
+                      "isLinked": true,
+                      "size": 18
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "40",
+                      "right": "40",
+                      "bottom": "40",
+                      "left": "40",
+                      "isLinked": true
+                    },
+                    "_title": "event-management service card",
+                    "html_tag": "article",
+                    "_element_id": "sx-whyus-event-management",
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "32",
+                      "right": "32",
+                      "bottom": "32",
+                      "left": "32",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "54e6b79",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "16",
+                          "row": "16",
+                          "isLinked": true,
+                          "size": 16
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "event-management header",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "center",
+                        "flex_direction_mobile": "column",
+                        "flex_align_items_mobile": "flex-start"
+                      },
+                      "elements": [
+                        {
+                          "id": "fd9e560",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "event-management title",
+                            "title": "Event Management",
+                            "header_size": "h3",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 28,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 23,
+                              "sizes": []
+                            },
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        },
+                        {
+                          "id": "602762c",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "event-management code",
+                            "title": "P.01 / SYNC SERVICES",
+                            "header_size": "p",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 10,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "500",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "align": "right",
+                            "align_mobile": "left",
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "252b28c",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "_title": "event-management description",
+                        "editor": "<p>From the first brief to the last guest, bring planning, logistics and live delivery together.</p>",
+                        "text_color": "#4A4557",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "50c7cb1",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "event-management tags",
+                        "icon_list": [
+                          {
+                            "_id": "56a08f0",
+                            "text": "Strategy",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "41aaac3",
+                            "text": "Planning",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "a417df3",
+                            "text": "Logistics",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "7f311d2",
+                            "text": "Live Delivery",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          }
+                        ],
+                        "text_color": "#4A4557",
+                        "icon_color": "#4A4557",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "view": "inline"
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "0e29e41",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "20",
+                          "row": "20",
+                          "isLinked": true,
+                          "size": 20
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "event-management details and photo",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "stretch",
+                        "flex_direction_mobile": "column"
+                      },
+                      "elements": [
+                        {
+                          "id": "457aeed",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "12",
+                              "row": "12",
+                              "isLinked": true,
+                              "size": 12
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "24",
+                              "right": "24",
+                              "bottom": "24",
+                              "left": "24",
+                              "isLinked": true
+                            },
+                            "_title": "event-management details",
+                            "width": {
+                              "unit": "%",
+                              "size": 54,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#F5F5F7",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "ddea142",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "settings": {
+                                "_title": "event-management caption",
+                                "title": "YOUR EVENT, CONNECTED /",
+                                "header_size": "p",
+                                "title_color": "#4A4557",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Manrope",
+                                "typography_font_size": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.2,
+                                  "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                  "unit": "px",
+                                  "size": 1.1,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            },
+                            {
+                              "id": "f60bfa2",
+                              "elType": "widget",
+                              "widgetType": "icon-list",
+                              "settings": {
+                                "_title": "event-management points",
+                                "icon_list": [
+                                  {
+                                    "_id": "195fa46",
+                                    "text": "Event strategy & planning",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "e0b1639",
+                                    "text": "Venue and supplier coordination",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "19b2d55",
+                                    "text": "On-site event operations",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  }
+                                ],
+                                "text_color": "#4A4557",
+                                "icon_color": "#4A4557",
+                                "icon_size": {
+                                  "unit": "px",
+                                  "size": 4,
+                                  "sizes": []
+                                },
+                                "text_indent": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "space_between": {
+                                  "unit": "px",
+                                  "size": 8,
+                                  "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Manrope",
+                                "icon_typography_font_size": {
+                                  "unit": "px",
+                                  "size": 14,
+                                  "sizes": []
+                                },
+                                "icon_typography_font_weight": "400",
+                                "icon_typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.65,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            }
+                          ],
+                          "isInner": false
+                        },
+                        {
+                          "id": "377ea3b",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "0",
+                              "row": "0",
+                              "isLinked": true,
+                              "size": 0
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "_title": "event-management photo",
+                            "width": {
+                              "unit": "%",
+                              "size": 42,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#2B203D",
+                            "background_image": {
+                              "id": "6342",
+                              "url": "https://syncs.com.sa/wp-content/uploads/2026/09/catering-for-events-banquet-decorated-table-table-setting-decoration.jpg"
+                            },
+                            "background_size": "cover",
+                            "background_position": "center center",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            },
+                            "min_height_mobile": {
+                              "unit": "px",
+                              "size": 210,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "34b16c2",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "_title": "event-management contact",
+                        "text": "Discuss this service",
+                        "link": {
+                          "url": "https://syncs.com.sa/contact-us/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-arrow-right",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "row-reverse",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right",
+                        "align_mobile": "left",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "button_text_color": "#4A4557",
+                        "button_background_hover_background": "classic",
+                        "button_background_hover_color": "#C9BCE3",
+                        "hover_color": "#1D162A",
+                        "border_border": "solid",
+                        "border_color": "#D8D8E0",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "30",
+                          "right": "30",
+                          "bottom": "30",
+                          "left": "30",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "897a1d9",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "18",
+                      "row": "18",
+                      "isLinked": true,
+                      "size": 18
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "40",
+                      "right": "40",
+                      "bottom": "40",
+                      "left": "40",
+                      "isLinked": true
+                    },
+                    "_title": "event-production service card",
+                    "html_tag": "article",
+                    "_element_id": "sx-whyus-event-production",
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "32",
+                      "right": "32",
+                      "bottom": "32",
+                      "left": "32",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "aca47f4",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "16",
+                          "row": "16",
+                          "isLinked": true,
+                          "size": 16
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "event-production header",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "center",
+                        "flex_direction_mobile": "column",
+                        "flex_align_items_mobile": "flex-start"
+                      },
+                      "elements": [
+                        {
+                          "id": "b271a66",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "event-production title",
+                            "title": "Event Production",
+                            "header_size": "h3",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 28,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 23,
+                              "sizes": []
+                            },
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        },
+                        {
+                          "id": "d3f495d",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "event-production code",
+                            "title": "P.02 / SYNC SERVICES",
+                            "header_size": "p",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 10,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "500",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "align": "right",
+                            "align_mobile": "left",
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "f3f1ca2",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "_title": "event-production description",
+                        "editor": "<p>Turn the creative concept into a coordinated production, from staging and scenic elements to the final show.</p>",
+                        "text_color": "#4A4557",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "e633bdb",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "event-production tags",
+                        "icon_list": [
+                          {
+                            "_id": "60b7ade",
+                            "text": "Staging",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "fe839f0",
+                            "text": "Scenic",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "cd4a54a",
+                            "text": "Show Production",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          }
+                        ],
+                        "text_color": "#4A4557",
+                        "icon_color": "#4A4557",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "view": "inline"
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "cd1ed7d",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "20",
+                          "row": "20",
+                          "isLinked": true,
+                          "size": 20
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "event-production details and photo",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "stretch",
+                        "flex_direction_mobile": "column"
+                      },
+                      "elements": [
+                        {
+                          "id": "24b3284",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "12",
+                              "row": "12",
+                              "isLinked": true,
+                              "size": 12
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "24",
+                              "right": "24",
+                              "bottom": "24",
+                              "left": "24",
+                              "isLinked": true
+                            },
+                            "_title": "event-production details",
+                            "width": {
+                              "unit": "%",
+                              "size": 54,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#F5F5F7",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "bc9a98b",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "settings": {
+                                "_title": "event-production caption",
+                                "title": "YOUR EVENT, CONNECTED /",
+                                "header_size": "p",
+                                "title_color": "#4A4557",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Manrope",
+                                "typography_font_size": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.2,
+                                  "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                  "unit": "px",
+                                  "size": 1.1,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            },
+                            {
+                              "id": "841dab4",
+                              "elType": "widget",
+                              "widgetType": "icon-list",
+                              "settings": {
+                                "_title": "event-production points",
+                                "icon_list": [
+                                  {
+                                    "_id": "7654a90",
+                                    "text": "Set and stage design",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "7d361de",
+                                    "text": "Production planning",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "3fa4b7e",
+                                    "text": "Show-day coordination",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  }
+                                ],
+                                "text_color": "#4A4557",
+                                "icon_color": "#4A4557",
+                                "icon_size": {
+                                  "unit": "px",
+                                  "size": 4,
+                                  "sizes": []
+                                },
+                                "text_indent": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "space_between": {
+                                  "unit": "px",
+                                  "size": 8,
+                                  "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Manrope",
+                                "icon_typography_font_size": {
+                                  "unit": "px",
+                                  "size": 14,
+                                  "sizes": []
+                                },
+                                "icon_typography_font_weight": "400",
+                                "icon_typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.65,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            }
+                          ],
+                          "isInner": false
+                        },
+                        {
+                          "id": "27358c6",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "0",
+                              "row": "0",
+                              "isLinked": true,
+                              "size": 0
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "_title": "event-production photo",
+                            "width": {
+                              "unit": "%",
+                              "size": 42,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#2B203D",
+                            "background_image": {
+                              "id": 5608,
+                              "url": "https://syncs.com.sa/wp-content/uploads/2026/08/Watad-BIG-5-Exhibition-Stand.jpeg"
+                            },
+                            "background_size": "cover",
+                            "background_position": "center center",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            },
+                            "min_height_mobile": {
+                              "unit": "px",
+                              "size": 210,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "95d8855",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "_title": "event-production contact",
+                        "text": "Discuss this service",
+                        "link": {
+                          "url": "https://syncs.com.sa/contact-us/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-arrow-right",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "row-reverse",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right",
+                        "align_mobile": "left",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "button_text_color": "#4A4557",
+                        "button_background_hover_background": "classic",
+                        "button_background_hover_color": "#C9BCE3",
+                        "hover_color": "#1D162A",
+                        "border_border": "solid",
+                        "border_color": "#D8D8E0",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "30",
+                          "right": "30",
+                          "bottom": "30",
+                          "left": "30",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "3b54af1",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "18",
+                      "row": "18",
+                      "isLinked": true,
+                      "size": 18
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "40",
+                      "right": "40",
+                      "bottom": "40",
+                      "left": "40",
+                      "isLinked": true
+                    },
+                    "_title": "event-technology service card",
+                    "html_tag": "article",
+                    "_element_id": "sx-whyus-event-technology",
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "32",
+                      "right": "32",
+                      "bottom": "32",
+                      "left": "32",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "3b30ab7",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "16",
+                          "row": "16",
+                          "isLinked": true,
+                          "size": 16
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "event-technology header",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "center",
+                        "flex_direction_mobile": "column",
+                        "flex_align_items_mobile": "flex-start"
+                      },
+                      "elements": [
+                        {
+                          "id": "549a81b",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "event-technology title",
+                            "title": "Event Technology",
+                            "header_size": "h3",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 28,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 23,
+                              "sizes": []
+                            },
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        },
+                        {
+                          "id": "5d28438",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "event-technology code",
+                            "title": "P.03 / SYNC SERVICES",
+                            "header_size": "p",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 10,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "500",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "align": "right",
+                            "align_mobile": "left",
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "f4658f8",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "_title": "event-technology description",
+                        "editor": "<p>Connect the event journey with registration, digital experiences and practical technology for guests and teams.</p>",
+                        "text_color": "#4A4557",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "964daea",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "event-technology tags",
+                        "icon_list": [
+                          {
+                            "_id": "ebcbb0b",
+                            "text": "Registration",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "b2f61e5",
+                            "text": "Digital Experiences",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "390cb87",
+                            "text": "Integration",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          }
+                        ],
+                        "text_color": "#4A4557",
+                        "icon_color": "#4A4557",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "view": "inline"
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "dbeb4e6",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "20",
+                          "row": "20",
+                          "isLinked": true,
+                          "size": 20
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "event-technology details and photo",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "stretch",
+                        "flex_direction_mobile": "column"
+                      },
+                      "elements": [
+                        {
+                          "id": "2466ddb",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "12",
+                              "row": "12",
+                              "isLinked": true,
+                              "size": 12
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "24",
+                              "right": "24",
+                              "bottom": "24",
+                              "left": "24",
+                              "isLinked": true
+                            },
+                            "_title": "event-technology details",
+                            "width": {
+                              "unit": "%",
+                              "size": 54,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#F5F5F7",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "8c44c4f",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "settings": {
+                                "_title": "event-technology caption",
+                                "title": "YOUR EVENT, CONNECTED /",
+                                "header_size": "p",
+                                "title_color": "#4A4557",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Manrope",
+                                "typography_font_size": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.2,
+                                  "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                  "unit": "px",
+                                  "size": 1.1,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            },
+                            {
+                              "id": "d253fa4",
+                              "elType": "widget",
+                              "widgetType": "icon-list",
+                              "settings": {
+                                "_title": "event-technology points",
+                                "icon_list": [
+                                  {
+                                    "_id": "194fe31",
+                                    "text": "Guest registration and check-in",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "c593281",
+                                    "text": "Interactive event experiences",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "381574c",
+                                    "text": "Technology coordination",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  }
+                                ],
+                                "text_color": "#4A4557",
+                                "icon_color": "#4A4557",
+                                "icon_size": {
+                                  "unit": "px",
+                                  "size": 4,
+                                  "sizes": []
+                                },
+                                "text_indent": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "space_between": {
+                                  "unit": "px",
+                                  "size": 8,
+                                  "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Manrope",
+                                "icon_typography_font_size": {
+                                  "unit": "px",
+                                  "size": 14,
+                                  "sizes": []
+                                },
+                                "icon_typography_font_weight": "400",
+                                "icon_typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.65,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            }
+                          ],
+                          "isInner": false
+                        },
+                        {
+                          "id": "b920c9e",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "0",
+                              "row": "0",
+                              "isLinked": true,
+                              "size": 0
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "_title": "event-technology photo",
+                            "width": {
+                              "unit": "%",
+                              "size": 42,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#2B203D",
+                            "background_image": {
+                              "id": 5608,
+                              "url": "https://syncs.com.sa/wp-content/uploads/2026/08/Watad-BIG-5-Exhibition-Stand.jpeg"
+                            },
+                            "background_size": "cover",
+                            "background_position": "center center",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            },
+                            "min_height_mobile": {
+                              "unit": "px",
+                              "size": 210,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "070ed09",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "_title": "event-technology contact",
+                        "text": "Discuss this service",
+                        "link": {
+                          "url": "https://syncs.com.sa/contact-us/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-arrow-right",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "row-reverse",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right",
+                        "align_mobile": "left",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "button_text_color": "#4A4557",
+                        "button_background_hover_background": "classic",
+                        "button_background_hover_color": "#C9BCE3",
+                        "hover_color": "#1D162A",
+                        "border_border": "solid",
+                        "border_color": "#D8D8E0",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "30",
+                          "right": "30",
+                          "bottom": "30",
+                          "left": "30",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "ecdb952",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "18",
+                      "row": "18",
+                      "isLinked": true,
+                      "size": 18
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "40",
+                      "right": "40",
+                      "bottom": "40",
+                      "left": "40",
+                      "isLinked": true
+                    },
+                    "_title": "avl-solutions service card",
+                    "html_tag": "article",
+                    "_element_id": "sx-whyus-avl-solutions",
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "32",
+                      "right": "32",
+                      "bottom": "32",
+                      "left": "32",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "81d0024",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "16",
+                          "row": "16",
+                          "isLinked": true,
+                          "size": 16
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "avl-solutions header",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "center",
+                        "flex_direction_mobile": "column",
+                        "flex_align_items_mobile": "flex-start"
+                      },
+                      "elements": [
+                        {
+                          "id": "67531d2",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "avl-solutions title",
+                            "title": "AVL Solutions",
+                            "header_size": "h3",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 28,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 23,
+                              "sizes": []
+                            },
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        },
+                        {
+                          "id": "f7252e6",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "avl-solutions code",
+                            "title": "P.04 / SYNC SERVICES",
+                            "header_size": "p",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 10,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "500",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "align": "right",
+                            "align_mobile": "left",
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "860317d",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "_title": "avl-solutions description",
+                        "editor": "<p>Bring audio, visuals and lighting together to support the atmosphere, content and flow of your event.</p>",
+                        "text_color": "#4A4557",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "50db8b8",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "avl-solutions tags",
+                        "icon_list": [
+                          {
+                            "_id": "7ecff16",
+                            "text": "Audio",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "98c332b",
+                            "text": "Visual",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "cad0a25",
+                            "text": "Lighting",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          }
+                        ],
+                        "text_color": "#4A4557",
+                        "icon_color": "#4A4557",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "view": "inline"
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "3e8cf73",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "20",
+                          "row": "20",
+                          "isLinked": true,
+                          "size": 20
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "avl-solutions details and photo",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "stretch",
+                        "flex_direction_mobile": "column"
+                      },
+                      "elements": [
+                        {
+                          "id": "0cee8b6",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "12",
+                              "row": "12",
+                              "isLinked": true,
+                              "size": 12
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "24",
+                              "right": "24",
+                              "bottom": "24",
+                              "left": "24",
+                              "isLinked": true
+                            },
+                            "_title": "avl-solutions details",
+                            "width": {
+                              "unit": "%",
+                              "size": 54,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#F5F5F7",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "e0b8def",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "settings": {
+                                "_title": "avl-solutions caption",
+                                "title": "YOUR EVENT, CONNECTED /",
+                                "header_size": "p",
+                                "title_color": "#4A4557",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Manrope",
+                                "typography_font_size": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.2,
+                                  "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                  "unit": "px",
+                                  "size": 1.1,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            },
+                            {
+                              "id": "1d15b0a",
+                              "elType": "widget",
+                              "widgetType": "icon-list",
+                              "settings": {
+                                "_title": "avl-solutions points",
+                                "icon_list": [
+                                  {
+                                    "_id": "a730bf7",
+                                    "text": "Sound and microphone coordination",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "42e936a",
+                                    "text": "LED screens and visual content",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "95d1a8b",
+                                    "text": "Lighting design and show control",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  }
+                                ],
+                                "text_color": "#4A4557",
+                                "icon_color": "#4A4557",
+                                "icon_size": {
+                                  "unit": "px",
+                                  "size": 4,
+                                  "sizes": []
+                                },
+                                "text_indent": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "space_between": {
+                                  "unit": "px",
+                                  "size": 8,
+                                  "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Manrope",
+                                "icon_typography_font_size": {
+                                  "unit": "px",
+                                  "size": 14,
+                                  "sizes": []
+                                },
+                                "icon_typography_font_weight": "400",
+                                "icon_typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.65,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            }
+                          ],
+                          "isInner": false
+                        },
+                        {
+                          "id": "7849a2d",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "0",
+                              "row": "0",
+                              "isLinked": true,
+                              "size": 0
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "_title": "avl-solutions photo",
+                            "width": {
+                              "unit": "%",
+                              "size": 42,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#2B203D",
+                            "background_image": {
+                              "id": "6341",
+                              "url": "https://syncs.com.sa/wp-content/uploads/2026/09/wedding-table-set-for-fine-dining-or-another-catered-event.jpg"
+                            },
+                            "background_size": "cover",
+                            "background_position": "center center",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            },
+                            "min_height_mobile": {
+                              "unit": "px",
+                              "size": 210,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "c02de0f",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "_title": "avl-solutions contact",
+                        "text": "Discuss this service",
+                        "link": {
+                          "url": "https://syncs.com.sa/contact-us/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-arrow-right",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "row-reverse",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right",
+                        "align_mobile": "left",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "button_text_color": "#4A4557",
+                        "button_background_hover_background": "classic",
+                        "button_background_hover_color": "#C9BCE3",
+                        "hover_color": "#1D162A",
+                        "border_border": "solid",
+                        "border_color": "#D8D8E0",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "30",
+                          "right": "30",
+                          "bottom": "30",
+                          "left": "30",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "b3873cd",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "18",
+                      "row": "18",
+                      "isLinked": true,
+                      "size": 18
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "40",
+                      "right": "40",
+                      "bottom": "40",
+                      "left": "40",
+                      "isLinked": true
+                    },
+                    "_title": "brand-activation service card",
+                    "html_tag": "article",
+                    "_element_id": "sx-whyus-brand-activation",
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "32",
+                      "right": "32",
+                      "bottom": "32",
+                      "left": "32",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "24",
+                      "right": "24",
+                      "bottom": "24",
+                      "left": "24",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "19f88ee",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "16",
+                          "row": "16",
+                          "isLinked": true,
+                          "size": 16
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "brand-activation header",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "center",
+                        "flex_direction_mobile": "column",
+                        "flex_align_items_mobile": "flex-start"
+                      },
+                      "elements": [
+                        {
+                          "id": "873b39a",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "brand-activation title",
+                            "title": "Brand Activation",
+                            "header_size": "h3",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 28,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 23,
+                              "sizes": []
+                            },
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        },
+                        {
+                          "id": "4b74123",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "_title": "brand-activation code",
+                            "title": "P.05 / SYNC SERVICES",
+                            "header_size": "p",
+                            "title_color": "#4A4557",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 10,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "500",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.2,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "align": "right",
+                            "align_mobile": "left",
+                            "_element_width": "auto"
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "bd943de",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "_title": "brand-activation description",
+                        "editor": "<p>Turn your brand into an experience that invites participation and builds meaningful connections with your audience.</p>",
+                        "text_color": "#4A4557",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "dcbfba5",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "brand-activation tags",
+                        "icon_list": [
+                          {
+                            "_id": "3b910e1",
+                            "text": "Audience Engagement",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "54ad8fb",
+                            "text": "Experiential",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          },
+                          {
+                            "_id": "7c611bf",
+                            "text": "Brand Stories",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            }
+                          }
+                        ],
+                        "text_color": "#4A4557",
+                        "icon_color": "#4A4557",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "view": "inline"
+                      },
+                      "elements": [],
+                      "isInner": false
+                    },
+                    {
+                      "id": "a7636e4",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "20",
+                          "row": "20",
+                          "isLinked": true,
+                          "size": 20
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_title": "brand-activation details and photo",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "stretch",
+                        "flex_direction_mobile": "column"
+                      },
+                      "elements": [
+                        {
+                          "id": "8f6af8c",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "12",
+                              "row": "12",
+                              "isLinked": true,
+                              "size": 12
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "24",
+                              "right": "24",
+                              "bottom": "24",
+                              "left": "24",
+                              "isLinked": true
+                            },
+                            "_title": "brand-activation details",
+                            "width": {
+                              "unit": "%",
+                              "size": 54,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#F5F5F7",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "affa809",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "settings": {
+                                "_title": "brand-activation caption",
+                                "title": "YOUR EVENT, CONNECTED /",
+                                "header_size": "p",
+                                "title_color": "#4A4557",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Manrope",
+                                "typography_font_size": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.2,
+                                  "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                  "unit": "px",
+                                  "size": 1.1,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            },
+                            {
+                              "id": "6b98376",
+                              "elType": "widget",
+                              "widgetType": "icon-list",
+                              "settings": {
+                                "_title": "brand-activation points",
+                                "icon_list": [
+                                  {
+                                    "_id": "4e5e1e2",
+                                    "text": "Brand experience planning",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "537618e",
+                                    "text": "On-ground activation delivery",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  },
+                                  {
+                                    "_id": "b638693",
+                                    "text": "Audience engagement and interaction",
+                                    "selected_icon": {
+                                      "value": "fas fa-circle",
+                                      "library": "fa-solid"
+                                    }
+                                  }
+                                ],
+                                "text_color": "#4A4557",
+                                "icon_color": "#4A4557",
+                                "icon_size": {
+                                  "unit": "px",
+                                  "size": 4,
+                                  "sizes": []
+                                },
+                                "text_indent": {
+                                  "unit": "px",
+                                  "size": 10,
+                                  "sizes": []
+                                },
+                                "space_between": {
+                                  "unit": "px",
+                                  "size": 8,
+                                  "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Manrope",
+                                "icon_typography_font_size": {
+                                  "unit": "px",
+                                  "size": 14,
+                                  "sizes": []
+                                },
+                                "icon_typography_font_weight": "400",
+                                "icon_typography_line_height": {
+                                  "unit": "em",
+                                  "size": 1.65,
+                                  "sizes": []
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false
+                            }
+                          ],
+                          "isInner": false
+                        },
+                        {
+                          "id": "693bbcc",
+                          "elType": "container",
+                          "settings": {
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "flex_gap": {
+                              "unit": "px",
+                              "column": "0",
+                              "row": "0",
+                              "isLinked": true,
+                              "size": 0
+                            },
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "_title": "brand-activation photo",
+                            "width": {
+                              "unit": "%",
+                              "size": 42,
+                              "sizes": []
+                            },
+                            "width_mobile": {
+                              "unit": "%",
+                              "size": 100,
+                              "sizes": []
+                            },
+                            "background_background": "classic",
+                            "background_color": "#2B203D",
+                            "background_image": {
+                              "id": "6338",
+                              "url": "https://syncs.com.sa/wp-content/uploads/2026/09/organization-of-weddings-parties-catering-for-events-female-on-the-background-banquet-decorated-2.jpg"
+                            },
+                            "background_size": "cover",
+                            "background_position": "center center",
+                            "border_radius": {
+                              "unit": "px",
+                              "top": "16",
+                              "right": "16",
+                              "bottom": "16",
+                              "left": "16",
+                              "isLinked": true
+                            },
+                            "min_height": {
+                              "unit": "px",
+                              "size": 205,
+                              "sizes": []
+                            },
+                            "min_height_mobile": {
+                              "unit": "px",
+                              "size": 210,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "200e1d0",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "_title": "brand-activation contact",
+                        "text": "Discuss this service",
+                        "link": {
+                          "url": "https://syncs.com.sa/contact-us/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-arrow-right",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "row-reverse",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right",
+                        "align_mobile": "left",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "button_text_color": "#4A4557",
+                        "button_background_hover_background": "classic",
+                        "button_background_hover_color": "#C9BCE3",
+                        "hover_color": "#1D162A",
+                        "border_border": "solid",
+                        "border_color": "#D8D8E0",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "30",
+                          "right": "30",
+                          "bottom": "30",
+                          "left": "30",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "SYNCs — Native Why Us — 5 Services",
+  "type": "container"
+}
