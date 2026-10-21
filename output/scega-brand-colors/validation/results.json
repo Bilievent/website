@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "source": "scega-permit-native/SYNCs-SCEGA-Complete-Page.json",
+  "source_sha256": "a507bd731b7743ef4bddef5a566a4ec5c122c936bc9cd33c33e0f6f779b67f66",
+  "output": "SYNCs-SCEGA-Complete-Page-Brand-Colors.json",
+  "output_sha256": "fc86f378b5cc2f6c8d7d9090e27f1d92dfcf0002eaf1ad342bfdfbb1896f432b",
+  "color_changes": 214,
+  "non_color_changes": 0,
+  "sections": 14,
+  "elements": 236,
+  "types": {
+    "container": 124,
+    "heading": 39,
+    "icon-list": 9,
+    "button": 20,
+    "text-editor": 29,
+    "icon-box": 10,
+    "nested-tabs": 1,
+    "nested-accordion": 3,
+    "form": 1
+  },
+  "section_surfaces": {
+    "Header": "#1D162A",
+    "Hero": "#1D162A",
+    "Event teams strip": "#1D162A",
+    "Find the right permit": "#F5F5F7",
+    "Application preparation": "#FAFAFC",
+    "Permit service scope": "#F5F5F7",
+    "Event services": "#FAFAFC",
+    "Hotel and visa support": "#F5F5F7",
+    "Permit fees and timelines": "#FAFAFC",
+    "Event experience": "#F5F5F7",
+    "Permit questions": "#1D162A",
+    "Event brief": "#1D162A",
+    "Permit guides and resources": "#FAFAFC",
+    "Footer": "#1D162A"
+  },
+  "contrast_checks": 187,
+  "minimum_text_ratio": 4.74,
+  "actual_wordpress_import": "not run; installed Elementor/Pro versions and staging unavailable"
+}

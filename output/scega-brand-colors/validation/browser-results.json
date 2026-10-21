@@ -1,0 +1,197 @@
+{
+  "scope": "Independent DOM harness from the unchanged native layout controls; not a WordPress/Elementor rendering. Remote photo requests blocked, showing declared fallback colors. No form submission performed.",
+  "results": [
+    {
+      "width": 1440,
+      "noHorizontalOverflow": true,
+      "sectionColorsMatchExport": true,
+      "sections": [
+        {
+          "section": "Header",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Hero",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Event teams strip",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Find the right permit",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Application preparation",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Permit service scope",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Event services",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Hotel and visa support",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Permit fees and timelines",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Event experience",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Permit questions",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Event brief",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Permit guides and resources",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Footer",
+          "background": "rgb(29, 22, 42)"
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "width": 768,
+      "noHorizontalOverflow": true,
+      "sectionColorsMatchExport": true,
+      "sections": [
+        {
+          "section": "Header",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Hero",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Event teams strip",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Find the right permit",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Application preparation",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Permit service scope",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Event services",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Hotel and visa support",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Permit fees and timelines",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Event experience",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Permit questions",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Event brief",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Permit guides and resources",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Footer",
+          "background": "rgb(29, 22, 42)"
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "noHorizontalOverflow": true,
+      "sectionColorsMatchExport": true,
+      "sections": [
+        {
+          "section": "Header",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Hero",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Event teams strip",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Find the right permit",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Application preparation",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Permit service scope",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Event services",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Hotel and visa support",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Permit fees and timelines",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Event experience",
+          "background": "rgb(245, 245, 247)"
+        },
+        {
+          "section": "Permit questions",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Event brief",
+          "background": "rgb(29, 22, 42)"
+        },
+        {
+          "section": "Permit guides and resources",
+          "background": "rgb(250, 250, 252)"
+        },
+        {
+          "section": "Footer",
+          "background": "rgb(29, 22, 42)"
+        }
+      ],
+      "pageErrors": []
+    }
+  ]
+}

@@ -1,0 +1,1498 @@
+[
+  {
+    "element": "Header wordmark",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Header navigation",
+    "state": "list",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Header navigation",
+    "state": "list hover",
+    "foreground": "#C9BCE3",
+    "background": "#1D162A",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Header contact",
+    "state": "normal",
+    "foreground": "#1D162A",
+    "background": "#8F7BB8",
+    "ratio": 4.74,
+    "minimum": 4.5
+  },
+  {
+    "element": "Header contact",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero eyebrow",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#1D162A",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Page H1",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero promise",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero description",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero process",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero discuss event",
+    "state": "normal",
+    "foreground": "#1D162A",
+    "background": "#8F7BB8",
+    "ratio": 4.74,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero discuss event",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero permit review",
+    "state": "normal",
+    "foreground": "#C9BCE3",
+    "background": "#1D162A",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hero permit review",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Relevant authorities",
+    "state": "list",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Relevant authorities",
+    "state": "list hover",
+    "foreground": "#C9BCE3",
+    "background": "#1D162A",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Permit readiness symbol",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FAFAFC",
+    "ratio": 16.78,
+    "minimum": 4.5
+  },
+  {
+    "element": "Permit readiness symbol",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FAFAFC",
+    "ratio": 8.84,
+    "minimum": 4.5
+  },
+  {
+    "element": "Permit readiness symbol",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FAFAFC",
+    "ratio": 3.54,
+    "minimum": 3
+  },
+  {
+    "element": "Permit card checklist",
+    "state": "list",
+    "foreground": "#4A4557",
+    "background": "#FAFAFC",
+    "ratio": 8.84,
+    "minimum": 4.5
+  },
+  {
+    "element": "Permit card checklist",
+    "state": "list hover",
+    "foreground": "#1D162A",
+    "background": "#FAFAFC",
+    "ratio": 16.78,
+    "minimum": 4.5
+  },
+  {
+    "element": "Permit card checklist",
+    "state": "list icon",
+    "foreground": "#8F7BB8",
+    "background": "#FAFAFC",
+    "ratio": 3.54,
+    "minimum": 3
+  },
+  {
+    "element": "Trust text 0",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Trust text 1",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Trust text 2",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Trust text 3",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Trust text 4",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Permit selector heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#F5F5F7",
+    "ratio": 16.07,
+    "minimum": 4.5
+  },
+  {
+    "element": "Five permit types",
+    "state": "tab",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Five permit types",
+    "state": "tab_hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Five permit types",
+    "state": "tab_active",
+    "foreground": "#1D162A",
+    "background": "#8F7BB8",
+    "ratio": 4.74,
+    "minimum": 4.5
+  },
+  {
+    "element": "Conference permit title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Conference permit description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Conference permit checklist",
+    "state": "list",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Conference permit checklist",
+    "state": "list hover",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Conference permit checklist",
+    "state": "list icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Conference permit action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Conference permit action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Exhibition permit title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Exhibition permit description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Exhibition permit checklist",
+    "state": "list",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Exhibition permit checklist",
+    "state": "list hover",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Exhibition permit checklist",
+    "state": "list icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Exhibition permit action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Exhibition permit action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Workshop permit title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Workshop permit description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Workshop permit checklist",
+    "state": "list",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Workshop permit checklist",
+    "state": "list hover",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Workshop permit checklist",
+    "state": "list icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Workshop permit action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Workshop permit action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Training permit title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Training permit description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Training permit checklist",
+    "state": "list",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Training permit checklist",
+    "state": "list hover",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Training permit checklist",
+    "state": "list icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Training permit action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Training permit action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Business Meeting permit title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Business Meeting permit description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Business Meeting permit checklist",
+    "state": "list",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Business Meeting permit checklist",
+    "state": "list hover",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Business Meeting permit checklist",
+    "state": "list icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Business Meeting permit action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Business Meeting permit action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FAFAFC",
+    "ratio": 16.78,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Organizer content",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Organizer content",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Organizer content",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Prepare Event Type content",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Event Type content",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Event Type content",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Prepare Programme content",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Programme content",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Programme content",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Prepare Venue content",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Venue content",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Venue content",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Prepare Dates content",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Dates content",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Prepare Dates content",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Scope heading",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Scope description",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion",
+    "state": "accordion normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion",
+    "state": "accordion icon normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 3
+  },
+  {
+    "element": "Service scope accordion",
+    "state": "accordion hover",
+    "foreground": "#FFFFFF",
+    "background": "#3A3447",
+    "ratio": 11.92,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion",
+    "state": "accordion icon hover",
+    "foreground": "#C9BCE3",
+    "background": "#3A3447",
+    "ratio": 6.69,
+    "minimum": 3
+  },
+  {
+    "element": "Service scope accordion",
+    "state": "accordion active",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion",
+    "state": "accordion icon active",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 3
+  },
+  {
+    "element": "Service scope accordion answer copy 1",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion answer copy 2",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion answer copy 3",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion answer copy 4",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Service scope accordion answer copy 5",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event services heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FAFAFC",
+    "ratio": 16.78,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Event Management title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Event Management description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Event Management action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Event Management action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Booth Production title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Booth Production description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Booth Production action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Booth Production action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service AVL & Technical title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service AVL & Technical description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service AVL & Technical action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service AVL & Technical action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Guest Registration title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Guest Registration description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Guest Registration action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Guest Registration action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Delegate Acquisition title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Delegate Acquisition description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Delegate Acquisition action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Event service Delegate Acquisition action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Stay support heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Stay support description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hotel support icon box",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hotel support icon box",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Hotel support icon box",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Visa support icon box",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Visa support icon box",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Visa support icon box",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Stay card title 0",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Stay card title 1",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Stay card title 2",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Plan guests stay",
+    "state": "normal",
+    "foreground": "#1D162A",
+    "background": "#8F7BB8",
+    "ratio": 4.74,
+    "minimum": 4.5
+  },
+  {
+    "element": "Plan guests stay",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Fees heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FAFAFC",
+    "ratio": 16.78,
+    "minimum": 4.5
+  },
+  {
+    "element": "Fee content Government Fees",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Fee content Government Fees",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Fee content Government Fees",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Fee content SYNC Service Scope",
+    "state": "icon title",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Fee content SYNC Service Scope",
+    "state": "icon body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Fee content SYNC Service Scope",
+    "state": "icon",
+    "foreground": "#8F7BB8",
+    "background": "#FFFFFF",
+    "ratio": 3.69,
+    "minimum": 3
+  },
+  {
+    "element": "Experience heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#F5F5F7",
+    "ratio": 16.07,
+    "minimum": 4.5
+  },
+  {
+    "element": "Experience caption title",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Experience caption copy",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Experience projects link",
+    "state": "normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Experience projects link",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ heading",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ first two questions",
+    "state": "accordion normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ first two questions",
+    "state": "accordion icon normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 3
+  },
+  {
+    "element": "FAQ first two questions",
+    "state": "accordion hover",
+    "foreground": "#FFFFFF",
+    "background": "#3A3447",
+    "ratio": 11.92,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ first two questions",
+    "state": "accordion icon hover",
+    "foreground": "#C9BCE3",
+    "background": "#3A3447",
+    "ratio": 6.69,
+    "minimum": 3
+  },
+  {
+    "element": "FAQ first two questions",
+    "state": "accordion active",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ first two questions",
+    "state": "accordion icon active",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 3
+  },
+  {
+    "element": "FAQ first two questions answer copy 1",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ first two questions answer copy 2",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ next two questions",
+    "state": "accordion normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ next two questions",
+    "state": "accordion icon normal",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 3
+  },
+  {
+    "element": "FAQ next two questions",
+    "state": "accordion hover",
+    "foreground": "#FFFFFF",
+    "background": "#3A3447",
+    "ratio": 11.92,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ next two questions",
+    "state": "accordion icon hover",
+    "foreground": "#C9BCE3",
+    "background": "#3A3447",
+    "ratio": 6.69,
+    "minimum": 3
+  },
+  {
+    "element": "FAQ next two questions",
+    "state": "accordion active",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ next two questions",
+    "state": "accordion icon active",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 3
+  },
+  {
+    "element": "FAQ next two questions answer copy 1",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "FAQ next two questions answer copy 2",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Brief eyebrow",
+    "state": "heading",
+    "foreground": "#C9BCE3",
+    "background": "#2B203D",
+    "ratio": 8.56,
+    "minimum": 4.5
+  },
+  {
+    "element": "Brief heading",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Brief description",
+    "state": "body",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Native event brief form",
+    "state": "label",
+    "foreground": "#FFFFFF",
+    "background": "#2B203D",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Native event brief form",
+    "state": "field",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Native event brief form",
+    "state": "submit",
+    "foreground": "#1D162A",
+    "background": "#8F7BB8",
+    "ratio": 4.74,
+    "minimum": 4.5
+  },
+  {
+    "element": "Native event brief form",
+    "state": "submit hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource section heading",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FAFAFC",
+    "ratio": 16.78,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Requirements title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Requirements description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Requirements action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Requirements action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Exhibition Types title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Exhibition Types description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Exhibition Types action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Exhibition Types action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Application Corrections title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Application Corrections description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Application Corrections action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource Application Corrections action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource SCEGA vs GEA title",
+    "state": "heading",
+    "foreground": "#1D162A",
+    "background": "#FFFFFF",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource SCEGA vs GEA description",
+    "state": "body",
+    "foreground": "#4A4557",
+    "background": "#FFFFFF",
+    "ratio": 9.21,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource SCEGA vs GEA action",
+    "state": "normal",
+    "foreground": "#2B203D",
+    "background": "#FFFFFF",
+    "ratio": 15.25,
+    "minimum": 4.5
+  },
+  {
+    "element": "Resource SCEGA vs GEA action",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Footer wordmark",
+    "state": "heading",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Footer navigation",
+    "state": "list",
+    "foreground": "#FFFFFF",
+    "background": "#1D162A",
+    "ratio": 17.49,
+    "minimum": 4.5
+  },
+  {
+    "element": "Footer navigation",
+    "state": "list hover",
+    "foreground": "#C9BCE3",
+    "background": "#1D162A",
+    "ratio": 9.82,
+    "minimum": 4.5
+  },
+  {
+    "element": "Footer contact",
+    "state": "normal",
+    "foreground": "#1D162A",
+    "background": "#8F7BB8",
+    "ratio": 4.74,
+    "minimum": 4.5
+  },
+  {
+    "element": "Footer contact",
+    "state": "hover",
+    "foreground": "#1D162A",
+    "background": "#C9BCE3",
+    "ratio": 9.82,
+    "minimum": 4.5
+  }
+]

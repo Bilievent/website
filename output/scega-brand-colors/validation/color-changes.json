@@ -1,0 +1,3914 @@
+[
+  {
+    "path": [
+      "content",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      4,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      5,
+      "elements",
+      1,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      6,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color_hover"
+    ],
+    "from": "#C9BCE3",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      4,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "tabs_title_background_color_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "tabs_title_background_color_hover_color"
+    ],
+    "from": "#3A3447",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "title_text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "title_text_color_hover"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "tabs_title_border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color_hover"
+    ],
+    "from": "#C9BCE3",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color_hover"
+    ],
+    "from": "#C9BCE3",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color_hover"
+    ],
+    "from": "#C9BCE3",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color_hover"
+    ],
+    "from": "#C9BCE3",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color_hover"
+    ],
+    "from": "#C9BCE3",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "hover_icon_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "active_icon_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      5,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      4,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      6,
+      "elements",
+      1,
+      "elements",
+      4,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      7,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      8,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      9,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      9,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      9,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      9,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "hover_icon_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "active_icon_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "hover_icon_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "active_icon_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      10,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      11,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      11,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "label_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      11,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "button_background_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      11,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "settings",
+      "background_color"
+    ],
+    "from": "#1D162A",
+    "to": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "from": "#2B203D",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "border_color"
+    ],
+    "from": "#3A3447",
+    "to": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "from": "#FFFFFF",
+    "to": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      12,
+      "elements",
+      1,
+      "elements",
+      3,
+      "elements",
+      1,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      13,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "from": "#D8D8E0",
+    "to": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      13,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      13,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "from": "#8F7BB8",
+    "to": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      13,
+      "elements",
+      0,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "border_color"
+    ],
+    "from": "#C9BCE3",
+    "to": "#8F7BB8"
+  }
+]
