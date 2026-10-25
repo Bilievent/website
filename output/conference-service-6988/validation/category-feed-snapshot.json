@@ -1,0 +1,36 @@
+{
+  "source": "https://syncs.com.sa/wp-json/wp/v2/posts?categories=158&per_page=3&_embed=wp:featuredmedia&_fields=id,link,title,excerpt,featured_media,_embedded,lang,categories",
+  "items": [
+    {
+      "id": 6883,
+      "url": "https://syncs.com.sa/types-exhibition-licenses-saudi-arabia/",
+      "title": "Types of Exhibition Licenses in Saudi Arabia: Which SCEGA Permit Do You Need?",
+      "image": "",
+      "lang": "en",
+      "categories": [
+        158
+      ]
+    },
+    {
+      "id": 6879,
+      "url": "https://syncs.com.sa/scega-application-corrections-saudi-arabia/",
+      "title": "SCEGA Application Returned for Corrections? How to Fix and Resubmit in Saudi Arabia (2026)",
+      "image": "",
+      "lang": "en",
+      "categories": [
+        158
+      ]
+    },
+    {
+      "id": 5655,
+      "url": "https://syncs.com.sa/foreign-company-event-permit-saudi-arabia/",
+      "title": "How Foreign Companies Get an Event Permit in Saudi Arabia Without a Local Company?",
+      "image": "",
+      "lang": "en",
+      "categories": [
+        158
+      ]
+    }
+  ],
+  "scope": "Public WordPress REST snapshot; not Elementor runtime."
+}

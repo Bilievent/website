@@ -1,0 +1,1174 @@
+{
+  "version": "0.4",
+  "title": "SYNC — Conference questions and brief",
+  "type": "container",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "62c254ac",
+      "settings": {
+        "flex_direction": "column",
+        "flex_direction_tablet": "row",
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "24",
+          "bottom": "50",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "80",
+          "right": "24",
+          "bottom": "80",
+          "left": "24",
+          "isLinked": false
+        },
+        "_title": "Conference questions and brief",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1280,
+          "sizes": []
+        },
+        "background_background": "classic",
+        "background_image": {
+          "url": "",
+          "id": "",
+          "size": "",
+          "alt": "Business Meeting Permit Saudi Arabia - SCEGA Permits",
+          "source": "library"
+        },
+        "background_position": "center center",
+        "background_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_slideshow_gallery": [],
+        "background_hover_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_hover_slideshow_gallery": [],
+        "background_overlay_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_slideshow_gallery": [],
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_hover_slideshow_gallery": [],
+        "background_color": "#1D162A",
+        "_element_id": "conference-questions",
+        "html_tag": "section",
+        "_animation": "none"
+      },
+      "elements": [
+        {
+          "id": "44d4a598",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "column",
+            "background_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_slideshow_gallery": [],
+            "background_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_hover_slideshow_gallery": [],
+            "background_overlay_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_slideshow_gallery": [],
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_slideshow_gallery": [],
+            "flex_gap": {
+              "unit": "px",
+              "column": "34",
+              "row": "34",
+              "size": 34,
+              "isLinked": true
+            },
+            "flex_justify_content": "space-between",
+            "_animation": "none"
+          },
+          "elements": [
+            {
+              "id": "49fd249c",
+              "settings": {
+                "content_width": "full",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 57,
+                  "sizes": []
+                },
+                "_flex_size": "none",
+                "_element_width": "initial",
+                "background_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": [],
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_animation": "none"
+              },
+              "elements": [
+                {
+                  "id": "a048c074",
+                  "settings": {
+                    "content_width": "full",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "width_mobile": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "background_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_slideshow_gallery": [],
+                    "background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_slideshow_gallery": [],
+                    "background_overlay_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_slideshow_gallery": [],
+                    "background_overlay_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_slideshow_gallery": [],
+                    "_animation": "none"
+                  },
+                  "elements": [
+                    {
+                      "id": "14bb993d",
+                      "settings": {
+                        "_title": "Conference FAQ heading",
+                        "title": "SCEGA Conference Permit Questions",
+                        "header_size": "h2",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "_element_width": "inherit",
+                        "_background_color_stop_tablet": {
+                          "unit": "%"
+                        },
+                        "_background_color_stop_mobile": {
+                          "unit": "%"
+                        },
+                        "_background_color_b_stop_tablet": {
+                          "unit": "%"
+                        },
+                        "_background_color_b_stop_mobile": {
+                          "unit": "%"
+                        },
+                        "_background_gradient_angle_tablet": {
+                          "unit": "deg"
+                        },
+                        "_background_gradient_angle_mobile": {
+                          "unit": "deg"
+                        },
+                        "_background_gradient_position_tablet": "",
+                        "_background_gradient_position_mobile": "",
+                        "_background_hover_color_stop_tablet": {
+                          "unit": "%"
+                        },
+                        "_background_hover_color_stop_mobile": {
+                          "unit": "%"
+                        },
+                        "_background_hover_color_b_stop_tablet": {
+                          "unit": "%"
+                        },
+                        "_background_hover_color_b_stop_mobile": {
+                          "unit": "%"
+                        },
+                        "_background_hover_gradient_angle_tablet": {
+                          "unit": "deg"
+                        },
+                        "_background_hover_gradient_angle_mobile": {
+                          "unit": "deg"
+                        },
+                        "_background_hover_gradient_position_tablet": "",
+                        "_background_hover_gradient_position_mobile": "",
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "typography_font_family": "Poppins",
+                        "_animation": "none"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "19b5eb73",
+                  "settings": {
+                    "content_width": "full",
+                    "margin": {
+                      "unit": "px",
+                      "top": "15",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "overflow": "hidden",
+                    "background_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_slideshow_gallery": [],
+                    "background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_slideshow_gallery": [],
+                    "background_overlay_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_slideshow_gallery": [],
+                    "background_overlay_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_slideshow_gallery": [],
+                    "_animation": "none"
+                  },
+                  "elements": [
+                    {
+                      "id": "e649a21e",
+                      "settings": {
+                        "ekit_accordion_items": [
+                          {
+                            "acc_title": "Does a one-day corporate conference need a SCEGA permit?",
+                            "acc_content": "<p>A one-day duration does not, by itself, determine the licensing route. We review the programme, organizing entity, venue, participants and accompanying activities to identify the relevant conference requirements.</p>",
+                            "ekit_acc_is_active": "yes",
+                            "_id": "1f812899"
+                          },
+                          {
+                            "acc_title": "Can our company apply directly, or do we need an eligible conference organizer?",
+                            "acc_content": "<p>That depends on the service&#x27;s eligibility conditions, the organizing entity and the applicant&#x27;s account and authorization. SYNC reviews the proposed arrangements with you; application support does not replace any requirement for an eligible organizer or authorized applicant.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "e8add888"
+                          },
+                          {
+                            "acc_title": "What information should we send SYNC to start?",
+                            "acc_content": "<p>Send your organizing entity, conference purpose, draft programme, speakers, proposed venue, dates and expected attendance, plus any sponsor booths or accompanying activities. We review the brief, identify outstanding information and agree the support scope before preparing the file.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "b368ac79"
+                          },
+                          {
+                            "acc_title": "What is the difference between local and international conference licensing?",
+                            "acc_content": "<p>The applicable classification and government fee depend on the authority&#x27;s criteria and the conference circumstances. Do not assume that one overseas speaker makes the event international; we review the full format and proposed participation before confirming the application route.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "a421f071"
+                          },
+                          {
+                            "acc_title": "How much does a conference permit cost, and how long does the service take?",
+                            "acc_content": "<p>The listed government fees are SAR 5,000 for local and SAR 10,000 for international conferences, seminars and forums; SYNC&#x27;s professional fees are separate. The published conference service period is five working days, with additional time needed for file preparation or further review; confirm the current category and conditions before payment.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "79c82fcc"
+                          },
+                          {
+                            "acc_title": "Can our conference include sponsor booths or an exhibition area?",
+                            "acc_content": "<p>Include the booths and exhibition area in the initial brief. We review whether the activities fit the conference scope or require additional approvals; an accompanying display should not automatically be treated as the same application as an independent trade exhibition.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "601f85a1"
+                          },
+                          {
+                            "acc_title": "Can a foreign company arrange a conference in Saudi Arabia?",
+                            "acc_content": "<p>The available arrangements depend on the company&#x27;s status, the selected service and the eligibility and representation requirements. We review the proposed organizer, applicant and authorizations so the relevant questions are resolved before submission.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "bdc23101"
+                          },
+                          {
+                            "acc_title": "Can we promote the conference before the licence is issued?",
+                            "acc_content": "<p>Check the applicable SCEGA conditions before announcing, selling access to or promoting your conference. Submitting an application is not permission to proceed with activities that require a licence or promotional approval; we help identify the conditions relevant to your plan.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "1dcd0c2d"
+                          },
+                          {
+                            "acc_title": "Can SYNC help with overseas speakers, hotel bookings and visa paperwork?",
+                            "acc_content": "<p>Yes. We can agree a separate guest-support scope covering accommodation coordination and visa application information or supporting documents. The event licence and each traveller&#x27;s visa or entry permission are separate processes, and their decisions remain with the relevant authorities.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "372eed2e"
+                          },
+                          {
+                            "acc_title": "What happens if our application is returned or our conference details change?",
+                            "acc_content": "<p>A request to complete or correct an application is different from changing a submitted or licensed event. We review the authority&#x27;s feedback or your revised dates, venue and programme, then help coordinate the appropriate response, amendment or cancellation steps.</p>",
+                            "ekit_acc_is_active": "",
+                            "_id": "683642d7"
+                          }
+                        ],
+                        "ekit_accordion_right_icons": {
+                          "value": "icon icon-plus",
+                          "library": "ekiticons"
+                        },
+                        "ekit_accordion_right_icon_actives": {
+                          "value": "icon icon-minus",
+                          "library": "ekiticons"
+                        },
+                        "ekit_accordion_background_background": "classic",
+                        "ekit_accordion_background_close_background": "classic",
+                        "ekit_accordion_title_padding": {
+                          "unit": "px",
+                          "top": "24",
+                          "right": "72",
+                          "bottom": "24",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_title_margin_bottom": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "ekit_accordion_content_padding": {
+                          "unit": "px",
+                          "top": "24",
+                          "right": "72",
+                          "bottom": "24",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_border_closed_border": "none",
+                        "ekit_accordion_border_closed_width": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "1",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_border_open_border": "none",
+                        "ekit_accordion_border_open_width": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "1",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_border_radious_open": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "_animation": "none",
+                        "ekit_accordion_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": "",
+                          "alt": "",
+                          "source": "library"
+                        },
+                        "ekit_accordion_title_border_open_border": "solid",
+                        "ekit_accordion_title_border_open_width": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "2",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_border_radious_curve_shape_open": {
+                          "unit": "px",
+                          "top": "16",
+                          "right": "016",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_content_background_background": "classic",
+                        "ekit_accordion_content_border_radious": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "016",
+                          "left": "16",
+                          "isLinked": false
+                        },
+                        "ekit_accordion_background_color": "#1D162A",
+                        "ekit_accordion_title_color_close": "#C9BCE3",
+                        "ekit_accordion_content_color": "#FFFFFF",
+                        "ekit_accordion_content_typography_typography": "custom",
+                        "ekit_accordion_content_typography_font_family": "Poppins",
+                        "ekit_accordion_content_typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "ekit_accordion_content_typography_font_size_tablet": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "ekit_accordion_content_typography_font_weight": "400",
+                        "ekit_accordion_content_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.3,
+                          "sizes": []
+                        },
+                        "ekit_accordion_background_close_color": "#1D162A",
+                        "ekit_accordian_faq_schema": "yes",
+                        "ekit_accordion_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_background_slideshow_gallery": [],
+                        "ekit_accordion_background_close_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_background_close_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_background_close_slideshow_gallery": [],
+                        "ekit_accordion_content_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_content_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_content_background_slideshow_gallery": [],
+                        "ekit_accordion_icon_box_open_bg_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_icon_box_open_bg_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_icon_box_open_bg_slideshow_gallery": [],
+                        "ekit_accordion_icon_box_bg_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_icon_box_bg_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_icon_box_bg_slideshow_gallery": [],
+                        "ekit_accordion_icon_box_close_bg_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_icon_box_close_bg_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_icon_box_close_bg_slideshow_gallery": [],
+                        "ekit_accordion_closed_icon_bg_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_closed_icon_bg_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_closed_icon_bg_slideshow_gallery": [],
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "ekit_accordion_title_color": "#FFFFFF"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "elementskit-accordion",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "bfd896a1",
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 39,
+                  "sizes": []
+                },
+                "flex_align_items": "stretch",
+                "background_background": "classic",
+                "background_image": {
+                  "url": "",
+                  "id": "",
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "min_height_mobile": {
+                  "unit": "px",
+                  "size": 300,
+                  "sizes": []
+                },
+                "animation": "none",
+                "animation_duration": "slow",
+                "animation_delay": 250,
+                "min_height_tablet": {
+                  "unit": "px",
+                  "size": 200,
+                  "sizes": []
+                },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": [],
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_element_id": "conference-brief",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "18",
+                  "row": "18",
+                  "size": 18,
+                  "isLinked": true
+                },
+                "_animation": "none"
+              },
+              "elements": [
+                {
+                  "id": "9fd1ba2d",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "icon icon-phone-call1",
+                      "library": "ekiticons"
+                    },
+                    "view": "stacked",
+                    "title_text": "Tell Us About Your Conference",
+                    "description_text": "Share your initial conference plans and choose the support you need. Our team will review the brief and discuss the next steps with you.",
+                    "title_size": "h2",
+                    "position": "left",
+                    "content_vertical_alignment": "middle",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "_padding": {
+                      "unit": "px",
+                      "top": "5",
+                      "right": "15",
+                      "bottom": "5",
+                      "left": "5",
+                      "isLinked": false
+                    },
+                    "_flex_align_self": "flex-start",
+                    "_background_background": "classic",
+                    "_border_radius": {
+                      "unit": "px",
+                      "top": "20",
+                      "right": "20",
+                      "bottom": "20",
+                      "left": "20",
+                      "isLinked": true
+                    },
+                    "position_mobile": "left",
+                    "icon_space_mobile": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "_background_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_slideshow_gallery": [],
+                    "_background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_slideshow_gallery": [],
+                    "_mask_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "secondary_color": "#FFFFFF",
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Poppins",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 28,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "_animation": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-box",
+                  "elType": "widget"
+                },
+                {
+                  "id": "8b6f3e5f",
+                  "elType": "widget",
+                  "widgetType": "form",
+                  "settings": {
+                    "_title": "Self contained conference brief",
+                    "form_name": "SYNC Conference Service 6988 Brief",
+                    "form_fields": [
+                      {
+                        "_id": "6c165e4b",
+                        "custom_id": "name",
+                        "field_type": "text",
+                        "field_label": "Full name",
+                        "placeholder": "Full name",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "002638fd",
+                        "custom_id": "email",
+                        "field_type": "email",
+                        "field_label": "Work email",
+                        "placeholder": "you@company.com",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "845603ec",
+                        "custom_id": "company",
+                        "field_type": "text",
+                        "field_label": "Company",
+                        "placeholder": "Company",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "02482b44",
+                        "custom_id": "city_date",
+                        "field_type": "text",
+                        "field_label": "City & event date",
+                        "placeholder": "City and proposed date",
+                        "required": "",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "65e59357",
+                        "custom_id": "attendance",
+                        "field_type": "select",
+                        "field_label": "Expected attendance",
+                        "placeholder": "Select attendance",
+                        "required": "",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100",
+                        "field_options": "Select attendance|\nUnder 100|under_100\n100–300|100_300\n301–500|301_500\n501–1,000|501_1000\nOver 1,000|over_1000"
+                      },
+                      {
+                        "_id": "efbe100a",
+                        "custom_id": "support",
+                        "field_type": "select",
+                        "field_label": "Support required",
+                        "placeholder": "Select support",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100",
+                        "field_options": "Select support|\nConference permit support only|permit_only\nPermit support with conference planning and delivery|conference_delivery\nPermit support with sponsor booth design and build|sponsor_booths\nPermit support with registration and guest coordination|registration_guests"
+                      },
+                      {
+                        "_id": "3bde0192",
+                        "custom_id": "brief",
+                        "field_type": "textarea",
+                        "field_label": "Conference brief",
+                        "placeholder": "Tell us about your conference, including format, proposed dates and any specific requirements.",
+                        "required": "true",
+                        "width": "100",
+                        "width_tablet": "100",
+                        "width_mobile": "100",
+                        "rows": 4
+                      }
+                    ],
+                    "show_labels": "true",
+                    "input_size": "md",
+                    "button_size": "md",
+                    "button_text": "Send Your Conference Brief",
+                    "button_width": "100",
+                    "submit_actions": [
+                      "save-to-database"
+                    ],
+                    "form_validation": "",
+                    "column_gap": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "row_gap": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "label_spacing": {
+                      "unit": "px",
+                      "size": 6,
+                      "sizes": []
+                    },
+                    "label_color": "#D8D8E0",
+                    "field_text_color": "#FFFFFF",
+                    "field_background_color": "#2B203D",
+                    "field_border_color": "#8F7BB8",
+                    "field_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "field_border_radius": {
+                      "unit": "px",
+                      "top": "6",
+                      "right": "6",
+                      "bottom": "6",
+                      "left": "6",
+                      "isLinked": true
+                    },
+                    "button_background_color": "#8F7BB8",
+                    "button_text_color": "#1D162A",
+                    "button_background_hover_color": "#C9BCE3",
+                    "button_hover_color": "#1D162A",
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "6",
+                      "right": "6",
+                      "bottom": "6",
+                      "left": "6",
+                      "isLinked": true
+                    },
+                    "button_text_padding": {
+                      "unit": "px",
+                      "top": "13",
+                      "right": "20",
+                      "bottom": "13",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "label_typography_typography": "custom",
+                    "label_typography_font_family": "Manrope",
+                    "label_typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    },
+                    "label_typography_font_weight": "400",
+                    "label_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "field_typography_typography": "custom",
+                    "field_typography_font_family": "Manrope",
+                    "field_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "field_typography_font_weight": "400",
+                    "field_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "button_typography_typography": "custom",
+                    "button_typography_font_family": "Manrope",
+                    "button_typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "button_typography_font_weight": "600",
+                    "button_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "_animation": "none"
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ]
+}

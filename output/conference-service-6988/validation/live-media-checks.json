@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "unique_urls": 16,
+  "results": [
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/palo-alto-networks-inc-sync.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256": "4b8b4a9c6521f3bed662dcac9b69ef05073fb2cfe6d6f27e53cc253a3a2c0276",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/DELL-sync-sa.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256": "92f8827dbfbefa2ee025b35d8e5f9ffae56787c97388bc3f6691f0f7c5969efc",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/hp_sync.png",
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "98bb8846e3598467a1e85c817f39cf34751d32e777fe0ebad2180d67b00b9685",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/sira-.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "b75e181899514feac001c3e2a9ef7b84aa8a6d037b70e5758bd29cf1c9578474",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/10/scega-saudi-conventions-exhibitions-authority-logo-1.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256": "37c2bae8fb3c32b10e817d61f5f73e5fa172c4b071f4565e4c043cc5480edfe2",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/intel_sync.png",
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "16c8e1a2a64361412be1a0f64d4b650b5bb886005cd1cd1b151fec7bfc248485",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/06/agentic-ai-forum-2026.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "4f3748420372aa1c44d1ff3747e2f70b76cff6b22a19904df85d98f3cc91652a",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/athar-festival-sync.png",
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "2284dcb1d8539b654d6da694e41b13d97a92e0c4b4b267f09fe616fc57abd1b6",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2025/11/Untitled-design-1-scaled.png",
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "f7dd6959d6e20f8e4b1e973d4889df5485ca6a78db8e271e1ca1b50631626404",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/oGZfWyVqj3Ei2rSfU1Lnkg_1788269728769_na1fn_L2hvbWUvdWJ1bnR1L3dlYmRldi1zdGF0aWMtYXNzZXRzL3N5bmMtZG9jdW1lbnRz.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256": "68169e008d545fbaa06be10ac4e9be9604417f2c9ac473bc3c9cdf71a01c091b",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/Attracting-the-right-people-to-a-B2B-conference-in-ksa.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "bb9e94d64e0eef461078dc7ec5c0abf91cd7bf99c1cf3dd06f1802ce0e3a327b",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/04/img-146.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "958b03dee4e0fde48683da6f785a2eb95c1771ad164d43975efcb896e1869625",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/grohe_sync.png",
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "85c942a0bf4b6c30f983f62fb486f318435e2e20c8f8204a9dcbd1c14c36ccea",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/05/whats-on-awards-riyadh-audience-crowd-management-syncs-event-agency.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "e1d07fc3510f9db0b86446b7f9407cd82f3eca7b299ae3e73bbcd2ecf24631a9",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/10/ddc-investment-forum-branding-signage.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "3964b2b538e51cffd710a398374be98f998502bf8a723286d37e128cc0ffb6fb",
+      "source": "verified earlier in this run"
+    },
+    {
+      "url": "https://syncs.com.sa/wp-content/uploads/2026/09/futuristic-geometric-shape-composition-backgrounds-2023-11-27-05-32-33-utc-2-1.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 115322,
+      "sha256": "6ee27ae45a63684f7ebc6d1956812fd78c1dc34a95b1d115da7d915c25219165"
+    }
+  ],
+  "removed_unused_broken_fallback": "https://syncs.com.sa/wp-content/uploads/2026/09/CL-94.jpg"
+}

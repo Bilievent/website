@@ -1,0 +1,1201 @@
+{
+  "version": "0.4",
+  "title": "SYNC — Conference permit fees and timelines",
+  "type": "container",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "2210048e",
+      "settings": {
+        "_title": "Conference permit fees and timelines",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "26",
+          "row": "26",
+          "size": 26,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1280,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "30",
+          "right": "20",
+          "bottom": "30",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FAFAFC",
+        "metform_multistep_settings_title": "",
+        "metform_multistep_settings_icon": "",
+        "background_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_slideshow_gallery": [],
+        "background_hover_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_hover_slideshow_gallery": [],
+        "background_overlay_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_slideshow_gallery": [],
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_hover_slideshow_gallery": [],
+        "content_width": "boxed",
+        "_element_id": "conference-fees",
+        "padding_tablet": {
+          "unit": "px",
+          "top": "38",
+          "right": "24",
+          "bottom": "38",
+          "left": "24",
+          "isLinked": false
+        },
+        "_animation": "none"
+      },
+      "elements": [
+        {
+          "id": "5bede04e",
+          "settings": {
+            "_title": "Conference fee heading",
+            "title": "Conference Permit Fees & Application Timelines",
+            "header_size": "h2",
+            "title_color": "#1D162A",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 30,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.22,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 25,
+              "sizes": []
+            },
+            "_element_width": "inherit",
+            "_background_color_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_color_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_color_b_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_color_b_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_gradient_angle_tablet": {
+              "unit": "deg"
+            },
+            "_background_gradient_angle_mobile": {
+              "unit": "deg"
+            },
+            "_background_gradient_position_tablet": "",
+            "_background_gradient_position_mobile": "",
+            "_background_hover_color_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_hover_color_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_hover_color_b_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_hover_color_b_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_hover_gradient_angle_tablet": {
+              "unit": "deg"
+            },
+            "_background_hover_gradient_angle_mobile": {
+              "unit": "deg"
+            },
+            "_background_hover_gradient_position_tablet": "",
+            "_background_hover_gradient_position_mobile": "",
+            "_background_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_slideshow_gallery": [],
+            "_background_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_hover_slideshow_gallery": [],
+            "_mask_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "typography_font_family": "Poppins",
+            "_animation": "none"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "08759ff4",
+          "settings": {
+            "_title": "Conference fee comparison",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "18",
+              "row": "18",
+              "size": 18,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "row",
+            "flex_align_items": "stretch",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "metform_multistep_settings_title": "",
+            "metform_multistep_settings_icon": "",
+            "background_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_slideshow_gallery": [],
+            "background_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_hover_slideshow_gallery": [],
+            "background_overlay_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_slideshow_gallery": [],
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_slideshow_gallery": [],
+            "flex_direction_mobile": "column",
+            "_animation": "none"
+          },
+          "elements": [
+            {
+              "id": "7daf1f1c",
+              "settings": {
+                "_title": "Conference fee 0",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "18",
+                  "bottom": "24",
+                  "left": "18",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "10",
+                  "bottom": "10",
+                  "left": "10",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "metform_multistep_settings_title": "",
+                "metform_multistep_settings_icon": "",
+                "background_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": [],
+                "_animation": "none"
+              },
+              "elements": [
+                {
+                  "id": "1c0f7da9",
+                  "settings": {
+                    "_title": "Conference fee 0 content",
+                    "selected_icon": {
+                      "value": "fas fa-layer-group",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Government Fees",
+                    "description_text": "Local conferences, seminars and forums: SAR 5,000. International conferences, seminars and forums: SAR 10,000.",
+                    "position": "top",
+                    "text_align": "center",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#C9BCE3",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Poppins",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Poppins",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    },
+                    "_background_color_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_color_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_color_b_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_color_b_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_gradient_angle_tablet": {
+                      "unit": "deg"
+                    },
+                    "_background_gradient_angle_mobile": {
+                      "unit": "deg"
+                    },
+                    "_background_gradient_position_tablet": "",
+                    "_background_gradient_position_mobile": "",
+                    "_background_hover_color_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                      "unit": "deg"
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                      "unit": "deg"
+                    },
+                    "_background_hover_gradient_position_tablet": "",
+                    "_background_hover_gradient_position_mobile": "",
+                    "_background_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_slideshow_gallery": [],
+                    "_background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_slideshow_gallery": [],
+                    "_mask_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "title_size": "h3",
+                    "_animation": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-box",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "2231b99a",
+              "settings": {
+                "_title": "Conference fee 1",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "18",
+                  "bottom": "24",
+                  "left": "18",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "10",
+                  "bottom": "10",
+                  "left": "10",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "metform_multistep_settings_title": "",
+                "metform_multistep_settings_icon": "",
+                "background_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": [],
+                "_animation": "none"
+              },
+              "elements": [
+                {
+                  "id": "c81320e3",
+                  "settings": {
+                    "_title": "Conference fee 1 content",
+                    "selected_icon": {
+                      "value": "fas fa-file-alt",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "SYNC Professional Fees",
+                    "description_text": "Quoted separately for the agreed application support and any additional event services. Government charges are not SYNC's professional fees.",
+                    "position": "top",
+                    "text_align": "center",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#C9BCE3",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Poppins",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Poppins",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    },
+                    "_background_color_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_color_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_color_b_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_color_b_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_gradient_angle_tablet": {
+                      "unit": "deg"
+                    },
+                    "_background_gradient_angle_mobile": {
+                      "unit": "deg"
+                    },
+                    "_background_gradient_position_tablet": "",
+                    "_background_gradient_position_mobile": "",
+                    "_background_hover_color_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                      "unit": "deg"
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                      "unit": "deg"
+                    },
+                    "_background_hover_gradient_position_tablet": "",
+                    "_background_hover_gradient_position_mobile": "",
+                    "_background_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_slideshow_gallery": [],
+                    "_background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_slideshow_gallery": [],
+                    "_mask_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "title_size": "h3",
+                    "_animation": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-box",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "abe95498",
+              "settings": {
+                "_title": "Conference fee 2",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "18",
+                  "bottom": "24",
+                  "left": "18",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "10",
+                  "bottom": "10",
+                  "left": "10",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "metform_multistep_settings_title": "",
+                "metform_multistep_settings_icon": "",
+                "background_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": [],
+                "_animation": "none"
+              },
+              "elements": [
+                {
+                  "id": "4cb6a6cd",
+                  "settings": {
+                    "_title": "Conference fee 2 content",
+                    "selected_icon": {
+                      "value": "fas fa-clock",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Published Service Period",
+                    "description_text": "5 working days for the listed conference service. Allow separate time to prepare the file and respond to additional review requests.",
+                    "position": "top",
+                    "text_align": "center",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#C9BCE3",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Poppins",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Poppins",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    },
+                    "_background_color_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_color_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_color_b_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_color_b_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_gradient_angle_tablet": {
+                      "unit": "deg"
+                    },
+                    "_background_gradient_angle_mobile": {
+                      "unit": "deg"
+                    },
+                    "_background_gradient_position_tablet": "",
+                    "_background_gradient_position_mobile": "",
+                    "_background_hover_color_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                      "unit": "%"
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                      "unit": "%"
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                      "unit": "deg"
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                      "unit": "deg"
+                    },
+                    "_background_hover_gradient_position_tablet": "",
+                    "_background_hover_gradient_position_mobile": "",
+                    "_background_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_slideshow_gallery": [],
+                    "_background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_slideshow_gallery": [],
+                    "_mask_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "title_size": "h3",
+                    "_animation": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-box",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "b3239627",
+          "settings": {
+            "editor": "<p>Government fees and the published service period are subject to the applicable category and current authority conditions. The service period is not a promise of approval within five days of your first enquiry.</p>",
+            "text_color": "#4A4557",
+            "_background_color_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_color_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_color_b_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_color_b_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_gradient_angle_tablet": {
+              "unit": "deg"
+            },
+            "_background_gradient_angle_mobile": {
+              "unit": "deg"
+            },
+            "_background_gradient_position_tablet": "",
+            "_background_gradient_position_mobile": "",
+            "_background_hover_color_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_hover_color_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_hover_color_b_stop_tablet": {
+              "unit": "%"
+            },
+            "_background_hover_color_b_stop_mobile": {
+              "unit": "%"
+            },
+            "_background_hover_gradient_angle_tablet": {
+              "unit": "deg"
+            },
+            "_background_hover_gradient_angle_mobile": {
+              "unit": "deg"
+            },
+            "_background_hover_gradient_position_tablet": "",
+            "_background_hover_gradient_position_mobile": "",
+            "_background_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_slideshow_gallery": [],
+            "_background_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_hover_slideshow_gallery": [],
+            "_mask_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_title": "Conference fee distinction",
+            "typography_typography": "custom",
+            "typography_font_family": "Poppins",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 14,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.6,
+              "sizes": []
+            },
+            "_animation": "none"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "046520a6",
+          "settings": {
+            "text": "Check Official SCEGA Fees",
+            "link": {
+              "url": "https://eportal.scega.gov.sa/financial-compensation",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_slideshow_gallery": [],
+            "button_background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "button_background_hover_slideshow_gallery": [],
+            "_background_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_slideshow_gallery": [],
+            "_background_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_background_hover_slideshow_gallery": [],
+            "_mask_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "_title": "Official government fee source",
+            "background_background": "classic",
+            "background_color": "#1D162A00",
+            "button_text_color": "#1D162A",
+            "button_background_hover_background": "classic",
+            "button_background_hover_color": "#C9BCE3",
+            "hover_color": "#1D162A",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "1",
+              "right": "1",
+              "bottom": "1",
+              "left": "1",
+              "isLinked": true
+            },
+            "border_color": "#8F7BB8",
+            "border_radius": {
+              "unit": "px",
+              "top": "6",
+              "right": "6",
+              "bottom": "6",
+              "left": "6",
+              "isLinked": true
+            },
+            "text_padding": {
+              "unit": "px",
+              "top": "13",
+              "right": "20",
+              "bottom": "13",
+              "left": "20",
+              "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Poppins",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 13,
+              "sizes": []
+            },
+            "typography_font_weight": "500",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.4,
+              "sizes": []
+            },
+            "_animation": "none"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "button",
+          "elType": "widget"
+        }
+      ],
+      "isInner": true,
+      "elType": "container"
+    }
+  ]
+}

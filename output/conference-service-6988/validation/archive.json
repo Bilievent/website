@@ -1,0 +1,27 @@
+{
+  "archive": "SYNCs-Conference-Service-6988-Templates.zip",
+  "bytes": 128839,
+  "sha256": "b27261588cb0ba835ba07654bb95151bc2dd478546209c1867880f265a8f1d74",
+  "files": [
+    "SYNCs-Conference-Service-6988.json",
+    "sections/01-conference-hero.json",
+    "sections/02-conference-clients.json",
+    "sections/03-conference-classification.json",
+    "sections/04-conference-prepare.json",
+    "sections/05-conference-scope.json",
+    "sections/06-conference-fees.json",
+    "sections/07-conference-special-cases.json",
+    "sections/08-conference-why-sync.json",
+    "sections/09-conference-services.json",
+    "sections/10-conference-experience.json",
+    "sections/11-conference-questions.json",
+    "sections/12-conference-guides.json",
+    "sections/13-conference-final-cta.json",
+    "import-instructions-ar.md",
+    "design-spec.md",
+    "qa-report.md"
+  ],
+  "native_templates": 14,
+  "crc_passed": true,
+  "official_website_kit": false
+}

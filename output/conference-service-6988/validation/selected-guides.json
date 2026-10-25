@@ -1,0 +1,50 @@
+{
+  "selection": "Three existing guides explicitly requested in supplied content",
+  "posts": [
+    {
+      "id": 4647,
+      "link": "https://syncs.com.sa/scega-permit-requirements-in-ksa/",
+      "title": {
+        "rendered": "What are the SCEGA permit requirements for corporate events and conferences in Saudi Arabia in 2026?"
+      },
+      "featured_media": 4648,
+      "categories": [
+        158
+      ],
+      "lang": "en",
+      "requested_title": "Conference Application Requirements",
+      "source": "https://syncs.com.sa/wp-json/wp/v2/posts?slug=scega-permit-requirements-in-ksa&_fields=id%2Clink%2Ctitle%2Cfeatured_media%2Ccategories%2Clang",
+      "image": "https://syncs.com.sa/wp-content/uploads/2026/06/SCEGA-Permit-Requirements-in-Saudi-Arabia.jpg"
+    },
+    {
+      "id": 6879,
+      "link": "https://syncs.com.sa/scega-application-corrections-saudi-arabia/",
+      "title": {
+        "rendered": "SCEGA Application Returned for Corrections? How to Fix and Resubmit in Saudi Arabia (2026)"
+      },
+      "featured_media": 6881,
+      "categories": [
+        158
+      ],
+      "lang": "en",
+      "requested_title": "Application Corrections",
+      "source": "https://syncs.com.sa/wp-json/wp/v2/posts?slug=scega-application-corrections-saudi-arabia&_fields=id%2Clink%2Ctitle%2Cfeatured_media%2Ccategories%2Clang",
+      "image": "https://syncs.com.sa/wp-content/uploads/2026/10/scega-application-corrections-saudi-arabia.jpg"
+    },
+    {
+      "id": 5655,
+      "link": "https://syncs.com.sa/foreign-company-event-permit-saudi-arabia/",
+      "title": {
+        "rendered": "How Foreign Companies Get an Event Permit in Saudi Arabia Without a Local Company?"
+      },
+      "featured_media": 5659,
+      "categories": [
+        158
+      ],
+      "lang": "en",
+      "requested_title": "International Organizers",
+      "source": "https://syncs.com.sa/wp-json/wp/v2/posts?slug=foreign-company-event-permit-saudi-arabia&_fields=id%2Clink%2Ctitle%2Cfeatured_media%2Ccategories%2Clang",
+      "image": "https://syncs.com.sa/wp-content/uploads/2026/09/Saudi-Event-Permit-for-Foreign-Companies-1.jpg"
+    }
+  ]
+}

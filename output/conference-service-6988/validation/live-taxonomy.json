@@ -1,0 +1,16 @@
+{
+  "parent_category": {
+    "id": 158,
+    "link": "https://syncs.com.sa/category/event-permits-licensing/",
+    "name": "Event Permits &amp; Licensing",
+    "slug": "event-permits-licensing",
+    "parent": 0,
+    "lang": "en",
+    "translations": {
+      "en": 158,
+      "ar": 160
+    }
+  },
+  "conference_categories": [],
+  "query_preserved_from_parent": true
+}

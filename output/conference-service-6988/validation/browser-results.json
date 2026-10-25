@@ -1,0 +1,59 @@
+{
+  "scope": "Independent renderer of actual #6988-derived native settings, using exact attached photos and a read-only public WordPress guide snapshot in the temporary harness. Not a WordPress/Elementor rendering or native Posts query execution. No form request sent.",
+  "results": [
+    {
+      "width": 1440,
+      "oneH1": true,
+      "contentBlocks": 14,
+      "topLevelSections": 13,
+      "classificationPanels": 3,
+      "accordionItems": 15,
+      "keyboardTabsAndAccordion": true,
+      "heroBriefAnchor": true,
+      "formLabels": 7,
+      "browserFormConstraints": true,
+      "actualFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "attachedImagesLoaded": true,
+      "livePostsQueryExecuted": false,
+      "pageErrors": []
+    },
+    {
+      "width": 768,
+      "oneH1": true,
+      "contentBlocks": 14,
+      "topLevelSections": 13,
+      "classificationPanels": 3,
+      "accordionItems": 15,
+      "keyboardTabsAndAccordion": true,
+      "heroBriefAnchor": true,
+      "formLabels": 7,
+      "browserFormConstraints": true,
+      "actualFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "attachedImagesLoaded": true,
+      "livePostsQueryExecuted": false,
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "oneH1": true,
+      "contentBlocks": 14,
+      "topLevelSections": 13,
+      "classificationPanels": 3,
+      "accordionItems": 15,
+      "keyboardTabsAndAccordion": true,
+      "heroBriefAnchor": true,
+      "formLabels": 7,
+      "browserFormConstraints": true,
+      "actualFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "attachedImagesLoaded": true,
+      "livePostsQueryExecuted": false,
+      "pageErrors": []
+    }
+  ]
+}

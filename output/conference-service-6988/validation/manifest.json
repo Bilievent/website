@@ -1,0 +1,79 @@
+{
+  "page": "SYNCs-Conference-Service-6988.json",
+  "source_archive": "scega_elementor_template.zip",
+  "source_sha256": "4afc0450ed8b9e8e9846db1d1761f5d9e33b0e011fb40c189355847ef2279ab1",
+  "source_template": "elementor-6988-2026-10-25.json",
+  "sections": [
+    {
+      "file": "sections/01-conference-hero.json",
+      "anchor": "conference-hero",
+      "label": "Conference hero"
+    },
+    {
+      "file": "sections/02-conference-clients.json",
+      "anchor": "conference-clients",
+      "label": "Approved business clients"
+    },
+    {
+      "file": "sections/03-conference-classification.json",
+      "anchor": "conference-classification",
+      "label": "Conference support needs"
+    },
+    {
+      "file": "sections/04-conference-prepare.json",
+      "anchor": "conference-prepare",
+      "label": "Conference application preparation"
+    },
+    {
+      "file": "sections/05-conference-scope.json",
+      "anchor": "conference-scope",
+      "label": "Conference permit service scope"
+    },
+    {
+      "file": "sections/06-conference-fees.json",
+      "anchor": "conference-fees",
+      "label": "Conference permit fees and timelines"
+    },
+    {
+      "file": "sections/07-conference-special-cases.json",
+      "anchor": "conference-special-cases",
+      "label": "International and multi activity conferences"
+    },
+    {
+      "file": "sections/08-conference-why-sync.json",
+      "anchor": "conference-why-sync",
+      "label": "Why SYNC for conferences"
+    },
+    {
+      "file": "sections/09-conference-services.json",
+      "anchor": "conference-services",
+      "label": "Conference services beyond the permit"
+    },
+    {
+      "file": "sections/10-conference-experience.json",
+      "anchor": "conference-experience",
+      "label": "Relevant conference experience"
+    },
+    {
+      "file": "sections/11-conference-questions.json",
+      "anchor": "conference-questions",
+      "label": "Conference questions and brief"
+    },
+    {
+      "file": "sections/12-conference-guides.json",
+      "anchor": "conference-guides",
+      "label": "Conference permit planning guides"
+    },
+    {
+      "file": "sections/13-conference-final-cta.json",
+      "anchor": "conference-final-cta",
+      "label": "Conference final CTA"
+    }
+  ],
+  "content_blocks": 14,
+  "top_level_sections": 13,
+  "elements": 240,
+  "missing_original_media_urls": [],
+  "ready_for_media_import": true,
+  "status": "Native saved template; WordPress staging import pending"
+}

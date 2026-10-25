@@ -1,0 +1,1207 @@
+{
+  "passed": true,
+  "solid": [
+    {
+      "element": "4e299207",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "6dbe30ed",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference H1",
+      "state": "headline",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 3
+    },
+    {
+      "element": "Conference H1",
+      "state": "highlighted",
+      "foreground": "#8F7BB8",
+      "background": "#F5F5F7",
+      "ratio": 3.39,
+      "minimum": 3
+    },
+    {
+      "element": "ccce6b0f",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Discuss conference requirements",
+      "state": "button",
+      "foreground": "#FFFFFF",
+      "background": "#4D4E63",
+      "ratio": 8.12,
+      "minimum": 4.5
+    },
+    {
+      "element": "Discuss conference requirements",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Send conference brief",
+      "state": "button",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 4.5
+    },
+    {
+      "element": "Send conference brief",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference service points",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Business clients heading",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#8F7BB8",
+      "ratio": 4.74,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification eyebrow",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification H2",
+      "state": "headline",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 3
+    },
+    {
+      "element": "Classification H2",
+      "state": "highlighted",
+      "foreground": "#8F7BB8",
+      "background": "#F5F5F7",
+      "ratio": 3.39,
+      "minimum": 3
+    },
+    {
+      "element": "Classification introduction",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management title",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 3
+    },
+    {
+      "element": "event-management code",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management description",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "90325c06",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "cb46a549",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "646e74bd",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "784b4bd5",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management caption",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification checklist 0",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification contact 0",
+      "state": "button",
+      "foreground": "#1D162A",
+      "background": "#FFFFFF",
+      "ratio": 17.49,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification contact 0",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management title",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 3
+    },
+    {
+      "element": "event-management code",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management description",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "cdc691a1",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "139a01a3",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "87668374",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "6308fea6",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management caption",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification checklist 1",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification contact 1",
+      "state": "button",
+      "foreground": "#1D162A",
+      "background": "#FFFFFF",
+      "ratio": 17.49,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification contact 1",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management title",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 3
+    },
+    {
+      "element": "event-management code",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management description",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "9eb82b82",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "32ed149f",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "79f5c7e4",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "b3eb87f6",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FFFFFF",
+      "ratio": 9.21,
+      "minimum": 4.5
+    },
+    {
+      "element": "event-management caption",
+      "state": "heading",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification checklist 2",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification contact 2",
+      "state": "button",
+      "foreground": "#1D162A",
+      "background": "#FFFFFF",
+      "ratio": 17.49,
+      "minimum": 4.5
+    },
+    {
+      "element": "Classification contact 2",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation heading",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 3
+    },
+    {
+      "element": "Preparation introduction",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 0 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 0 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 1 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 1 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 2 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 2 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 3 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 3 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 4 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 4 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 5 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Preparation 5 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Scope heading",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 3
+    },
+    {
+      "element": "Scope introduction",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion",
+      "state": "normal",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion",
+      "state": "hover",
+      "foreground": "#FFFFFF",
+      "background": "#3A3447",
+      "ratio": 11.92,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion",
+      "state": "active",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion answer copy 1",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion answer copy 2",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion answer copy 3",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion answer copy 4",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service scope accordion answer copy 5",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee heading",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#FAFAFC",
+      "ratio": 16.78,
+      "minimum": 3
+    },
+    {
+      "element": "Conference fee 0 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee 0 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee 1 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee 1 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee 2 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee 2 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference fee distinction",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.84,
+      "minimum": 4.5
+    },
+    {
+      "element": "Official government fee source",
+      "state": "button",
+      "foreground": "#1D162A",
+      "background": "#FAFAFC",
+      "ratio": 16.78,
+      "minimum": 4.5
+    },
+    {
+      "element": "Official government fee source",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Special cases heading",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 3
+    },
+    {
+      "element": "Conference consideration 0 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 0 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 1 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 1 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 2 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 2 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 3 content",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference consideration 3 content",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "c9c6943f",
+      "state": "heading",
+      "foreground": "#2B203D",
+      "background": "#FAFAFC",
+      "ratio": 14.63,
+      "minimum": 4.5
+    },
+    {
+      "element": "Why SYNC H2",
+      "state": "headline",
+      "foreground": "#1D162A",
+      "background": "#FAFAFC",
+      "ratio": 16.78,
+      "minimum": 3
+    },
+    {
+      "element": "Why SYNC H2",
+      "state": "highlighted",
+      "foreground": "#8F7BB8",
+      "background": "#FAFAFC",
+      "ratio": 3.54,
+      "minimum": 3
+    },
+    {
+      "element": "b341085f",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.84,
+      "minimum": 4.5
+    },
+    {
+      "element": "08fbcd7e",
+      "state": "number",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 3
+    },
+    {
+      "element": "417aa7e6",
+      "state": "heading",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "62a338cd",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "62a338cd",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "d7a9c964",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.84,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference support scope options",
+      "state": "list",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.84,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference complementary services heading",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#FAFAFC",
+      "ratio": 16.78,
+      "minimum": 3
+    },
+    {
+      "element": "Conference complementary services intro",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.84,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Event Management title",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Event Management description",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 0 action",
+      "state": "button",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 0 action",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Booth Production title",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Booth Production description",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 1 action",
+      "state": "button",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 1 action",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service AVL & Technical title",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service AVL & Technical description",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 2 action",
+      "state": "button",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 2 action",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Guest Registration title",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Guest Registration description",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 3 action",
+      "state": "button",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 3 action",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Delegate Acquisition title",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Event service Delegate Acquisition description",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#2B203D",
+      "ratio": 10.76,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 4 action",
+      "state": "button",
+      "foreground": "#C9BCE3",
+      "background": "#2B203D",
+      "ratio": 8.56,
+      "minimum": 4.5
+    },
+    {
+      "element": "Service 4 action",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "3dc8c20f",
+      "state": "heading",
+      "foreground": "#C9BCE3",
+      "background": "#1D162A",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference experience H2",
+      "state": "headline",
+      "foreground": "#FFFFFF",
+      "background": "#1D162A",
+      "ratio": 17.49,
+      "minimum": 3
+    },
+    {
+      "element": "Conference experience H2",
+      "state": "highlighted",
+      "foreground": "#C9BCE3",
+      "background": "#1D162A",
+      "ratio": 9.82,
+      "minimum": 3
+    },
+    {
+      "element": "cfa41d29",
+      "state": "body",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference project scope",
+      "state": "list",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference project details",
+      "state": "button",
+      "foreground": "#C9BCE3",
+      "background": "#1D162A",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference project details",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference FAQ heading",
+      "state": "heading",
+      "foreground": "#FFFFFF",
+      "background": "#1D162A",
+      "ratio": 17.49,
+      "minimum": 3
+    },
+    {
+      "element": "e649a21e",
+      "state": "FAQ closed",
+      "foreground": "#C9BCE3",
+      "background": "#1D162A",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "e649a21e",
+      "state": "FAQ answer",
+      "foreground": "#FFFFFF",
+      "background": "#1D162A",
+      "ratio": 17.49,
+      "minimum": 4.5
+    },
+    {
+      "element": "9fd1ba2d",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#1D162A",
+      "ratio": 17.49,
+      "minimum": 4.5
+    },
+    {
+      "element": "9fd1ba2d",
+      "state": "description",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Self contained conference brief",
+      "state": "label",
+      "foreground": "#D8D8E0",
+      "background": "#1D162A",
+      "ratio": 12.34,
+      "minimum": 4.5
+    },
+    {
+      "element": "Self contained conference brief",
+      "state": "field",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Self contained conference brief",
+      "state": "field border",
+      "foreground": "#8F7BB8",
+      "background": "#2B203D",
+      "ratio": 4.14,
+      "minimum": 3
+    },
+    {
+      "element": "Self contained conference brief",
+      "state": "submit",
+      "foreground": "#1D162A",
+      "background": "#8F7BB8",
+      "ratio": 4.74,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference guides heading",
+      "state": "heading",
+      "foreground": "#1D162A",
+      "background": "#F5F5F7",
+      "ratio": 16.07,
+      "minimum": 3
+    },
+    {
+      "element": "Conference guides introduction",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#F5F5F7",
+      "ratio": 8.46,
+      "minimum": 4.5
+    },
+    {
+      "element": "Final conference brief",
+      "state": "button",
+      "foreground": "#FFFFFF",
+      "background": "#4D4E63",
+      "ratio": 8.12,
+      "minimum": 4.5
+    },
+    {
+      "element": "Final conference brief",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference WhatsApp",
+      "state": "button hover",
+      "foreground": "#1D162A",
+      "background": "#C9BCE3",
+      "ratio": 9.82,
+      "minimum": 4.5
+    }
+  ],
+  "photo_dependent_not_certified": [
+    {
+      "element": "f4e5cc77",
+      "state": "title",
+      "foreground": "#1D162A",
+      "background": "#2B203D",
+      "ratio": 1.15,
+      "minimum": 4.5
+    },
+    {
+      "element": "f4e5cc77",
+      "state": "description",
+      "foreground": "#4A4557",
+      "background": "#2B203D",
+      "ratio": 1.66,
+      "minimum": 4.5
+    },
+    {
+      "element": "f447b0a8",
+      "state": "title",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "f447b0a8",
+      "state": "description",
+      "foreground": "#FFFFFF",
+      "background": "#2B203D",
+      "ratio": 15.25,
+      "minimum": 4.5
+    },
+    {
+      "element": "Final conference CTA introduction",
+      "state": "body",
+      "foreground": "#4A4557",
+      "background": "#FAFAFC",
+      "ratio": 8.84,
+      "minimum": 4.5
+    },
+    {
+      "element": "Conference WhatsApp",
+      "state": "button",
+      "foreground": "#1D162A",
+      "background": "#FAFAFC",
+      "ratio": 16.78,
+      "minimum": 4.5
+    }
+  ]
+}
