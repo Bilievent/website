@@ -145,14 +145,14 @@
                   "widgetType": "heading",
                   "settings": {
                     "_title": "Why SYNC mark",
-                    "title": "SYNC",
+                    "title": "15+",
                     "header_size": "div",
                     "title_color": "#C9BCE3",
                     "typography_typography": "custom",
                     "typography_font_family": "Manrope",
                     "typography_font_size": {
                       "unit": "px",
-                      "size": 48,
+                      "size": 56,
                       "sizes": []
                     },
                     "typography_font_weight": "600",
@@ -163,7 +163,7 @@
                     },
                     "typography_font_size_mobile": {
                       "unit": "px",
-                      "size": 27,
+                      "size": 44,
                       "sizes": []
                     }
                   },
@@ -176,7 +176,7 @@
                   "widgetType": "text-editor",
                   "settings": {
                     "_title": "Why SYNC marker copy",
-                    "editor": "<p>One connected team</p>",
+                    "editor": "<p>Years in Events</p>",
                     "text_color": "#D8D8E0",
                     "typography_typography": "custom",
                     "typography_font_family": "Manrope",

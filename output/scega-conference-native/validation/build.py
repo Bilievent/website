@@ -151,15 +151,15 @@ def scope():
 
 
 def fees():
-    data = [("Government fees", "Confirmed for your conference category and activities.", "database"),
+    data = [("Government fees", "Local: SAR 5,000 · International: SAR 10,000", "database"),
         ("SYNC service scope", "Quoted for your requirements.", "file-alt"),
-        ("Application timeline", "Reviewed against your event plan and the authority’s process.", "clock")]
+        ("Published service time", "5 working days", "clock")]
     cards = [box("Fee column " + str(i), [icon_box("Fee content " + str(i), title, copy, icon, position="left",
         title_color=C["bg"], description_color=C["bg"], primary_color=C["panel"], icon_space=size(22))],
         **width(31), padding=dim(8, 12), flex_gap=gap(12)) for i, (title, copy, icon) in enumerate(data)]
     return section("cf-fees", "Conference fees and timelines", [heading("Fee heading", "Conference Permit Fees & Timelines", 32, color=C["bg"]),
         row("Three fee columns", cards, flex_gap=gap(20), flex_justify_content="space-between"),
-        paragraph("Fee note", "Government fees and review times depend on the applicable category. Preparation and additional review may take longer.", 12, text_color=C["ink"])],
+        paragraph("Fee note", "Government fees and published service time are subject to the applicable category. Preparation and additional review may take longer.", 12, text_color=C["ink"])],
         background_color=C["lavender"], padding=dim(26, 24), flex_gap=gap(18))
 
 
@@ -176,7 +176,7 @@ def multi_activity():
 
 def why_sync():
     mark = box("Why SYNC marker", [heading("Why SYNC eyebrow", "OUR APPROACH / SYNC", 11, "p", C["lavender"]),
-        heading("Why SYNC mark", "SYNC", 48, "div", C["lavender"]), paragraph("Why SYNC marker copy", "One connected team", 15)],
+        heading("Why SYNC mark", "15+", 56, "div", C["lavender"], typography_font_size_mobile=size(44)), paragraph("Why SYNC marker copy", "Years in Events", 15)],
         **width(17), flex_gap=gap(14), flex_justify_content="center")
     intro = box("Why SYNC introduction", [heading("Why SYNC heading", "Permit Support with the Conference in Mind", 30),
         paragraph("Why SYNC copy", "We understand both the permit process and the practical needs of delivering a successful conference in Saudi Arabia.", 16)],

@@ -149,7 +149,7 @@
                       "library": "fa-solid"
                     },
                     "title_text": "Government fees",
-                    "description_text": "Confirmed for your conference category and activities.",
+                    "description_text": "Local: SAR 5,000 · International: SAR 10,000",
                     "title_size": "h3",
                     "position": "left",
                     "text_align": "left",
@@ -358,8 +358,8 @@
                       "value": "fas fa-clock",
                       "library": "fa-solid"
                     },
-                    "title_text": "Application timeline",
-                    "description_text": "Reviewed against your event plan and the authority’s process.",
+                    "title_text": "Published service time",
+                    "description_text": "5 working days",
                     "title_size": "h3",
                     "position": "left",
                     "text_align": "left",
@@ -423,7 +423,7 @@
           "widgetType": "text-editor",
           "settings": {
             "_title": "Fee note",
-            "editor": "<p>Government fees and review times depend on the applicable category. Preparation and additional review may take longer.</p>",
+            "editor": "<p>Government fees and published service time are subject to the applicable category. Preparation and additional review may take longer.</p>",
             "text_color": "#4A4557",
             "typography_typography": "custom",
             "typography_font_family": "Manrope",

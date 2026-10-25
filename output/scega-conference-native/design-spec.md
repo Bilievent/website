@@ -16,9 +16,9 @@ Manrope typography: 52px desktop H1, 44px tablet, 35px mobile; mostly 32px secti
 4. Classification: introduction plus three numbered native columns.
 5. Preparation: six Icon Boxes arranged as three-by-two cards.
 6. Service scope: copy and five-item native Nested Accordion, first item expanded.
-7. Fees and timelines: lavender band, three Icon Boxes, qualified explanatory copy.
+7. Fees and timelines: lavender band, three Icon Boxes, user-confirmed local/international fees and published service time, with the category-dependent note from the reference.
 8. International/multi-activity conferences: four native Icon Box cards.
-9. Why SYNC: native text mark, copy and four linked Icon List rows. These rows link to the brief; support choice is collected by the real form dropdown. They are not simulated radio controls.
+9. Why SYNC: native editable 15+ years text statistic, copy and four linked Icon List rows. These rows link to the brief; support choice is collected by the real form dropdown. They are not simulated radio controls.
 10. Beyond the permit: five editable photo/content cards in a three-plus-two arrangement.
 11. Experience: native Pro Posts, source `project`, one latest project, Classic skin with image left and linked title/excerpt/read-more. The source post type is present in the user's existing project Loop Grid export.
 12. Questions/contact: six-item Nested Accordion, first item expanded, alongside a native Pro Form with seven labeled fields and Collect Submissions.
@@ -30,7 +30,7 @@ Select the relevant conference/service taxonomy terms once in each Posts widget 
 
 ## Content and image distinctions
 
-The fixed government fees, five-day promise and 15+ years metric from the screenshot were not independently verified. The delivered default uses general fee/timeline language and an editable SYNC text mark instead of asserting those numbers. No regulatory approval or authorization badge is invented.
+The user explicitly confirmed the screenshot's figures: local government fee SAR 5,000, international fee SAR 10,000, published service time five working days, and 15+ years in events. These appear as editable native text, retaining the reference's category-dependent timing note. Their source is the user's confirmation rather than an independent regulatory audit. No regulatory approval or authorization badge is invented.
 
 The reference's conference-stage, city and hotel photographs are not supplied as separate assets. Six editable fixed-image placements retain five exact first-party URLs from the user's exports: CL-94 hero and the existing stand/business/guest/venue records. These are illustrative and not claimed to be the pictured hotels or reference conference. Dynamic sections use the real posts' Featured Images. No generated pictures, bundled stock images, data URIs or `[uc_local]` paths enter the templates. Site access remains blocked by proxy CONNECT 403; remote media responses and crops require review on staging.
 

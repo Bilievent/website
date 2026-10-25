@@ -1,7 +1,7 @@
 {
   "archive": "SYNCs-SCEGA-Conference-Elementor-Templates.zip",
-  "bytes": 62747,
-  "sha256": "2ac49fd08effe4c1b77397994e4221372d4854adf2b8485f9ce6d3f8fa73ee4e",
+  "bytes": 62961,
+  "sha256": "a945c32c67fc5f830cdb08e7a7427474c9f79d388ae6c296416169ab920a2949",
   "templates": 16,
   "files": [
     "SYNCs-SCEGA-Conference-Native-Page.json",
@@ -25,5 +25,6 @@
     "qa-report.md"
   ],
   "crc_passed": true,
-  "official_website_kit": false
+  "official_website_kit": false,
+  "user_confirmed_figures_included": true
 }
