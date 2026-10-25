@@ -1,0 +1,808 @@
+{
+  "content": [
+    {
+      "id": "23b6553d",
+      "elType": "container",
+      "settings": {
+        "_title": "Why SYNC",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-why-sync",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B203D"
+      },
+      "elements": [
+        {
+          "id": "c2ccff06",
+          "elType": "container",
+          "settings": {
+            "_title": "Why SYNC columns",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "26",
+              "row": "26",
+              "size": 26,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "column",
+            "flex_align_items": "stretch",
+            "flex_justify_content": "space-between"
+          },
+          "elements": [
+            {
+              "id": "a77f7757",
+              "elType": "container",
+              "settings": {
+                "_title": "Why SYNC marker",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 17,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "99c34643",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Why SYNC eyebrow",
+                    "title": "OUR APPROACH / SYNC",
+                    "header_size": "p",
+                    "title_color": "#C9BCE3",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "38ff07c3",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Why SYNC mark",
+                    "title": "SYNC",
+                    "header_size": "div",
+                    "title_color": "#C9BCE3",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 48,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "a7447257",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "_title": "Why SYNC marker copy",
+                    "editor": "<p>One connected team</p>",
+                    "text_color": "#D8D8E0",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "be9c2d2f",
+              "elType": "container",
+              "settings": {
+                "_title": "Why SYNC introduction",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "16",
+                  "row": "16",
+                  "size": 16,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 34,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "7b0bee5d",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Why SYNC heading",
+                    "title": "Permit Support with the Conference in Mind",
+                    "header_size": "h2",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "d649f134",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "_title": "Why SYNC copy",
+                    "editor": "<p>We understand both the permit process and the practical needs of delivering a successful conference in Saudi Arabia.</p>",
+                    "text_color": "#D8D8E0",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "5dce1483",
+              "elType": "container",
+              "settings": {
+                "_title": "Support options",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 44,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "8dee6906",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Support options heading",
+                    "title": "Choose the support that fits your plans:",
+                    "header_size": "p",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "3461973e",
+                  "elType": "container",
+                  "settings": {
+                    "_title": "Support option 0",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "14",
+                      "row": "14",
+                      "size": 14,
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "15",
+                      "bottom": "11",
+                      "left": "15",
+                      "isLinked": false
+                    },
+                    "background_background": "classic",
+                    "background_color": "#3A3447",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#3A3447",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "78fd6e09",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "Support option content 0",
+                        "icon_list": [
+                          {
+                            "_id": "f4976623",
+                            "text": "Permit support only",
+                            "selected_icon": {
+                              "value": "fas fa-arrow-circle-right",
+                              "library": "fa-solid"
+                            },
+                            "link": {
+                              "url": "#cf-conference-brief",
+                              "is_external": "",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            }
+                          }
+                        ],
+                        "view": "traditional",
+                        "text_color": "#FFFFFF",
+                        "text_color_hover": "#C9BCE3",
+                        "icon_color": "#C9BCE3",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "link_click": "full_width",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 13,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.6,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "24cce440",
+                  "elType": "container",
+                  "settings": {
+                    "_title": "Support option 1",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "14",
+                      "row": "14",
+                      "size": 14,
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "15",
+                      "bottom": "11",
+                      "left": "15",
+                      "isLinked": false
+                    },
+                    "background_background": "classic",
+                    "background_color": "#2B203D",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#3A3447",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "ffa3efd3",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "Support option content 1",
+                        "icon_list": [
+                          {
+                            "_id": "2ef68774",
+                            "text": "Permit + conference delivery",
+                            "selected_icon": {
+                              "value": "fas fa-arrow-circle-right",
+                              "library": "fa-solid"
+                            },
+                            "link": {
+                              "url": "#cf-conference-brief",
+                              "is_external": "",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            }
+                          }
+                        ],
+                        "view": "traditional",
+                        "text_color": "#FFFFFF",
+                        "text_color_hover": "#C9BCE3",
+                        "icon_color": "#C9BCE3",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "link_click": "full_width",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 13,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.6,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "b209d063",
+                  "elType": "container",
+                  "settings": {
+                    "_title": "Support option 2",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "14",
+                      "row": "14",
+                      "size": 14,
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "15",
+                      "bottom": "11",
+                      "left": "15",
+                      "isLinked": false
+                    },
+                    "background_background": "classic",
+                    "background_color": "#2B203D",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#3A3447",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "4b5d1f77",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "Support option content 2",
+                        "icon_list": [
+                          {
+                            "_id": "a404e82f",
+                            "text": "Permit + sponsor booth build",
+                            "selected_icon": {
+                              "value": "fas fa-arrow-circle-right",
+                              "library": "fa-solid"
+                            },
+                            "link": {
+                              "url": "#cf-conference-brief",
+                              "is_external": "",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            }
+                          }
+                        ],
+                        "view": "traditional",
+                        "text_color": "#FFFFFF",
+                        "text_color_hover": "#C9BCE3",
+                        "icon_color": "#C9BCE3",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "link_click": "full_width",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 13,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.6,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "df7b0c4b",
+                  "elType": "container",
+                  "settings": {
+                    "_title": "Support option 3",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "column": "14",
+                      "row": "14",
+                      "size": 14,
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "15",
+                      "bottom": "11",
+                      "left": "15",
+                      "isLinked": false
+                    },
+                    "background_background": "classic",
+                    "background_color": "#2B203D",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#3A3447",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "e3b7f730",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "_title": "Support option content 3",
+                        "icon_list": [
+                          {
+                            "_id": "84534033",
+                            "text": "Permit + registration & guests",
+                            "selected_icon": {
+                              "value": "fas fa-arrow-circle-right",
+                              "library": "fa-solid"
+                            },
+                            "link": {
+                              "url": "#cf-conference-brief",
+                              "is_external": "",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            }
+                          }
+                        ],
+                        "view": "traditional",
+                        "text_color": "#FFFFFF",
+                        "text_color_hover": "#C9BCE3",
+                        "icon_color": "#C9BCE3",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "space_between": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "link_click": "full_width",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Manrope",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 13,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "em",
+                          "size": 1.6,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — Why SYNC"
+}

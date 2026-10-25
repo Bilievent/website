@@ -1,0 +1,531 @@
+{
+  "content": [
+    {
+      "id": "94d03041",
+      "elType": "container",
+      "settings": {
+        "_title": "Business names",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-clients",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B203D"
+      },
+      "elements": [
+        {
+          "id": "955230f4",
+          "elType": "container",
+          "settings": {
+            "_title": "Business names row",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "16",
+              "row": "16",
+              "size": 16,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "row",
+            "flex_align_items": "center",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between"
+          },
+          "elements": [
+            {
+              "id": "f2a6e80d",
+              "elType": "container",
+              "settings": {
+                "_title": "Client names intro",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 29,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "d22ba49f",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Clients label",
+                    "title": "Businesses We Have Supported",
+                    "header_size": "p",
+                    "title_color": "#D8D8E0",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "8fb0452e",
+              "elType": "container",
+              "settings": {
+                "_title": "Client name DELL",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 12,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 17,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "d5537e77",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Client wordmark DELL",
+                    "title": "DELL",
+                    "header_size": "div",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 29,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "align": "center"
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "8005348b",
+              "elType": "container",
+              "settings": {
+                "_title": "Client name intel",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 12,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 17,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "3ad2fdb8",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Client wordmark intel",
+                    "title": "intel",
+                    "header_size": "div",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 31,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "align": "center"
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "1d996c29",
+              "elType": "container",
+              "settings": {
+                "_title": "Client name hp",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 12,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 17,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "4867f2a7",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Client wordmark hp",
+                    "title": "hp",
+                    "header_size": "div",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 34,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "align": "center"
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "294ef9c1",
+              "elType": "container",
+              "settings": {
+                "_title": "Client name GROHE",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 12,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 17,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "072cad0d",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Client wordmark GROHE",
+                    "title": "GROHE",
+                    "header_size": "div",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 24,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 24,
+                      "sizes": []
+                    },
+                    "align": "center"
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "6aa684b0",
+              "elType": "container",
+              "settings": {
+                "_title": "Client name paloalto",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 12,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 17,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "flex_justify_content": "center"
+              },
+              "elements": [
+                {
+                  "id": "8a1e975a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Client wordmark paloalto",
+                    "title": "paloalto",
+                    "header_size": "div",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 25,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 25,
+                      "sizes": []
+                    },
+                    "align": "center"
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — Business names"
+}

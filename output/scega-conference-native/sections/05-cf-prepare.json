@@ -1,0 +1,864 @@
+{
+  "content": [
+    {
+      "id": "35ba90ee",
+      "elType": "container",
+      "settings": {
+        "_title": "Conference application preparation",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-prepare",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B203D"
+      },
+      "elements": [
+        {
+          "id": "3fdc85fe",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "_title": "Preparation heading",
+            "title": "What to Prepare for Your Application",
+            "header_size": "h2",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Manrope",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.18,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 27,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false
+        },
+        {
+          "id": "7963e508",
+          "elType": "container",
+          "settings": {
+            "_title": "Six preparation cards",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "18",
+              "row": "18",
+              "size": 18,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "row",
+            "flex_align_items": "stretch",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between"
+          },
+          "elements": [
+            {
+              "id": "2fc6c64a",
+              "elType": "container",
+              "settings": {
+                "_title": "Preparation Organizer",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "1be7e172",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Preparation content Organizer",
+                    "selected_icon": {
+                      "value": "fas fa-user",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Organizer",
+                    "description_text": "Details about your organizing entity and event partners.",
+                    "title_size": "h3",
+                    "position": "left",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "8d67d7cb",
+              "elType": "container",
+              "settings": {
+                "_title": "Preparation Programme",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "51bb0150",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Preparation content Programme",
+                    "selected_icon": {
+                      "value": "fas fa-file-alt",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Programme",
+                    "description_text": "Conference theme, agenda and session details.",
+                    "title_size": "h3",
+                    "position": "left",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "556e0e64",
+              "elType": "container",
+              "settings": {
+                "_title": "Preparation Speakers",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "f6854ef7",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Preparation content Speakers",
+                    "selected_icon": {
+                      "value": "fas fa-users",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Speakers",
+                    "description_text": "List of local and international speakers.",
+                    "title_size": "h3",
+                    "position": "left",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "3fd0cf2d",
+              "elType": "container",
+              "settings": {
+                "_title": "Preparation Venue & Attendance",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "829c259d",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Preparation content Venue & Attendance",
+                    "selected_icon": {
+                      "value": "fas fa-map-marker-alt",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Venue & Attendance",
+                    "description_text": "Venue information and expected number of attendees.",
+                    "title_size": "h3",
+                    "position": "left",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "e6ba3be5",
+              "elType": "container",
+              "settings": {
+                "_title": "Preparation Dates",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "88156fab",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Preparation content Dates",
+                    "selected_icon": {
+                      "value": "fas fa-calendar-alt",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Dates",
+                    "description_text": "Proposed conference dates and duration.",
+                    "title_size": "h3",
+                    "position": "left",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "4e192d58",
+              "elType": "container",
+              "settings": {
+                "_title": "Preparation Sponsors & Activities",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "6c767391",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Preparation content Sponsors & Activities",
+                    "selected_icon": {
+                      "value": "fas fa-handshake",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Sponsors & Activities",
+                    "description_text": "Sponsor booths, exhibitions and accompanying activities.",
+                    "title_size": "h3",
+                    "position": "left",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — Conference application preparation"
+}

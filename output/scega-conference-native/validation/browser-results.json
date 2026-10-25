@@ -1,0 +1,53 @@
+{
+  "scope": "Independent DOM review from native controls; not WordPress or Elementor frontend. Sample Posts content is QA-only. Only exact-name source photos available in the user ZIP are served locally; other media use solid fallbacks. No form request is sent.",
+  "results": [
+    {
+      "width": 1440,
+      "sections": 15,
+      "accordionItemsChecked": 11,
+      "keyboardAccordion": true,
+      "heroBriefAnchor": true,
+      "browserFormConstraints": true,
+      "actualFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "dynamicQueryExecuted": false,
+      "availableLocalSourcePhotos": [
+        "organization-of-weddings-parties-catering-for-events-female-on-the-background-banquet-decorated-2.jpg"
+      ],
+      "pageErrors": []
+    },
+    {
+      "width": 768,
+      "sections": 15,
+      "accordionItemsChecked": 11,
+      "keyboardAccordion": true,
+      "heroBriefAnchor": true,
+      "browserFormConstraints": true,
+      "actualFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "dynamicQueryExecuted": false,
+      "availableLocalSourcePhotos": [
+        "organization-of-weddings-parties-catering-for-events-female-on-the-background-banquet-decorated-2.jpg"
+      ],
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "sections": 15,
+      "accordionItemsChecked": 11,
+      "keyboardAccordion": true,
+      "heroBriefAnchor": true,
+      "browserFormConstraints": true,
+      "actualFormSubmission": false,
+      "postRequests": 0,
+      "noHorizontalOverflow": true,
+      "dynamicQueryExecuted": false,
+      "availableLocalSourcePhotos": [
+        "organization-of-weddings-parties-catering-for-events-female-on-the-background-banquet-decorated-2.jpg"
+      ],
+      "pageErrors": []
+    }
+  ]
+}

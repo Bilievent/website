@@ -1,0 +1,228 @@
+{
+  "content": [
+    {
+      "id": "48276923",
+      "elType": "container",
+      "settings": {
+        "_title": "Relevant conference experience",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-experience",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B203D"
+      },
+      "elements": [
+        {
+          "id": "7d749fff",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "_title": "Experience heading",
+            "title": "Relevant Conference Experience",
+            "header_size": "h2",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Manrope",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.18,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 27,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false
+        },
+        {
+          "id": "600503b7",
+          "elType": "widget",
+          "widgetType": "posts",
+          "settings": {
+            "_title": "Dynamic conference project",
+            "_skin": "classic",
+            "posts_post_type": "project",
+            "posts_select_date": "anytime",
+            "posts_orderby": "post_date",
+            "posts_order": "desc",
+            "posts_include": [],
+            "posts_include_term_ids": [],
+            "classic_columns": "1",
+            "classic_columns_tablet": "1",
+            "classic_columns_mobile": "1",
+            "classic_posts_per_page": 1,
+            "classic_thumbnail": "left",
+            "classic_thumbnail_size_size": "large",
+            "classic_image_width": {
+              "unit": "%",
+              "size": 55,
+              "sizes": []
+            },
+            "classic_image_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "classic_item_ratio": {
+              "unit": "px",
+              "size": 0.55,
+              "sizes": []
+            },
+            "classic_masonry": "",
+            "classic_image_spacing": {
+              "unit": "px",
+              "size": 20,
+              "sizes": []
+            },
+            "classic_img_border_radius": {
+              "unit": "px",
+              "top": "4",
+              "right": "4",
+              "bottom": "4",
+              "left": "4",
+              "isLinked": true
+            },
+            "classic_show_title": "yes",
+            "classic_title_tag": "h3",
+            "classic_show_excerpt": "yes",
+            "classic_excerpt_length": 20,
+            "classic_meta_data": [],
+            "classic_show_read_more": "yes",
+            "classic_read_more_text": "Explore the Project →",
+            "classic_title_color": "#FFFFFF",
+            "classic_excerpt_color": "#D8D8E0",
+            "classic_read_more_color": "#C9BCE3",
+            "classic_title_spacing": {
+              "unit": "px",
+              "size": 12,
+              "sizes": []
+            },
+            "classic_excerpt_spacing": {
+              "unit": "px",
+              "size": 12,
+              "sizes": []
+            },
+            "classic_column_gap": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "classic_row_gap": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "classic_box_bg_color": "#2B203D",
+            "classic_box_border_color": "#3A3447",
+            "classic_box_border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "classic_box_border_radius": {
+              "unit": "px",
+              "size": 4,
+              "sizes": []
+            },
+            "classic_content_padding": {
+              "unit": "px",
+              "top": "12",
+              "right": "12",
+              "bottom": "12",
+              "left": "12",
+              "isLinked": true
+            },
+            "pagination_type": "",
+            "classic_title_typography_typography": "custom",
+            "classic_title_typography_font_family": "Manrope",
+            "classic_title_typography_font_size": {
+              "unit": "px",
+              "size": 25,
+              "sizes": []
+            },
+            "classic_title_typography_font_weight": "600",
+            "classic_title_typography_line_height": {
+              "unit": "em",
+              "size": 1.25,
+              "sizes": []
+            },
+            "classic_excerpt_typography_typography": "custom",
+            "classic_excerpt_typography_font_family": "Manrope",
+            "classic_excerpt_typography_font_size": {
+              "unit": "px",
+              "size": 14,
+              "sizes": []
+            },
+            "classic_excerpt_typography_font_weight": "400",
+            "classic_excerpt_typography_line_height": {
+              "unit": "em",
+              "size": 1.5,
+              "sizes": []
+            },
+            "classic_read_more_typography_typography": "custom",
+            "classic_read_more_typography_font_family": "Manrope",
+            "classic_read_more_typography_font_size": {
+              "unit": "px",
+              "size": 13,
+              "sizes": []
+            },
+            "classic_read_more_typography_font_weight": "600",
+            "classic_read_more_typography_line_height": {
+              "unit": "em",
+              "size": 1.3,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — Relevant conference experience"
+}

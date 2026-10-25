@@ -1,0 +1,961 @@
+{
+  "content": [
+    {
+      "id": "1b88f650",
+      "elType": "container",
+      "settings": {
+        "_title": "Conference questions and brief",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-questions",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#1D162A"
+      },
+      "elements": [
+        {
+          "id": "2d1cd1f0",
+          "elType": "container",
+          "settings": {
+            "_title": "FAQ and conference brief",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "32",
+              "row": "32",
+              "size": 32,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "column",
+            "flex_align_items": "stretch",
+            "flex_justify_content": "space-between"
+          },
+          "elements": [
+            {
+              "id": "16f6b83d",
+              "elType": "container",
+              "settings": {
+                "_title": "Conference FAQ column",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "20",
+                  "row": "20",
+                  "size": 20,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 57,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "2e011dfa",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Conference FAQ heading",
+                    "title": "SCEGA Conference Permit Questions",
+                    "header_size": "h2",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "63226555",
+                  "elType": "widget",
+                  "widgetType": "nested-accordion",
+                  "settings": {
+                    "_title": "Conference permit FAQs",
+                    "items": [
+                      {
+                        "_id": "26341d14",
+                        "item_title": "01  Does a one-day conference need a permit?",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "cd876c4f",
+                        "item_title": "02  Can our company apply directly?",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "8b6a8dac",
+                        "item_title": "03  What information should we prepare?",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "9f2c1551",
+                        "item_title": "04  Can we include sponsor booths?",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "8d7a88e9",
+                        "item_title": "05  Can SYNC support overseas speakers?",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "9837b2da",
+                        "item_title": "06  What if our conference details change?",
+                        "element_css_id": ""
+                      }
+                    ],
+                    "default_state": "expanded",
+                    "max_items_expended": "one",
+                    "title_tag": "h3",
+                    "accordion_item_title_position_horizontal": "stretch",
+                    "accordion_item_title_icon": {
+                      "value": "fas fa-plus",
+                      "library": "fa-solid"
+                    },
+                    "accordion_item_title_icon_active": {
+                      "value": "fas fa-minus",
+                      "library": "fa-solid"
+                    },
+                    "accordion_item_title_space_between": {
+                      "unit": "px",
+                      "size": 0,
+                      "sizes": []
+                    },
+                    "accordion_padding": {
+                      "unit": "px",
+                      "top": "15",
+                      "right": "18",
+                      "bottom": "15",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "accordion_border_radius": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    },
+                    "normal_title_color": "#FFFFFF",
+                    "hover_title_color": "#FFFFFF",
+                    "active_title_color": "#FFFFFF",
+                    "normal_icon_color": "#C9BCE3",
+                    "hover_icon_color": "#FFFFFF",
+                    "active_icon_color": "#FFFFFF",
+                    "accordion_background_normal_background": "classic",
+                    "accordion_background_normal_color": "#2B203D",
+                    "accordion_background_hover_background": "classic",
+                    "accordion_background_hover_color": "#3A3447",
+                    "accordion_background_active_background": "classic",
+                    "accordion_background_active_color": "#2B203D",
+                    "accordion_border_normal_border": "solid",
+                    "accordion_border_normal_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "accordion_border_normal_color": "#3A3447",
+                    "accordion_border_hover_border": "solid",
+                    "accordion_border_hover_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "accordion_border_hover_color": "#8F7BB8",
+                    "accordion_border_active_border": "solid",
+                    "accordion_border_active_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "accordion_border_active_color": "#8F7BB8",
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "500",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "7ddf6b90",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference permit FAQs answer 1",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "de4064cc",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference permit FAQs answer copy 1",
+                            "editor": "<p>The permit route depends on the conference category and activities, not only its duration. We review the event brief to identify the applicable requirements.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "be153c09",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference permit FAQs answer 2",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "7260817e",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference permit FAQs answer copy 2",
+                            "editor": "<p>The organizing entity’s eligibility and the application route depend on the relevant category. We help review those details and the supporting information.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "11c7d80c",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference permit FAQs answer 3",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "9023c57a",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference permit FAQs answer copy 3",
+                            "editor": "<p>Start with organizer details, the programme, speakers, proposed venue, attendance and dates, plus any sponsors or accompanying activities.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "b3de4f82",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference permit FAQs answer 4",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "9ad6813c",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference permit FAQs answer copy 4",
+                            "editor": "<p>Include all sponsor booths, exhibitions and accompanying activities in the brief so their requirements can be considered in the application review.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "dafcfaee",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference permit FAQs answer 5",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "b37ba8e5",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference permit FAQs answer copy 5",
+                            "editor": "<p>We can coordinate event information and relevant guest arrangements, including visa application support where applicable. Entry and permit decisions remain with the authorities.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "8bf8b813",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference permit FAQs answer 6",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "80db1819",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference permit FAQs answer copy 6",
+                            "editor": "<p>Tell us when dates, venue, programme or activities change. We review the update and help coordinate the relevant correction, amendment or cancellation steps.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "9addc7e2",
+              "elType": "container",
+              "settings": {
+                "_title": "Conference brief column",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 39,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_element_id": "cf-conference-brief"
+              },
+              "elements": [
+                {
+                  "id": "63b71c36",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Conference brief eyebrow",
+                    "title": "GET IN TOUCH",
+                    "header_size": "p",
+                    "title_color": "#C9BCE3",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "16cf0692",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Conference brief heading",
+                    "title": "Tell Us About Your Conference",
+                    "header_size": "h2",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "1ed16c1f",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "_title": "Conference brief introduction",
+                    "editor": "<p>Share a few details and our team will discuss the next steps with you.</p>",
+                    "text_color": "#D8D8E0",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "d2a3c675",
+                  "elType": "widget",
+                  "widgetType": "form",
+                  "settings": {
+                    "_title": "Native conference brief form",
+                    "form_name": "SYNC Conference Permit Brief",
+                    "form_fields": [
+                      {
+                        "_id": "37c714ce",
+                        "custom_id": "name",
+                        "field_type": "text",
+                        "field_label": "Full name",
+                        "placeholder": "Full name",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "9e00fd7a",
+                        "custom_id": "email",
+                        "field_type": "email",
+                        "field_label": "Work email",
+                        "placeholder": "you@company.com",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "af39ff67",
+                        "custom_id": "company",
+                        "field_type": "text",
+                        "field_label": "Company",
+                        "placeholder": "Company",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "e33c6aaf",
+                        "custom_id": "city_date",
+                        "field_type": "text",
+                        "field_label": "City & event date",
+                        "placeholder": "City and proposed date",
+                        "required": "",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100"
+                      },
+                      {
+                        "_id": "6ee3a3f4",
+                        "custom_id": "attendance",
+                        "field_type": "select",
+                        "field_label": "Expected attendance",
+                        "placeholder": "Select attendance",
+                        "required": "",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100",
+                        "field_options": "Select attendance|\nUnder 100|under_100\n100–300|100_300\n301–500|301_500\n501–1,000|501_1000\nOver 1,000|over_1000"
+                      },
+                      {
+                        "_id": "51007e69",
+                        "custom_id": "support",
+                        "field_type": "select",
+                        "field_label": "Support required",
+                        "placeholder": "Select support",
+                        "required": "true",
+                        "width": "50",
+                        "width_tablet": "50",
+                        "width_mobile": "100",
+                        "field_options": "Select support|\nPermit support only|permit_only\nPermit + conference delivery|conference_delivery\nPermit + sponsor booth build|sponsor_booths\nPermit + registration & guests|registration_guests"
+                      },
+                      {
+                        "_id": "d9e7b33f",
+                        "custom_id": "brief",
+                        "field_type": "textarea",
+                        "field_label": "Conference brief",
+                        "placeholder": "Tell us about your conference, including format, proposed dates and any specific requirements.",
+                        "required": "true",
+                        "width": "100",
+                        "width_tablet": "100",
+                        "width_mobile": "100",
+                        "rows": 4
+                      }
+                    ],
+                    "show_labels": "true",
+                    "input_size": "md",
+                    "button_size": "md",
+                    "button_text": "Send Your Conference Brief",
+                    "button_width": "100",
+                    "submit_actions": [
+                      "save-to-database"
+                    ],
+                    "form_validation": "",
+                    "column_gap": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "row_gap": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "label_spacing": {
+                      "unit": "px",
+                      "size": 6,
+                      "sizes": []
+                    },
+                    "label_color": "#D8D8E0",
+                    "field_text_color": "#FFFFFF",
+                    "field_background_color": "#2B203D",
+                    "field_border_color": "#3A3447",
+                    "field_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "field_border_radius": {
+                      "unit": "px",
+                      "top": "6",
+                      "right": "6",
+                      "bottom": "6",
+                      "left": "6",
+                      "isLinked": true
+                    },
+                    "button_background_color": "#8F7BB8",
+                    "button_text_color": "#1D162A",
+                    "button_background_hover_color": "#C9BCE3",
+                    "button_hover_color": "#1D162A",
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "6",
+                      "right": "6",
+                      "bottom": "6",
+                      "left": "6",
+                      "isLinked": true
+                    },
+                    "button_text_padding": {
+                      "unit": "px",
+                      "top": "13",
+                      "right": "20",
+                      "bottom": "13",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "label_typography_typography": "custom",
+                    "label_typography_font_family": "Manrope",
+                    "label_typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    },
+                    "label_typography_font_weight": "400",
+                    "label_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "field_typography_typography": "custom",
+                    "field_typography_font_family": "Manrope",
+                    "field_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "field_typography_font_weight": "400",
+                    "field_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "button_typography_typography": "custom",
+                    "button_typography_font_family": "Manrope",
+                    "button_typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "button_typography_font_weight": "600",
+                    "button_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "ddfd6dc3",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "_title": "Authority decision note",
+                    "editor": "<p>SYNC supports applications. The authority issues licences.</p>",
+                    "text_color": "#D8D8E0",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — Conference questions and brief"
+}

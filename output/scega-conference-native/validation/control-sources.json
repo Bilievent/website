@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/elementor/elementor/main/modules/nested-accordion/widgets/nested-accordion.php",
+    "provenance": "official Elementor core",
+    "sha256": "8906a013085ec5ee05f944be46438f4fdc599d0c3a54aa967b03d7c4467d1dcc",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/elementor/elementor/main/includes/widgets/image.php",
+    "provenance": "official Elementor core",
+    "sha256": "70527f127bf9b71f5016523f2acbef6672a2fac36e6d0117a7b8db2b964d20ef",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/forms/widgets/form.php",
+    "provenance": "GPL compatibility source; not installed Elementor Pro",
+    "sha256": "c030523c3d334d103db2288449f75c9855330d482bd4a6602c3d8700b9bd451e",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/posts/skins/skin-base.php",
+    "provenance": "GPL compatibility source; not installed Elementor Pro",
+    "sha256": "d6b1d68514baa549e3f3ed534936bdcad51fc80054f467ebd07b289aed8a97ac",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/posts/skins/skin-classic.php",
+    "provenance": "GPL compatibility source; not installed Elementor Pro",
+    "sha256": "e27259ad7851df12cf442235e7f36e61740166fed968db5cc7f097e00d1199be",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/posts/widgets/posts.php",
+    "provenance": "GPL compatibility source; not installed Elementor Pro",
+    "sha256": "7be21b5a6a6b84504f1144cb09b0939771f61cb0a813f1ba077aee424760a986",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/query-control/controls/group-control-query.php",
+    "provenance": "GPL compatibility source; not installed Elementor Pro",
+    "sha256": "f9432d9a1224a856472615a0ceff23e24f68d948c3bead6258753f9b58887ad8",
+    "executed": false,
+    "bundled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/proelements/proelements/master/modules/query-control/controls/group-control-related.php",
+    "provenance": "GPL compatibility source; not installed Elementor Pro",
+    "sha256": "61819e870ccd8907cb73a8b5859cea88e8fc1b245ec480eb9487653852928230",
+    "executed": false,
+    "bundled": false
+  }
+]

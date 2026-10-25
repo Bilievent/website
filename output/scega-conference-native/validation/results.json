@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "page": "SYNCs-SCEGA-Conference-Native-Page.json",
+  "sections": 15,
+  "elements": 213,
+  "templates": 16,
+  "native_types": {
+    "container": 105,
+    "heading": 39,
+    "icon-list": 6,
+    "button": 10,
+    "text-editor": 31,
+    "image": 1,
+    "icon-box": 16,
+    "nested-accordion": 2,
+    "posts": 2,
+    "form": 1
+  },
+  "custom_html_css_js": 0,
+  "anchors": 16,
+  "image_placements": 6,
+  "unique_image_urls": 5,
+  "all_image_urls_from_user_exports": true,
+  "form_fields": 7,
+  "form_submit_action": [
+    "save-to-database"
+  ],
+  "dynamic_projects": true,
+  "dynamic_articles": true,
+  "service_taxonomy_selection_required": true,
+  "schema_checks": [
+    {
+      "source": "Official Elementor image",
+      "sha256": "70527f127bf9b71f5016523f2acbef6672a2fac36e6d0117a7b8db2b964d20ef"
+    },
+    {
+      "source": "Official Elementor nested accordion",
+      "sha256": "8906a013085ec5ee05f944be46438f4fdc599d0c3a54aa967b03d7c4467d1dcc"
+    },
+    {
+      "source": "GPL compatibility fork Form (not installed Elementor Pro)",
+      "sha256": "c030523c3d334d103db2288449f75c9855330d482bd4a6602c3d8700b9bd451e"
+    },
+    {
+      "source": "GPL compatibility fork Posts classic skin",
+      "sha256": "e27259ad7851df12cf442235e7f36e61740166fed968db5cc7f097e00d1199be"
+    },
+    {
+      "source": "GPL compatibility fork Posts base skin",
+      "sha256": "d6b1d68514baa549e3f3ed534936bdcad51fc80054f467ebd07b289aed8a97ac"
+    },
+    {
+      "source": "GPL compatibility fork query group",
+      "sha256": "f9432d9a1224a856472615a0ceff23e24f68d948c3bead6258753f9b58887ad8"
+    }
+  ],
+  "not_tested": [
+    "actual WordPress import/edit/re-export",
+    "installed Elementor/Pro versions",
+    "live media",
+    "real Posts/language/category queries",
+    "form database persistence and email"
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "content": [
+    {
+      "id": "39ed2743",
+      "elType": "container",
+      "settings": {
+        "_title": "Conference permit scope",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-scope",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#1D162A"
+      },
+      "elements": [
+        {
+          "id": "f73a0074",
+          "elType": "container",
+          "settings": {
+            "_title": "Scope two columns",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "32",
+              "row": "32",
+              "size": 32,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "column",
+            "flex_align_items": "stretch",
+            "flex_justify_content": "space-between"
+          },
+          "elements": [
+            {
+              "id": "6b5946b5",
+              "elType": "container",
+              "settings": {
+                "_title": "Scope introduction",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "16",
+                  "row": "16",
+                  "size": 16,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 43,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "7f209917",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Scope eyebrow",
+                    "title": "OUR APPROACH",
+                    "header_size": "p",
+                    "title_color": "#C9BCE3",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 1.5,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "658d7d50",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "_title": "Scope heading",
+                    "title": "What Our Conference Permit Service Covers",
+                    "header_size": "h2",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 36,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                },
+                {
+                  "id": "97768e91",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "_title": "Scope introduction copy",
+                    "editor": "<p>We manage the key steps in your conference permit application, from classification and document preparation to submission and follow-up.</p>",
+                    "text_color": "#D8D8E0",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Manrope",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "1c6b04b6",
+              "elType": "container",
+              "settings": {
+                "_title": "Scope accordion column",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "0",
+                  "row": "0",
+                  "size": 0,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 53,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "4f7ab41b",
+                  "elType": "widget",
+                  "widgetType": "nested-accordion",
+                  "settings": {
+                    "_title": "Conference service scope",
+                    "items": [
+                      {
+                        "_id": "92acdb1f",
+                        "item_title": "01  Classification & Eligibility",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "af7e8935",
+                        "item_title": "02  Application File Preparation",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "d430c2b7",
+                        "item_title": "03  Submission Coordination",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "d5b52037",
+                        "item_title": "04  Follow-Up & Corrections",
+                        "element_css_id": ""
+                      },
+                      {
+                        "_id": "dd2e92dc",
+                        "item_title": "05  Changes & Cancellation",
+                        "element_css_id": ""
+                      }
+                    ],
+                    "default_state": "expanded",
+                    "max_items_expended": "one",
+                    "title_tag": "h3",
+                    "accordion_item_title_position_horizontal": "stretch",
+                    "accordion_item_title_icon": {
+                      "value": "fas fa-plus",
+                      "library": "fa-solid"
+                    },
+                    "accordion_item_title_icon_active": {
+                      "value": "fas fa-minus",
+                      "library": "fa-solid"
+                    },
+                    "accordion_item_title_space_between": {
+                      "unit": "px",
+                      "size": 0,
+                      "sizes": []
+                    },
+                    "accordion_padding": {
+                      "unit": "px",
+                      "top": "15",
+                      "right": "18",
+                      "bottom": "15",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "accordion_border_radius": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    },
+                    "normal_title_color": "#FFFFFF",
+                    "hover_title_color": "#FFFFFF",
+                    "active_title_color": "#FFFFFF",
+                    "normal_icon_color": "#C9BCE3",
+                    "hover_icon_color": "#FFFFFF",
+                    "active_icon_color": "#FFFFFF",
+                    "accordion_background_normal_background": "classic",
+                    "accordion_background_normal_color": "#2B203D",
+                    "accordion_background_hover_background": "classic",
+                    "accordion_background_hover_color": "#3A3447",
+                    "accordion_background_active_background": "classic",
+                    "accordion_background_active_color": "#2B203D",
+                    "accordion_border_normal_border": "solid",
+                    "accordion_border_normal_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "accordion_border_normal_color": "#3A3447",
+                    "accordion_border_hover_border": "solid",
+                    "accordion_border_hover_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "accordion_border_hover_color": "#8F7BB8",
+                    "accordion_border_active_border": "solid",
+                    "accordion_border_active_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "accordion_border_active_color": "#8F7BB8",
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "500",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "7984b321",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference service scope answer 1",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "3abd302f",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference service scope answer copy 1",
+                            "editor": "<p>We review your conference plans, including format, activities and organizing entity, to identify the applicable category and eligibility requirements.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "324d0012",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference service scope answer 2",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "abc5e1cf",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference service scope answer copy 2",
+                            "editor": "<p>We help coordinate the organizer details, programme, speaker information, venue and supporting documents needed for the application.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "dc821bf8",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference service scope answer 3",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "72f65b21",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference service scope answer copy 3",
+                            "editor": "<p>We support the submission process and keep the information consistent. The authority reviews the application and issues its decision.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "93bb5b2b",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference service scope answer 4",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "8c2f012f",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference service scope answer copy 4",
+                            "editor": "<p>We help coordinate responses to additional information requests, application corrections and supporting documents during review.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    },
+                    {
+                      "id": "c75ce0e4",
+                      "elType": "container",
+                      "settings": {
+                        "_title": "Conference service scope answer 5",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "column": "0",
+                          "row": "0",
+                          "size": 0,
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "18",
+                          "right": "18",
+                          "bottom": "18",
+                          "left": "18",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#1D162A"
+                      },
+                      "elements": [
+                        {
+                          "id": "13a5f2f1",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "_title": "Conference service scope answer copy 5",
+                            "editor": "<p>If the dates, venue or event scope change, we review the update and help coordinate the relevant amendment or cancellation steps.</p>",
+                            "text_color": "#D8D8E0",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Manrope",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 14,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.6,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false
+                        }
+                      ],
+                      "isInner": false
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — Conference permit scope"
+}

@@ -1,0 +1,614 @@
+{
+  "content": [
+    {
+      "id": "a0d91e03",
+      "elType": "container",
+      "settings": {
+        "_title": "International and multi activity conferences",
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "column": "20",
+          "row": "20",
+          "size": 20,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "28",
+          "right": "24",
+          "bottom": "28",
+          "left": "24",
+          "isLinked": false
+        },
+        "html_tag": "section",
+        "_element_id": "cf-multi-activity",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1296,
+          "sizes": []
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "26",
+          "right": "20",
+          "bottom": "26",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#1D162A"
+      },
+      "elements": [
+        {
+          "id": "6800a2f3",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "_title": "Multi activity heading",
+            "title": "Planning an International or Multi-Activity Conference?",
+            "header_size": "h2",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Manrope",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 32,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.18,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 27,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false
+        },
+        {
+          "id": "1a07fb90",
+          "elType": "container",
+          "settings": {
+            "_title": "Four multi activity cards",
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "column": "18",
+              "row": "18",
+              "size": 18,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_direction_tablet": "row",
+            "flex_align_items": "stretch",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between"
+          },
+          "elements": [
+            {
+              "id": "ae592cf3",
+              "elType": "container",
+              "settings": {
+                "_title": "Multi activity 0",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 23.5,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "2522e17f",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Multi activity content 0",
+                    "selected_icon": {
+                      "value": "fas fa-globe",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Overseas Organizers & Speakers",
+                    "description_text": "Additional requirements for international participants.",
+                    "title_size": "h3",
+                    "position": "top",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "46054b52",
+              "elType": "container",
+              "settings": {
+                "_title": "Multi activity 1",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 23.5,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "5351efd1",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Multi activity content 1",
+                    "selected_icon": {
+                      "value": "fas fa-store",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Sponsor Booths & Exhibitions",
+                    "description_text": "Guidance on exhibiting and sponsorship activities.",
+                    "title_size": "h3",
+                    "position": "top",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "fd50f0d8",
+              "elType": "container",
+              "settings": {
+                "_title": "Multi activity 2",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 23.5,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "5c5caa7a",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Multi activity content 2",
+                    "selected_icon": {
+                      "value": "fas fa-stethoscope",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Healthcare & Professional Events",
+                    "description_text": "Support for sector-specific conference requirements.",
+                    "title_size": "h3",
+                    "position": "top",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "515654eb",
+              "elType": "container",
+              "settings": {
+                "_title": "Multi activity 3",
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "column": "14",
+                  "row": "14",
+                  "size": 14,
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2B203D",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#3A3447",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 23.5,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "2ae650bb",
+                  "elType": "widget",
+                  "widgetType": "icon-box",
+                  "settings": {
+                    "_title": "Multi activity content 3",
+                    "selected_icon": {
+                      "value": "fas fa-desktop",
+                      "library": "fa-solid"
+                    },
+                    "title_text": "Hybrid & Additional Activities",
+                    "description_text": "Including virtual sessions and other related activities.",
+                    "title_size": "h3",
+                    "position": "top",
+                    "text_align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 32,
+                      "sizes": []
+                    },
+                    "icon_space": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "primary_color": "#8F7BB8",
+                    "title_color": "#FFFFFF",
+                    "description_color": "#D8D8E0",
+                    "title_bottom_space": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "title_typography_typography": "custom",
+                    "title_typography_font_family": "Manrope",
+                    "title_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "title_typography_font_weight": "600",
+                    "title_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "description_typography_typography": "custom",
+                    "description_typography_font_family": "Manrope",
+                    "description_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "description_typography_font_weight": "400",
+                    "description_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.55,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "type": "container",
+  "title": "SYNC — International and multi activity conferences"
+}

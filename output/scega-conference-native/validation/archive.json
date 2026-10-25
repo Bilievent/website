@@ -1,0 +1,29 @@
+{
+  "archive": "SYNCs-SCEGA-Conference-Elementor-Templates.zip",
+  "bytes": 62747,
+  "sha256": "2ac49fd08effe4c1b77397994e4221372d4854adf2b8485f9ce6d3f8fa73ee4e",
+  "templates": 16,
+  "files": [
+    "SYNCs-SCEGA-Conference-Native-Page.json",
+    "sections/01-cf-header.json",
+    "sections/02-cf-hero.json",
+    "sections/03-cf-clients.json",
+    "sections/04-cf-classification.json",
+    "sections/05-cf-prepare.json",
+    "sections/06-cf-scope.json",
+    "sections/07-cf-fees.json",
+    "sections/08-cf-multi-activity.json",
+    "sections/09-cf-why-sync.json",
+    "sections/10-cf-services.json",
+    "sections/11-cf-experience.json",
+    "sections/12-cf-questions.json",
+    "sections/13-cf-guides.json",
+    "sections/14-cf-final-cta.json",
+    "sections/15-cf-footer.json",
+    "import-instructions-ar.md",
+    "design-spec.md",
+    "qa-report.md"
+  ],
+  "crc_passed": true,
+  "official_website_kit": false
+}

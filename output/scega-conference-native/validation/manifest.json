@@ -1,0 +1,96 @@
+{
+  "page": "SYNCs-SCEGA-Conference-Native-Page.json",
+  "sections": [
+    {
+      "file": "sections/01-cf-header.json",
+      "label": "Header",
+      "anchor": "cf-header"
+    },
+    {
+      "file": "sections/02-cf-hero.json",
+      "label": "Conference hero",
+      "anchor": "cf-hero"
+    },
+    {
+      "file": "sections/03-cf-clients.json",
+      "label": "Business names",
+      "anchor": "cf-clients"
+    },
+    {
+      "file": "sections/04-cf-classification.json",
+      "label": "Conference classification",
+      "anchor": "cf-classification"
+    },
+    {
+      "file": "sections/05-cf-prepare.json",
+      "label": "Conference application preparation",
+      "anchor": "cf-prepare"
+    },
+    {
+      "file": "sections/06-cf-scope.json",
+      "label": "Conference permit scope",
+      "anchor": "cf-scope"
+    },
+    {
+      "file": "sections/07-cf-fees.json",
+      "label": "Conference fees and timelines",
+      "anchor": "cf-fees"
+    },
+    {
+      "file": "sections/08-cf-multi-activity.json",
+      "label": "International and multi activity conferences",
+      "anchor": "cf-multi-activity"
+    },
+    {
+      "file": "sections/09-cf-why-sync.json",
+      "label": "Why SYNC",
+      "anchor": "cf-why-sync"
+    },
+    {
+      "file": "sections/10-cf-services.json",
+      "label": "Services beyond the conference permit",
+      "anchor": "cf-services"
+    },
+    {
+      "file": "sections/11-cf-experience.json",
+      "label": "Relevant conference experience",
+      "anchor": "cf-experience"
+    },
+    {
+      "file": "sections/12-cf-questions.json",
+      "label": "Conference questions and brief",
+      "anchor": "cf-questions"
+    },
+    {
+      "file": "sections/13-cf-guides.json",
+      "label": "Conference permit planning guides",
+      "anchor": "cf-guides"
+    },
+    {
+      "file": "sections/14-cf-final-cta.json",
+      "label": "Conference final CTA",
+      "anchor": "cf-final-cta"
+    },
+    {
+      "file": "sections/15-cf-footer.json",
+      "label": "Footer",
+      "anchor": "cf-footer"
+    }
+  ],
+  "elements": 213,
+  "palette": {
+    "bg": "#1D162A",
+    "accent": "#8F7BB8",
+    "panel": "#2B203D",
+    "line": "#3A3447",
+    "lavender": "#C9BCE3",
+    "gray": "#F5F5F7",
+    "soft": "#FAFAFC",
+    "silver": "#D8D8E0",
+    "white": "#FFFFFF",
+    "ink": "#4A4557"
+  },
+  "source": "scega-permit-native/validation/build_page.py",
+  "source_sha256": "65e7ef6d31dfd61e48fc36b9209c2eb47380cfde86bb1cc87efa122c5a1c8fb9",
+  "status": "native saved templates; WordPress import/edit/re-export untested"
+}
