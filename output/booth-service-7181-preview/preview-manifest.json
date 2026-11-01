@@ -1,0 +1,34 @@
+{
+  "stage": "generated visual design proposal before native Elementor implementation",
+  "source_template": "elementor-7181-2026-11-01.json",
+  "original_sections": 9,
+  "proposed_sections": 8,
+  "site_changes": false,
+  "image_notes": [
+    "Desktop full page and three mobile layout excerpts.",
+    "Images are generated design mockups, not actual Elementor runtime screenshots.",
+    "3D comparison drawings are illustrative. Use original paired project images in the implementation.",
+    "Form field arrangement is a proposal. The supplied MetForm instance lacks embedded field definitions.",
+    "Only existing widget types are proposed. Existing header and footer are shown as context."
+  ],
+  "previews": [
+    {
+      "file": "SYNCs-Booth-Desktop-Preview.png",
+      "pixels": [
+        750,
+        2097
+      ],
+      "bytes": 1953252,
+      "sha256": "1c6d259770f379f61a4899be628bb26d9fe129944ab9f1576ba0bba676ee339e"
+    },
+    {
+      "file": "SYNCs-Booth-Mobile-Preview.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "bytes": 1736425,
+      "sha256": "b509de1ccc0b8ab41c8f67e9f6deaaa93197b41b05967d74e0861badb9af078b"
+    }
+  ]
+}

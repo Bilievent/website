@@ -1,0 +1,25 @@
+{
+  "source_file": "elementor-7181-2026-11-01.json",
+  "version": "0.4",
+  "type": "page",
+  "top_level_sections": 9,
+  "widgets": {
+    "icon": 8,
+    "heading": 14,
+    "elementskit-heading": 7,
+    "text-editor": 6,
+    "button": 3,
+    "icon-box": 35,
+    "divider": 9,
+    "elementskit-image-comparison": 4,
+    "spacer": 5,
+    "animated-headline": 1,
+    "icon-list": 1,
+    "elementskit-accordion": 1,
+    "metform": 1,
+    "posts": 1
+  },
+  "stage": "visual proposal only; no importable template generated in this step",
+  "media_source": "User-provided SYNC site images recovered from their previous attached Elementor ZIP. Live site blocked by environment proxy despite a granted turn-scoped network permission.",
+  "metform": "External form ID only; field definitions are not embedded in the export. Any form fields in the visual are a proposed arrangement, not a verified rendering."
+}
