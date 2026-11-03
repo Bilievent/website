@@ -1,0 +1,4597 @@
+[
+  {
+    "path": [
+      "content",
+      0,
+      "settings",
+      "background_background"
+    ],
+    "operation": "add",
+    "after": "classic"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_overlay_color_b"
+    ],
+    "operation": "replace",
+    "before": "#0030492E",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_overlay_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=accent"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_overlay_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=131f790"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_overlay_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=0a9ffd1"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "marker_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "words_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "words_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "marker_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "_box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.05)",
+    "after": "rgba(29, 22, 42, 0.05)"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "primary_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "replace",
+    "before": "#FFFFFF",
+    "after": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "marker_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=accent"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "words_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "words_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "marker_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=4da9a17"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "number_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "number_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "description_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "primary_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "description_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "primary_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.05)",
+    "after": "rgba(29, 22, 42, 0.05)"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "_border_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "_border_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "icon_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "icon_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "icon_color_hover"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "text_color_hover"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "arrows_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "dots_inactive_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      3,
+      "settings",
+      "dots_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "button_hover_border_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "hover_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "button_text_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "border_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      0,
+      "elements",
+      1,
+      "elements",
+      1,
+      "elements",
+      4,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "dots_inactive_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=50b2a21"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "dots_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      0,
+      "settings",
+      "arrows_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      0,
+      "settings",
+      "dots_inactive_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      0,
+      "settings",
+      "dots_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=bcaa435"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      1,
+      "settings",
+      "_background_color_b"
+    ],
+    "operation": "add",
+    "after": "#F5F5F700"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      1,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      2,
+      "settings",
+      "__globals__",
+      "_background_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      2,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=bcaa435"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      2,
+      "settings",
+      "_background_color_b"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      1,
+      "elements",
+      2,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F700"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "settings",
+      "__globals__",
+      "background_overlay_color"
+    ],
+    "operation": "remove",
+    "before": ""
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "settings",
+      "__globals__",
+      "background_overlay_color_b"
+    ],
+    "operation": "remove",
+    "before": ""
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=4da9a17"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=0a9ffd1"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "marker_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "words_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "marker_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "words_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "text_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "__globals__",
+      "icon_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "__globals__",
+      "text_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "icon_color_hover"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color_hover"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.07)",
+    "after": "rgba(29, 22, 42, 0.07)"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=accent"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#3A3447"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=9c764db"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "description_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "primary_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "description_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "primary_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.05)",
+    "after": "rgba(29, 22, 42, 0.05)"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=50b2a21"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=9c764db"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "description_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "primary_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "description_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "primary_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      2,
+      "elements",
+      2,
+      "elements",
+      1,
+      "elements",
+      2,
+      "elements",
+      1,
+      "settings",
+      "_box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.05)",
+    "after": "rgba(29, 22, 42, 0.05)"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#FAFAFC"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "marker_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=accent"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "words_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "words_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "marker_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.07)",
+    "after": "rgba(29, 22, 42, 0.07)"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "primary_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "description_color"
+    ],
+    "operation": "add",
+    "after": "#4A4557"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "primary_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      0,
+      "settings",
+      "_box_shadow_box_shadow",
+      "color"
+    ],
+    "operation": "replace",
+    "before": "rgba(0, 0, 0, 0.05)",
+    "after": "rgba(29, 22, 42, 0.05)"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#D8D8E0"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      0,
+      "elements",
+      3,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=2d6a869"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      3,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "settings",
+      "background_background"
+    ],
+    "operation": "add",
+    "after": "classic"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "_background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "_background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "marker_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=accent"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "words_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=primary"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "marker_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "words_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=f130dd2"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=209bfaa"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color_b"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=9c764db"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=f130dd2"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=209bfaa"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color_b"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=9c764db"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=6b0ce64"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#F5F5F7"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=f130dd2"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=209bfaa"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color_b"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=9c764db"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_hover_border_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "hover_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "settings",
+      "background_overlay_color_b"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_overlay_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=f130dd2"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "background_overlay_color_b"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=131f790"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "settings",
+      "background_overlay_color"
+    ],
+    "operation": "add",
+    "after": "#2B203D"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "background_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=b8a96f0"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A00"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "marker_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "title_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=c546c7d"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "__globals__",
+      "words_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=secondary"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "marker_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "words_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      0,
+      "settings",
+      "title_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "text_color"
+    ],
+    "operation": "add",
+    "after": "#FFFFFF"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      1,
+      "settings",
+      "__globals__",
+      "text_color"
+    ],
+    "operation": "remove",
+    "before": "globals/colors?id=fdf12ae"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_hover_border_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "hover_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_text_color"
+    ],
+    "operation": "add",
+    "after": "#1D162A"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "background_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "border_color"
+    ],
+    "operation": "add",
+    "after": "#8F7BB8"
+  },
+  {
+    "path": [
+      "content",
+      4,
+      "elements",
+      1,
+      "elements",
+      0,
+      "elements",
+      2,
+      "settings",
+      "button_background_hover_color"
+    ],
+    "operation": "add",
+    "after": "#C9BCE3"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "element": "591b73ab",
+    "endpoint": "background_overlay_color",
+    "foreground": "#FFFFFF",
+    "lightest_background": "#6B6377",
+    "ratio": 5.71,
+    "role": "text",
+    "minimum": 4.5
+  },
+  {
+    "element": "591b73ab",
+    "endpoint": "background_overlay_color",
+    "foreground": "#C9BCE3",
+    "lightest_background": "#6B6377",
+    "ratio": 3.21,
+    "role": "decorative accent",
+    "minimum": 3
+  },
+  {
+    "element": "591b73ab",
+    "endpoint": "background_overlay_color_b",
+    "foreground": "#FFFFFF",
+    "lightest_background": "#615C6A",
+    "ratio": 6.47,
+    "role": "text",
+    "minimum": 4.5
+  },
+  {
+    "element": "591b73ab",
+    "endpoint": "background_overlay_color_b",
+    "foreground": "#C9BCE3",
+    "lightest_background": "#615C6A",
+    "ratio": 3.63,
+    "role": "decorative accent",
+    "minimum": 3
+  },
+  {
+    "element": "277967ac",
+    "endpoint": "background_overlay_color",
+    "foreground": "#FFFFFF",
+    "lightest_background": "#4B415A",
+    "ratio": 9.53,
+    "role": "text",
+    "minimum": 4.5
+  },
+  {
+    "element": "277967ac",
+    "endpoint": "background_overlay_color",
+    "foreground": "#C9BCE3",
+    "lightest_background": "#4B415A",
+    "ratio": 5.35,
+    "role": "text",
+    "minimum": 4.5
+  },
+  {
+    "element": "277967ac",
+    "endpoint": "background_overlay_color_b",
+    "foreground": "#FFFFFF",
+    "lightest_background": "#3F394A",
+    "ratio": 11.08,
+    "role": "text",
+    "minimum": 4.5
+  },
+  {
+    "element": "277967ac",
+    "endpoint": "background_overlay_color_b",
+    "foreground": "#C9BCE3",
+    "lightest_background": "#3F394A",
+    "ratio": 6.22,
+    "role": "text",
+    "minimum": 4.5
+  }
+]

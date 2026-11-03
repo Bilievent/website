@@ -1,0 +1,12 @@
+{
+  "file": "output/SYNCs-About-Us-7208-Brand-Colors.zip",
+  "bytes": 21374,
+  "sha256": "55deaa5c9ee97e1a5e9366c0bb5a22d674fb06ad69622a3715f3e4f9155c1f3c",
+  "crc_verified": true,
+  "files": [
+    "SYNCs-About-Us-7208-Brand-Colors.json",
+    "import-instructions-ar.md",
+    "palette.json",
+    "qa-report.md"
+  ]
+}

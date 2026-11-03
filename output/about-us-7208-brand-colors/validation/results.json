@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "source": "elementor-7208-2026-11-03.json",
+  "source_sha256": "5b5a2dd018b76a039c612b395e6d0fbd9bd8c9b9dd069f6db0c38e0e0e54152e",
+  "output": "SYNCs-About-Us-7208-Brand-Colors.json",
+  "output_sha256": "5b60c377c0d9f1c2ac6283ccd8ea0e85db640f75ae44700e98d09c18028c323a",
+  "top_level_containers": 5,
+  "elements": 109,
+  "changes": 267,
+  "solid_contrast_checks": 60,
+  "minimum_solid_text_ratio": 4.74,
+  "photo_overlay_endpoint_bounds": 8,
+  "content_layout_media_links_typography_interactions_preserved": true,
+  "widget_types": {
+    "container": 54,
+    "divider": 9,
+    "heading": 16,
+    "animated-headline": 6,
+    "icon-box": 5,
+    "text-editor": 6,
+    "counter": 1,
+    "icon-list": 2,
+    "image-carousel": 2,
+    "button": 3,
+    "spacer": 3,
+    "image": 2
+  },
+  "global_colour_refs_remaining": 0,
+  "native_import_edit_reexport": "not tested: no WordPress staging or installed plugin versions available"
+}
